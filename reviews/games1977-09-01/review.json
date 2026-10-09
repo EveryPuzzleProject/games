@@ -1,0 +1,91 @@
+{
+ "escalate": "",
+ "ready": true,
+ "remaining": "minor",
+ "remaining_note": "The test-solver caption beside the title (Marion Lathrop's comment) was not in the packet, so it could not be added through draft.json; see note.",
+ "note": "Illustrated crossword; kind label 'Illustrated Crossword' printed above the title, puzzle number 1 ('Crossword Puzzle #1' over the grid). Nine clues are pictures (A1, A9, A17, A29, A68, D1, D9, D36, D60), not missing text. Caption printed beside the title, not captured by the packet: 'Marion Lathrop of Middleport, N.Y., grandmother of eight and a retired librarian, attended Skidmore and Wheelock colleges and now solves about 14 crossword puzzles a week. \"I thought this one was fairly easy, but 59 Across was a real stumper.\"' Page intro 'These 16 pages have all kinds of puzzles...' belongs to the Pencilwise section, not this puzzle.",
+ "corrections": {
+  "meta:title": "Armchair Safari",
+  "meta:puzzle_number": "1",
+  "meta:author": "J.L.",
+  "clue:A1": "[picture: a steaming teacup on a saucer]",
+  "clue:A9": "[picture: two hands clinking cocktail glasses]",
+  "clue:A17": "[picture: an elephant, with a small tree in the corner]",
+  "clue:A29": "[picture: two swans on water, necks entwined]",
+  "clue:A68": "[picture: a thin old horse]",
+  "clue:D1": "[picture: a treble clef]",
+  "clue:D9": "[picture: a tuba]",
+  "clue:D36": "[picture: a lightning bolt]",
+  "clue:D60": "[picture: a flower garland around a neck]",
+  "clue:D63": "Wicked"
+ },
+ "sic": {},
+ "regions": {},
+ "confirm": [
+  "clue:A16",
+  "clue:A20",
+  "clue:A53",
+  "clue:A66",
+  "clue:D38"
+ ],
+ "unsure": {},
+ "tool_notes": [
+  {
+   "kind": "false-flag",
+   "target": "clue:A1",
+   "note": "'clue text missing' for A1, A9, A29, A68, D1, D9, D36, D60: all are picture clues in boxed drawings; the OCR found no text because there is none."
+  },
+  {
+   "kind": "heading-in-clue",
+   "target": "clue:A17",
+   "note": "picture clue (elephant) read as '4' with low-ocr-score; not flagged as no-text like the other pictures."
+  },
+  {
+   "kind": "heading-in-clue",
+   "target": "clue:D63",
+   "note": "page number 25 run into the last clue; not removed by the tool."
+  },
+  {
+   "kind": "title-from-ad",
+   "target": "meta:title",
+   "note": "title taken from the grid label 'Crossword Puzzle #1'; the printed title 'Armchair Safari' (under the 'Illustrated Crossword' label, left of the grid) was missed, and no meta:title/meta:byline crop was available."
+  },
+  {
+   "kind": "text-md",
+   "target": "other",
+   "note": "the test-solver caption beside the title (Marion Lathrop's comment) is not in the packet and draft.json has no way to add a caption."
+  },
+  {
+   "kind": "byline",
+   "target": "meta:author",
+   "note": "author 'J.L' lost the final period of 'J.L.'."
+  }
+ ],
+ "checkup": {
+  "grade": "look",
+  "warnings": [
+   {
+    "id": "remaining",
+    "level": "medium",
+    "text": "The reviewer left a minor issue: The test-solver caption beside the title (Marion Lathrop's comment) was not in the packet, so it could not be added through draft.json; see note.",
+    "items": []
+   },
+   {
+    "id": "hard-letters",
+    "level": "medium",
+    "text": "8 answer-key letters were hard to read (the reviewer has checked them).",
+    "items": [
+     "r3c9",
+     "r4c3",
+     "r6c5",
+     "r8c2",
+     "r9c3",
+     "r9c12",
+     "r14c5",
+     "r14c15"
+    ]
+   }
+  ]
+ },
+ "model": "claude-fable-5-1"
+}
