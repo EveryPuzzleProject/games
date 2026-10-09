@@ -1,0 +1,340 @@
+# Fixes for the games harvest. See docs/fixing.md.
+#
+# Puzzle fixes are keyed by xd id (shown on each review page):
+#   [puzzle."gamesYYYY-MM-DD"]
+#   title = "..."
+#   [puzzle."gamesYYYY-MM-DD".clues]
+#   A1 = "..."
+#
+# Page hints are keyed by archive.org item and page (leaf):
+#   [page."<identifier>".34]
+#   clue_page = 33
+
+# ---------------------------------------------------------------------------
+# Puzzle editor. GAMES credits no editor on individual puzzles, but Will
+# Shortz edited its Pencilwise puzzle pages (crosswords and word puzzles).
+# GAMES itself, May/June 1981: "Will Shortz, of the 'Pencilwise' puzzle pages
+# in GAMES". He's credited on every issue from his first to his last masthead
+# appearance; each puzzle's Editor-Source header says so.
+# ---------------------------------------------------------------------------
+[[editor_rule]]
+editor = "Will Shortz"
+masthead_pattern = 'Will\s+Sh[o0]r[tli1][zs2]'
+basis = "Shortz edited the Pencilwise puzzle pages (GAMES, May/June 1981: 'Will Shortz, of the Pencilwise puzzle pages in GAMES')"
+
+# Small grids labelled by hand (2026-09-29, tests/data/games_small_grid_labels.json).
+# Mostly the worked examples from "Cryptic Crosswords for New Solvers", other puzzle
+# types, and answer grids mistaken for puzzles.
+
+[puzzle."games1979-05-01"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1979-07-01"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1979-09-01"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1980-03-01e"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1980-05-01"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1980-05-01c"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1980-05-01f"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1980-07-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1980-09-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1980-11-01b"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1981-01-01e"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1981-03-01b"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1981-05-01c"]
+skip = "not a puzzle (labelled by hand)"
+
+[puzzle."games1981-05-01f"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1981-05-01h"]
+skip = "an answer grid, not a puzzle (labelled by hand)"
+
+[puzzle."games1981-07-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1981-09-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1981-11-01"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1981-11-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1982-01-01f"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1982-03-01c"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1982-05-01e"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1982-07-01c"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1982-09-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1982-10-01e"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1982-11-01b"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1982-12-01c"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-01-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-02-01c"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-03-01e"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-04-01"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1983-04-01g"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-05-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-05-01e"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-06-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-07-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-08-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-09-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-10-01c"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-11-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1983-12-01c"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1984-03-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1984-04-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1984-05-01c"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1984-05-01e"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1984-06-01c"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1984-06-01e"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1984-07-01c"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1984-08-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1984-09-01c"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1984-10-01d"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1984-10-01e"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1984-10-01f"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1984-11-01f"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1984-12-01"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1985-02-01e"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1985-03-01d"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1985-03-01e"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1985-04-01g"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1985-04-01j"]
+skip = "an answer grid, not a puzzle (labelled by hand)"
+
+[puzzle."games1985-04-01k"]
+skip = "an answer grid, not a puzzle (labelled by hand)"
+
+[puzzle."games1985-06-01g"]
+skip = "an answer grid, not a puzzle (labelled by hand)"
+
+[puzzle."games1985-07-01f"]
+skip = "an answer grid, not a puzzle (labelled by hand)"
+
+[puzzle."games1985-07-01g"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1985-08-01f"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1985-10-01c"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1986-01-01g"]
+skip = "an answer grid, not a puzzle (labelled by hand)"
+
+[puzzle."games1986-02-01f"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1986-02-01g"]
+skip = "an answer grid, not a puzzle (labelled by hand)"
+
+[puzzle."games1986-02-01h"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1986-05-01d"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1986-05-01e"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1987-10-01g"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1987-10-01h"]
+skip = "an answer grid, not a puzzle (labelled by hand)"
+
+[puzzle."games1988-03-01g"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1988-05-01d"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1988-05-01f"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1988-05-01j"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1988-05-01k"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1988-07-01h"]
+skip = "an answer grid, not a puzzle (labelled by hand)"
+
+[puzzle."games1988-09-01f"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1988-09-01h"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1989-02-01h"]
+skip = "an answer grid, not a puzzle (labelled by hand)"
+
+[puzzle."games1989-04-01f"]
+skip = "cryptic (out of scope; labelled by hand)"
+
+[puzzle."games1989-04-01g"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1989-10-01h"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1992-10-01c"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1992-10-01d"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1992-10-01e"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1992-10-01f"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1993-08-01e"]
+skip = "an answer grid, not a puzzle (labelled by hand)"
+
+[puzzle."games1997-10-01d"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1997-10-01e"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+[puzzle."games1997-10-01f"]
+skip = "not a crossword: another puzzle type (labelled by hand)"
+
+# Grids labelled crossword, checked against the full page.
+
+[puzzle."games1987-06-01c"]
+title = "1924 Test of Wits"
+author = "F. Gregory Hartswick"
+note = "Reprint of a puzzle from the world's first crossword contest (1924). GAMES: 'This recently discovered puzzle appeared in the world's first crossword contest (see box)'; the box is headed 'Could You Have Been Crossword Champion of the World?'."
+
+# Siamese Twins: two grids, and each clue number has two clues with different
+# answers; the solver decides which grid each answer goes in. To do: split into
+# two puzzles, each clue paired with the answer it fits (from the answer key).
+[puzzle."games1983-05-01c"]
+note = "Printed as 'Siamese Twins': two grids for the price of one, each clue number followed by two different clues; the solver decides which grid each answer belongs in."
+
+[puzzle."games1989-03-01"]
+skip = "a crossword embedded in a larger puzzle (labelled by hand)"
+
+[puzzle."games1982-01-01c"]
+skip = "cross-number / logic puzzle: numbers, not words (labelled by hand)"
+
+[puzzle."games1985-05-01c"]
+skip = "cross-number / logic puzzle: numbers, not words (labelled by hand)"
+
+[puzzle."games1988-03-01f"]
+skip = "cross-number / logic puzzle: numbers, not words (labelled by hand)"
+
+[puzzle."games1989-06-01e"]
+skip = "cross-number / logic puzzle: numbers, not words (labelled by hand)"
+
+[puzzle."games1987-08-01b"]
+note = "Meta: 'First solve this crossword puzzle. Then rearrange the letters in the six shaded squares to spell a word, which is your final answer. (Any rearrangement of the letters that spells a familiar word is acceptable.)' Shaded squares not yet marked in the grid."
