@@ -22,6 +22,14 @@ editor = "Will Shortz"
 masthead_pattern = 'Will\s+Sh[o0]r[tli1][zs2]'
 basis = "Shortz edited the Pencilwise puzzle pages (GAMES, May/June 1981: 'Will Shortz, of the Pencilwise puzzle pages in GAMES')"
 
+# ---------------------------------------------------------------------------
+# OCR hints for GAMES's layout. Each puzzle's heading is a block of display type in its
+# panel, often beside the grid ("Illustrated Crossword / Armchair Safari"), with the series
+# label ("Crossword Puzzle #1") above the grid: read the block (xword-ocr docs/fixing.md).
+# ---------------------------------------------------------------------------
+[ocr]
+heading_blocks = true
+
 # Small grids labelled by hand (2026-09-29, tests/data/games_small_grid_labels.json).
 # Mostly the worked examples from "Cryptic Crosswords for New Solvers", other puzzle
 # types, and answer grids mistaken for puzzles.
