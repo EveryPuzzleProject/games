@@ -338,3 +338,26 @@ skip = "cross-number / logic puzzle: numbers, not words (labelled by hand)"
 
 [puzzle."games1987-08-01b"]
 note = "Meta: 'First solve this crossword puzzle. Then rearrange the letters in the six shaded squares to spell a word, which is your final answer. (Any rearrangement of the letters that spells a familiar word is acceptable.)' Shaded squares not yet marked in the grid."
+
+# ---------------------------------------------------------------------------
+# Harvest checkpoint decisions (xword-ocr checkpoint --out harvests/games).
+# ---------------------------------------------------------------------------
+[checkpoint."no-puzzle:games-magazine-book-of-wacky-wordies"]
+answer = "no crossword"
+note = "A GAMES book of Wacky Wordies (picture-word puzzles), not a magazine issue; none of its 100 pages mentions a crossword (checked 2026-10-13)."
+
+[checkpoint."missing-issue:1990-03-01:1991-07-01"]
+answer = "not in the scans"
+note = "archive.org has no GAMES issues for these months, in games_magazine or elsewhere (searched by title, identifier and 'Pencilwise'/'Will Shortz', 2026-10-13); only GAMES book compilations, a possible later source."
+
+[checkpoint."missing-issue:1993-08-01:1995-10-01"]
+answer = "not in the scans"
+note = "archive.org has no GAMES issues for these months, in games_magazine or elsewhere (searched by title, identifier and 'Pencilwise'/'Will Shortz', 2026-10-13); only GAMES book compilations, a possible later source."
+
+[checkpoint."missing-issue:1995-10-01:1997-02-01"]
+answer = "not in the scans"
+note = "archive.org has no GAMES issues for these months, in games_magazine or elsewhere (searched by title, identifier and 'Pencilwise'/'Will Shortz', 2026-10-13); only GAMES book compilations, a possible later source."
+
+[checkpoint."missing-issue:1998-02-01:1999-10-01"]
+answer = "not in the scans"
+note = "archive.org has no GAMES issues for these months, in games_magazine or elsewhere (searched by title, identifier and 'Pencilwise'/'Will Shortz', 2026-10-13); only GAMES book compilations, a possible later source."
