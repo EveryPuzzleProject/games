@@ -22,6 +22,14 @@ editor = "Will Shortz"
 masthead_pattern = 'Will\s+Sh[o0]r[tli1][zs2]'
 basis = "Shortz edited the Pencilwise puzzle pages (GAMES, May/June 1981: 'Will Shortz, of the Pencilwise puzzle pages in GAMES')"
 
+# ---------------------------------------------------------------------------
+# OCR hints for GAMES's layout. Each puzzle's heading is a block of display type in its
+# panel, often beside the grid ("Illustrated Crossword / Armchair Safari"), with the series
+# label ("Crossword Puzzle #1") above the grid: read the block (xword-ocr docs/fixing.md).
+# ---------------------------------------------------------------------------
+[ocr]
+heading_blocks = true
+
 # Small grids labelled by hand (2026-09-29, tests/data/games_small_grid_labels.json).
 # Mostly the worked examples from "Cryptic Crosswords for New Solvers", other puzzle
 # types, and answer grids mistaken for puzzles.
@@ -338,3 +346,26 @@ skip = "cross-number / logic puzzle: numbers, not words (labelled by hand)"
 
 [puzzle."games1987-08-01b"]
 note = "Meta: 'First solve this crossword puzzle. Then rearrange the letters in the six shaded squares to spell a word, which is your final answer. (Any rearrangement of the letters that spells a familiar word is acceptable.)' Shaded squares not yet marked in the grid."
+
+# ---------------------------------------------------------------------------
+# Harvest checkpoint decisions (xword-ocr checkpoint --out harvests/games).
+# ---------------------------------------------------------------------------
+[checkpoint."no-puzzle:games-magazine-book-of-wacky-wordies"]
+answer = "no crossword"
+note = "A GAMES book of Wacky Wordies (picture-word puzzles), not a magazine issue; none of its 100 pages mentions a crossword (checked 2026-10-13)."
+
+[checkpoint."missing-issue:1990-03-01:1991-07-01"]
+answer = "not in the scans"
+note = "archive.org has no GAMES issues for these months, in games_magazine or elsewhere (searched by title, identifier and 'Pencilwise'/'Will Shortz', 2026-10-13); only GAMES book compilations, a possible later source."
+
+[checkpoint."missing-issue:1993-08-01:1995-10-01"]
+answer = "not in the scans"
+note = "archive.org has no GAMES issues for these months, in games_magazine or elsewhere (searched by title, identifier and 'Pencilwise'/'Will Shortz', 2026-10-13); only GAMES book compilations, a possible later source."
+
+[checkpoint."missing-issue:1995-10-01:1997-02-01"]
+answer = "not in the scans"
+note = "archive.org has no GAMES issues for these months, in games_magazine or elsewhere (searched by title, identifier and 'Pencilwise'/'Will Shortz', 2026-10-13); only GAMES book compilations, a possible later source."
+
+[checkpoint."missing-issue:1998-02-01:1999-10-01"]
+answer = "not in the scans"
+note = "archive.org has no GAMES issues for these months, in games_magazine or elsewhere (searched by title, identifier and 'Pencilwise'/'Will Shortz', 2026-10-13); only GAMES book compilations, a possible later source."
