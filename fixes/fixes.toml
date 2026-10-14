@@ -369,3 +369,8 @@ note = "archive.org has no GAMES issues for these months, in games_magazine or e
 [checkpoint."missing-issue:1998-02-01:1999-10-01"]
 answer = "not in the scans"
 note = "archive.org has no GAMES issues for these months, in games_magazine or elsewhere (searched by title, identifier and 'Pencilwise'/'Will Shortz', 2026-10-13); only GAMES book compilations, a possible later source."
+
+[assembly]
+# A grid the harvest turned down (its clues didn't line up) is kept as a puzzle when an unclaimed
+# answer key matches its black squares exactly. Clue trouble is then a flag on the puzzle.
+rescue_keyed_grids = true
