@@ -1,0 +1,52 @@
+{
+ "id": "games-1979-03-01-2",
+ "aliases": [
+  "games1979-03-01",
+  "games1979-03-01-L032"
+ ],
+ "xdid": "games1979-03-01",
+ "issue": "1979-03-01",
+ "date": "1979-03-01",
+ "grid": {
+  "unit": "ia:games-10-1979-march/0028",
+  "extract": "sha256:e882f45789bd120492a0648d10605360fd0e60fd8d6c46a858a9a2dec5d00f51",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-March-April-1979-images/0032",
+   "extract": "sha256:414520abbcc8963e3822248d14230573260776e7a72cc76584e88a2ac2ed3138"
+  }
+ ],
+ "reading": "sha256:cc26fb69a2f0c3da884866774ce013b1b69af72663865038c7fcb7fcaf6537c6",
+ "key": {
+  "unit": "ia:games-10-1979-march/0063",
+  "extract": "sha256:db4c922940dddb5125138d47bb18f01856af5a30328e09cff0a7319691c9feb5",
+  "solution_id": "games-10-1979-march/63#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   63,
+   "its page says the answers are on page 62"
+  ],
+  [
+   64,
+   "its page says the answers are on page 63"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-March-April-1979-images/page/n32/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c12 r3c6 r6c4 r8c2 r9c2 r11c10 r11c11 r13c6"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:f53b39e7a25b4c9718e1171b69ce75d1198bf010ea03e792f14955f966c51197"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "games-1993-06-01-4",
+ "aliases": [
+  "games1993-06-01d",
+  "games1993-06-01-L038"
+ ],
+ "xdid": "games1993-06-01d",
+ "issue": "1993-06-01",
+ "date": "1993-06-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-June-1993-images/0038",
+  "extract": "sha256:1d6b4439ffa360422176382494001618ba547757ef89e2e5de827c38aeb65abe",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-June-1993-images/0037",
+  "extract": "sha256:18d998ee4b7633859342d3fa8f819bb353122ad2b1a90baa8929ecd7a4c0d46c"
+ },
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:b1513131b86ebd739981b9332e0c5883b601d4a77082efca0a2d9abc4d5d18ae",
+ "key": {
+  "unit": "ia:Games-Magazine-June-1993-images/0041",
+  "extract": "sha256:99b447bc4b6d6f8769e36919f6f074e4403076425fd74af9869c5763196cd1b8",
+  "solution_id": "Games-Magazine-June-1993-images/41#1",
+  "how": "recovered"
+ },
+ "answer_pages": [
+  [
+   41,
+   "its page says the answers are on page 40"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c13 r1c15 r3c19 r8c25 r9c24 r12c2 r16c20 r18c4 r20c22"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:76b5dc1af2caddd3c10b842803888a30766caca2e17a955f4f8c7c1b1a91907f"
+}

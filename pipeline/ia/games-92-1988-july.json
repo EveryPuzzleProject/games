@@ -1,0 +1,4240 @@
+{
+ "ia:games-92-1988-july/0026": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a",
+    "ocr": "sha256:be639b27daca39e170cfa87f4e3c30fd5e0380f15f40d0edb1b08cb0456f325b"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0026.analysis.v4.pkl",
+   "output": "sha256:920b0c9bbd98c5ad63a3a236b37f892806bed9c501badd76e21dac4b9880825a",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:44+00:00",
+   "output": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0026.ocr.json",
+   "output": "sha256:be639b27daca39e170cfa87f4e3c30fd5e0380f15f40d0edb1b08cb0456f325b",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0026#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0026.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0026#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0026.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0026#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:33:33+00:00",
+   "note": "adopted leaf0026.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0026#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0026.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0026#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0026.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0026#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0026.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0026#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0026.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0026#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0026.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0026#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0026.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0026#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0026.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0026#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:77b970ab99ed9a2d4d3cb2e02c99fbcc8658b4731909c120cebb74358779bf4a"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0026.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0028": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8",
+    "ocr": "sha256:fac58a42674fced914cca9029e24cb9d7598de8510759e867ad61e27c978d5ab"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0028.analysis.v4.pkl",
+   "output": "sha256:3d55b51db7f290a308c84f5409427cc6fa8c35e35aa988721c32dbfd45ac0cd6",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:44+00:00",
+   "output": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0028.ocr.json",
+   "output": "sha256:fac58a42674fced914cca9029e24cb9d7598de8510759e867ad61e27c978d5ab",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0028#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0028.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0028#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:33:20+00:00",
+   "note": "adopted leaf0028.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0028#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:33:33+00:00",
+   "note": "adopted leaf0028.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0028#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0028.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0028#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0028.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0028#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0028.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0028#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0028.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0028#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0028.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0028#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0028.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0028#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0028.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0028#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1a5346a4567cd45a73f1c883b21fbaef2c48cfca1a867eaa9cec18460d63b6d8"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0028.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0033": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1",
+    "ocr": "sha256:aa4dcf27dd06dc5868b1a89c0c09b9bd72fc0c57c16844ff94887fec4b64045f"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0033.analysis.v4.pkl",
+   "output": "sha256:c9a7d27fb0cfd2e92b217fe7fe05d63922593a76be29f66335cbc08fe1ea7a64",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:44+00:00",
+   "output": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0033.ocr.json",
+   "output": "sha256:aa4dcf27dd06dc5868b1a89c0c09b9bd72fc0c57c16844ff94887fec4b64045f",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0033#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0033.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0033#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0033.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0033#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:33:33+00:00",
+   "note": "adopted leaf0033.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0033#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0033.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0033#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0033.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0033#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0033.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0033#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0033.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0033#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0033.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0033#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0033.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0033#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0033.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0033#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8577b65920e74e63d3cf289a33fa501210c3d48ae80a74c8705df0d54e7289b1"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0033.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0037": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f",
+    "ocr": "sha256:ccc9ade7d630b844bee1dbb97e18527a49945f05c9b2d46a9028936955039328"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0037.analysis.v4.pkl",
+   "output": "sha256:e4eeab6abbad0c2e4b40c014bb397e1218b425238148082b5f0467f8fe345fc2",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:44+00:00",
+   "output": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0037.ocr.json",
+   "output": "sha256:ccc9ade7d630b844bee1dbb97e18527a49945f05c9b2d46a9028936955039328",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0037#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0037.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0037#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0037.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0037#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:33:33+00:00",
+   "note": "adopted leaf0037.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0037#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0037.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0037#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0037.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0037#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0037.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0037#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0037.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0037#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0037.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0037#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0037.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0037#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0037.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0037#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:748012457d423bb311ccc684633c70ec0ca965564952f5c6495a25a95c08359f"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0037.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0040": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0040.analysis.v4.pkl",
+   "output": "sha256:63ddfe402cac0fba1db60fb65f186fc0234f099e59d753649293c401cb32fe15",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:44+00:00",
+   "output": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0040#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0040.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0040#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0040.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0040#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0040.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0040#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0040.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0040#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0040.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0040#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0040.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0040#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0040.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0040#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0040.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0040#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0040.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0040#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0040.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0040#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:077405fa3faa2c6f4b24cd796bcb1d56265cfff9b1536afc340fe98da9cc5b45"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0040.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0041": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d",
+    "ocr": "sha256:ab854edae2f0db6871510ee1bd6069c93b6c9a5752e6e33f1d07d89012970e7f"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0041.analysis.v4.pkl",
+   "output": "sha256:82e61d972d9a7d0debcb96eb617b1e8c4a18cc4b4a0f1fc4bbd5adaf2dfb4531",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:44+00:00",
+   "output": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0041.ocr.json",
+   "output": "sha256:ab854edae2f0db6871510ee1bd6069c93b6c9a5752e6e33f1d07d89012970e7f",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0041#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0041.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0041#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0041.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0041#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:33:33+00:00",
+   "note": "adopted leaf0041.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0041#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0041.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0041#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0041.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0041#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0041.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0041#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0041.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0041#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0041.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0041#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0041.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0041#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0041.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0041#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a7d8061c0707254bf6b47dd026866e19fcbbc8c5cb78cebfa8acd15c9999cd1d"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0041.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0042": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45",
+    "ocr": "sha256:c7f7c08e2cd15317d242062fdbdd9137cc252f57dbc6e495272f352cde078d8c"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0042.analysis.v4.pkl",
+   "output": "sha256:026f1c09daadb460af90cf24281e6a6b54c8877687124aaa6175d3594e838f86",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:44+00:00",
+   "output": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0042.ocr.json",
+   "output": "sha256:c7f7c08e2cd15317d242062fdbdd9137cc252f57dbc6e495272f352cde078d8c",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0042#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0042.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0042#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0042.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0042#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0042.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0042#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0042.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0042#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0042.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0042#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0042.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0042#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0042.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0042#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0042.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0042#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0042.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0042#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0042.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0042#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a0270b2aa61dbc18c287038e0ee6977a80832906d8ec89f108540de2da9dfa45"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0042.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0043": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92",
+    "ocr": "sha256:f4c6374086332613128b18d1b26ec89e1eafa0de9635b59838c9233a043e6eac"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0043.analysis.v4.pkl",
+   "output": "sha256:f317421589bc4357aee5b4681e2d1fd596331a5c88ae381fdd8d90e5b1e656b6",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:44+00:00",
+   "output": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0043.ocr.json",
+   "output": "sha256:f4c6374086332613128b18d1b26ec89e1eafa0de9635b59838c9233a043e6eac",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0043#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0043.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0043#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0043.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0043#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:33:33+00:00",
+   "note": "adopted leaf0043.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0043#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0043.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0043#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0043.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0043#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0043.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0043#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0043.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0043#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0043.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0043#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0043.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0043#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0043.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0043#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:04fc1fe32265aa3b4cbfc39e7d81cb40e6a757de8fa0cb3abc76f3f671df7b92"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0043.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0044": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4",
+    "ocr": "sha256:3fc09404d6499a03694adec1217676c6a38177a91be6cd7af7cd4b7783125a05"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0044.analysis.v4.pkl",
+   "output": "sha256:5084af9a08d1f5381b487d10da8f10d1cbcc9b3411172abd823df0ae01e4f4f5",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:44+00:00",
+   "output": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0044.ocr.json",
+   "output": "sha256:3fc09404d6499a03694adec1217676c6a38177a91be6cd7af7cd4b7783125a05",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0044#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0044.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0044#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0044.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0044#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0044.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0044#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0044.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0044#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0044.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0044#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0044.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0044#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0044.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0044#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0044.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0044#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0044.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0044#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0044.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0044#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:257167e80234391f72ee3628ae11f791c41d48b06b8feea2c229f23c22886ef4"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0044.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0045": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0045.analysis.v4.pkl",
+   "output": "sha256:3ff2214ea3581d3555d547459ce3b6645b806f6c40f2ead1397bd12bf437d5b8",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:44+00:00",
+   "output": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0045#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0045.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0045#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0045.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0045#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:33:33+00:00",
+   "note": "adopted leaf0045.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0045#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0045.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0045#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0045.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0045#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0045.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0045#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0045.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0045#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0045.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0045#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0045.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0045#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0045.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0045#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3ee2e73b846a7b8f4428b49f3543afe16954c0ccc40df8d78d80ceedca35830"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0045.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0046": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:30:44+00:00",
+   "note": "adopted leaf0046.analysis.v4.pkl",
+   "output": "sha256:34e372af01640ad941ffa48aa6a971edee3dad5d855fbeec27c71a0b2c01e09c",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:44+00:00",
+   "output": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0046#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0046.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0046#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0046.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0046#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0046.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0046#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0046.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0046#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0046.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0046#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0046.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0046#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0046.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0046#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0046.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0046#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0046.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0046#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0046.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0046#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e79aeec99a1a5bed629dcc2cddcf2a3669657beb9c92d3a6c0ab2e93a1ba48c6"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0046.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0048": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443",
+    "ocr": "sha256:3dc916ab0c61c4a17cbf2435b4f96a6e4faff87908b3ad61114878d2f5c4cbcc"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0048.analysis.v4.pkl",
+   "output": "sha256:a842274ccff9ffa5c85432848d50a341ba9c75ece7aebd4a4e3bcd8aa6a0ad5e",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0048.ocr.json",
+   "output": "sha256:3dc916ab0c61c4a17cbf2435b4f96a6e4faff87908b3ad61114878d2f5c4cbcc",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0048#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0048.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0048#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0048.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0048#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0048.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0048#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0048.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0048#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0048.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0048#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0048.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0048#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0048.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0048#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0048.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0048#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0048.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0048#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0048.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0048#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9d7b84ca1d7ae5deb1cc4b5a53e01c129b10d3eb463c529f9e4fefc5ac241443"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0048.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0050": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361",
+    "ocr": "sha256:5e489f39d203dafae741a212f905778f2790d704c121ee747d6e965e1fb7107f"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0050.analysis.v4.pkl",
+   "output": "sha256:0ec99960209edb92f789cb21c8962dd9f8328c60a17dfb12c906bcbe282f6542",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0050.ocr.json",
+   "output": "sha256:5e489f39d203dafae741a212f905778f2790d704c121ee747d6e965e1fb7107f",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0050#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0050.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0050#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0050.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0050#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0050.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0050#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0050.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0050#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0050.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0050#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0050.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0050#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0050.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0050#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0050.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0050#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0050.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0050#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0050.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0050#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3ee9aa6223ca478fdb5839de057278ef48145a911acf23df2288beed243eb361"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0050.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0051": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b",
+    "ocr": "sha256:95886960eaa78a42b959260ad45052c29afbcd3180f98e2f9dd7760f39db562f"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0051.analysis.v4.pkl",
+   "output": "sha256:b1ce6c10c02a44b91c0279143c4eaf3aeb830649634a4ef786f5761482b7c8ca",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0051.ocr.json",
+   "output": "sha256:95886960eaa78a42b959260ad45052c29afbcd3180f98e2f9dd7760f39db562f",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0051#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0051.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0051#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0051.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0051#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0051.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0051#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0051.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0051#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0051.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0051#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0051.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0051#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0051.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0051#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0051.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0051#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0051.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0051#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0051.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0051#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5369a80b796e97923deb8631e687ed567f39c40ddbdf0accb438cae8850d398b"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0051.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0052": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a43ead2e3532d0d3658b61ca71675733657031dcda298907d4dcf9f000d0e415"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0052.analysis.v4.pkl",
+   "output": "sha256:d302c90b711ad56e50fbb27962df3ee825dd14249725862ef00609c88e0ed52c",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:a43ead2e3532d0d3658b61ca71675733657031dcda298907d4dcf9f000d0e415",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0053": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:0f3173091f7bb992fc9357ddfeafd1adecd2206649558b56b368425520acbdba"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0053.analysis.v4.pkl",
+   "output": "sha256:8118a297bf1b556d67c9eede786f208e7509125d20b6782d9b6616bd556dd4a7",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:0f3173091f7bb992fc9357ddfeafd1adecd2206649558b56b368425520acbdba",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0054": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48",
+    "ocr": "sha256:386e4dfec08ee7afbd79b6ed0c17d46e3cf1f15dc1e991f6198480e8b1a427ff"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0054.analysis.v4.pkl",
+   "output": "sha256:e6af3b22eee1448c4e6a93f5921dcafb4dfb6d57294ef3f4563939596629bd29",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0054.ocr.json",
+   "output": "sha256:386e4dfec08ee7afbd79b6ed0c17d46e3cf1f15dc1e991f6198480e8b1a427ff",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:games-92-1988-july/0054#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0054.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0054#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0054.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0054#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0054.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0054#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0054.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0054#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0054.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0054#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0054.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0054#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0054.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0054#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0054.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0054#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0054.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0054#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0054.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0054#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a5984a7571bb47b615348d40202266cc5c64d7cdf281add1e277168eab11c48"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0054.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0055": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:779fa295b4857c3c9979d5e734c87378a72310a28749f65076c4c0ac12959352"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0055.analysis.v4.pkl",
+   "output": "sha256:e681fc96ec7573bfd15c3664b19677a45a31f65835c1d8fb8eff56add3a0d9e0",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:779fa295b4857c3c9979d5e734c87378a72310a28749f65076c4c0ac12959352",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0070": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:0c92bdf61394dcc7577ca95fefd77017e33f90fc2e9d731d04e42f9ad8ba0be1"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0070.analysis.v4.pkl",
+   "output": "sha256:39dffa65cb26401dae5f28c6e00608fbcd0423914fbd5262b086af5d2b64af52",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:0c92bdf61394dcc7577ca95fefd77017e33f90fc2e9d731d04e42f9ad8ba0be1",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0071": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:234a5d108bd172675a930f0c45a6aa8021c4107f6a4d1a1cdf0a2724e470b78d"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0071.analysis.v4.pkl",
+   "output": "sha256:a8994c06715fba92c379ae9f6be60dc82448864e17008a84483292d9f584e3d9",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:234a5d108bd172675a930f0c45a6aa8021c4107f6a4d1a1cdf0a2724e470b78d",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0072": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e76ec4b4fbcbbe9a71d303282abe7f620c44452020f4a989150ad56a436c0d24"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0072.analysis.v4.pkl",
+   "output": "sha256:9dd4525303417f55b71e788cffc45b91943f372409db6bd4ce1af86d0253d8f5",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:e76ec4b4fbcbbe9a71d303282abe7f620c44452020f4a989150ad56a436c0d24",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0073": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0073.analysis.v4.pkl",
+   "output": "sha256:651d336a4652ad06b90117fa5154576353dfa808bd56d48295be9d8da8775313",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0073#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0073.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0073#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0073.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0073#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0073.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0073#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0073.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0073#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0073.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0073#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0073.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0073#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0073.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0073#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0073.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0073#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0073.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0073#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0073.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0073#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad882592e23004f6c9579140ee193974b698ad8fe36717fd2a42754f8282a73c"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0073.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0074": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0074.analysis.v4.pkl",
+   "output": "sha256:985aa8232908959e90a8336db0343f65caeec62c33e260cdf6bd5d741ab2abca",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0074#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0074.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0074#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0074.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0074#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0074.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0074#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0074.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0074#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0074.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0074#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0074.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0074#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0074.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0074#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0074.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0074#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0074.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0074#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0074.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0074#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6a6d0dfc4e6f403737cf80691fb4e16253a34627fcb878a1e6e4bb58a9b168"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0074.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0075": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ccbac1a9fc4879548aba21259dddfcd1a19c1ad1312e16a1a17f9229cae64d2e"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0075.analysis.v4.pkl",
+   "output": "sha256:0562283bae848986561b820a3244e25bf4ee98611bf03c0147ea7c8f962b2848",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:ccbac1a9fc4879548aba21259dddfcd1a19c1ad1312e16a1a17f9229cae64d2e",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0076": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0076.analysis.v4.pkl",
+   "output": "sha256:9dac95e9be8f3198487f9c4cb13b8209c2fa618b565635e6a35afbee9a8a1b6f",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0076#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0076.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0076#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0076.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0076#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0076.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0076#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0076.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0076#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0076.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0076#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0076.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0076#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0076.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0076#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0076.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0076#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0076.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0076#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0076.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0076#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e2f2c35eb8fe5dfa0b1792a458c7468bff27430cabbb4d9d78e48538e1561e91"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0076.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0077": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:30:45+00:00",
+   "note": "adopted leaf0077.analysis.v4.pkl",
+   "output": "sha256:94d9ec008deaece189adacb9fa55da5d97d76a5c404856347783e1dfbb7c9345",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:30:45+00:00",
+   "output": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:games-92-1988-july/0077#key-13b72b5fe689": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:33:24+00:00",
+   "note": "adopted leaf0077.key-13b72b5fe689.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0077#key-24ca987a9b08": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:33:21+00:00",
+   "note": "adopted leaf0077.key-24ca987a9b08.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0077#key-2bf4312bce98": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:33:34+00:00",
+   "note": "adopted leaf0077.key-2bf4312bce98.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0077#key-5f1b7c703607": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:33:32+00:00",
+   "note": "adopted leaf0077.key-5f1b7c703607.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0077#key-644aeeea87cf": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:33:22+00:00",
+   "note": "adopted leaf0077.key-644aeeea87cf.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0077#key-8504662efd8e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:33:28+00:00",
+   "note": "adopted leaf0077.key-8504662efd8e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0077#key-90984fc1696e": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:33:23+00:00",
+   "note": "adopted leaf0077.key-90984fc1696e.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0077#key-aac8ef618179": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:33:31+00:00",
+   "note": "adopted leaf0077.key-aac8ef618179.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0077#key-d36859ce9d24": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:33:29+00:00",
+   "note": "adopted leaf0077.key-d36859ce9d24.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0077#key-e72c468615b5": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:33:27+00:00",
+   "note": "adopted leaf0077.key-e72c468615b5.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:games-92-1988-july/0077#key-f2251c221b23": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d36f7b02525e2bbf341324d9404d48daa664a5d380d935f3c4c6388c62ed2b45"
+   },
+   "made": "2026-10-14T19:33:26+00:00",
+   "note": "adopted leaf0077.key-f2251c221b23.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ }
+}

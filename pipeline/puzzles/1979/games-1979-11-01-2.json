@@ -1,0 +1,51 @@
+{
+ "id": "games-1979-11-01-2",
+ "aliases": [
+  "games1979-11-01c",
+  "games1979-11-01-L072"
+ ],
+ "xdid": "games1979-11-01c",
+ "issue": "1979-11-01",
+ "date": "1979-11-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-November-December-1979-images/0072",
+  "extract": "sha256:bba70951c43fba55bc223def3961c5cdf3962eabe0d3e04d3fecf45d8b39d292",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-November-December-1979-images/0071",
+  "extract": "sha256:3b8f8bd8213674eef07dc57b3bcf4eb0c39f1e80c240bf24ac0fe2c9b776ef22"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-14-1979-november/0072",
+   "extract": "sha256:8048435b7e4a14d8d67d042e718556ab7a792d203ad5dec8bbb5f9daef8e9bba"
+  }
+ ],
+ "reading": "sha256:36aced9488e6e81c034b42e4734d7a2cbb0c935282d342826686a1350c8d3f46",
+ "key": {
+  "unit": "ia:Games-Magazine-November-December-1979-images/0109",
+  "extract": "sha256:999acb302dead6be763028d0affc2361bb88e1d53dcccecabb3f5d817a0a38d8",
+  "solution_id": "Games-Magazine-November-December-1979-images/109#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   109,
+   "its page says the answers are on page 108"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-14-1979-november/page/n72/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r3c9 r4c2 r4c5 r6c8 r6c22 r8c4 r8c22 r18c4 r20c4 r22c22 r24c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:06dd33716f47238ca1bd05ef06bb9d561994b2892151dc2138cf4d953ae52376"
+}

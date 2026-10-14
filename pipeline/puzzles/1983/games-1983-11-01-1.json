@@ -1,0 +1,42 @@
+{
+ "id": "games-1983-11-01-1",
+ "aliases": [
+  "games1983-11-01c",
+  "games1983-11-01-L050"
+ ],
+ "xdid": "games1983-11-01c",
+ "issue": "1983-11-01",
+ "date": "1983-11-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-November-1983-images/0050",
+  "extract": "sha256:8b12e4ca7e60d7893f0e2a9a8ee84b75ae10f96457eea75670bebd69fbc3fd98",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-45-1983-november/0050",
+   "extract": "sha256:f07438ee9a673c13164bea9ad6aeb7f8388499f5427a74ff9b4e3df285fb49cc"
+  }
+ ],
+ "reading": "sha256:263bf2eebef91e7aafefd5c0eb295dbf8dbbc54c8e64d4ff12d392305abd0fcc",
+ "key": {
+  "unit": "ia:Games-Magazine-November-1983-images/0079",
+  "extract": "sha256:97301cc67a5fdbe3472f379d430fe25fe90e53b57aaba9065abd2cdf4bfe52bf",
+  "solution_id": "Games-Magazine-November-1983-images/79#1",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-45-1983-november/page/n50/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c21 r5c8 r6c7 r7c3 r8c2 r9c1 r11c6 r12c2 r14c17 r16c8"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:aac664c87edfa0852b59bfc1e1548a014968d7028f9e6a50ca2c8a4f3fa3ce85"
+}

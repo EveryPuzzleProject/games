@@ -1,0 +1,51 @@
+{
+ "id": "games-1979-09-01-1",
+ "aliases": [
+  "games1979-09-01d",
+  "games1979-09-01-L064"
+ ],
+ "xdid": "games1979-09-01d",
+ "issue": "1979-09-01",
+ "date": "1979-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September-October-1979-images/0064",
+  "extract": "sha256:a10d156d23f7cb789d7f8c91d52a9f0a97352aa62d2c8e0c0847607db9c4c515",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-September-October-1979-images/0063",
+  "extract": "sha256:ec0f61b16387b4824238a1ff4e3bb4919c9effe96d4a551667caf5bad9487e60"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-13-1979-september/0060",
+   "extract": "sha256:a24547d2a14dd6b6a6745230d39a5e702773150d60764621975cd441f9e169f0"
+  }
+ ],
+ "reading": "sha256:c99165ecfa4e0540b07e1cc9992990fab07b16427a9bab66d94d29258426bfd4",
+ "key": {
+  "unit": "ia:Games-Magazine-September-October-1979-images/0096",
+  "extract": "sha256:4830e337d1b14d2301d7bd9f73c9be6cc8f74ea3e8d4772ea043c9aeb5e4f5ed",
+  "solution_id": "Games-Magazine-September-October-1979-images/96#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   96,
+   "its page says the answers are on page 75"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-13-1979-september/page/n60/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c5 r4c12 r4c19 r5c11 r9c2 r13c12 r15c3 r21c7"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:15126c3c9e2e91022fe904eb6c9e12773865809c6c6db867c819face4f315c8a"
+}

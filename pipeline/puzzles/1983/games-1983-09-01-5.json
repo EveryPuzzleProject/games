@@ -1,0 +1,48 @@
+{
+ "id": "games-1983-09-01-5",
+ "aliases": [
+  "games1983-09-01c",
+  "games1983-09-01-L044"
+ ],
+ "xdid": "games1983-09-01c",
+ "issue": "1983-09-01",
+ "date": "1983-09-01",
+ "grid": {
+  "unit": "ia:games-43-1983-september/0040",
+  "extract": "sha256:abe47ea15b5eb20451a38c52dce2e56c29c3c92b6c1e31f9cc84adcd159bab87",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-September-1983-images/0044",
+   "extract": "sha256:5e84452e3164ada1370198b6eed03462bdb5f558210465a39095aff2822fabea"
+  }
+ ],
+ "reading": "sha256:84ecc06c1c0ce4c97e6bfdc44fef0dbb1b7a9e595ee215b74fcd0baacd0905fb",
+ "key": {
+  "unit": "ia:games-43-1983-september/0069",
+  "extract": "sha256:bdbfe5ffba391cf62f29bd01650a562eaf250dac44d409ff99dd92492debfd16",
+  "solution_id": "games-43-1983-september/69#2",
+  "how": "recovered"
+ },
+ "answer_pages": [
+  [
+   69,
+   "its page says the answers are on page 68"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-September-1983-images/page/n44/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c16 r21c15 r21c18"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:18733bc72eff95ba46e775682ef28a87d64d4a1c1e1a17c894a4d2fe1e02c203"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "games-1991-12-01-3",
+ "aliases": [
+  "games1991-12-01c",
+  "games1991-12-01-L034"
+ ],
+ "xdid": "games1991-12-01c",
+ "issue": "1991-12-01",
+ "date": "1991-12-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-December-1991-images/0034",
+  "extract": "sha256:541e3ebc6a0f3156ca46110a9106230d6cf18114531df20e36cfd5a83682292e",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:57791a6a00a0ce8d529022f3719d7cda1ce3f637e86c4cd09fdb211fc9793f71",
+ "key": {
+  "unit": "ia:Games-Magazine-December-1991-images/0044",
+  "extract": "sha256:15c238f870342352e21ac01f6b10919071642b5c4c96f07d5a0b94aadd0315ab",
+  "solution_id": "Games-Magazine-December-1991-images/44#0",
+  "how": "near:8 (on the page the puzzle names)"
+ },
+ "answer_pages": [
+  [
+   44,
+   "its page says the answers are on page 43"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r2c19 r4c5 r7c16 r9c17 r10c1 r13c3 r16c6 r18c11",
+   "low-confidence letters at r1c18 r3c16 r5c18 r8c2 r8c3 r9c12 r12c17 r14c15 r15c1 r20c4 r20c17"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:07e0a46283da3331488fc8c08afa3fd118d5b5303f59fffa1372adbe79a737bd"
+}

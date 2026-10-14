@@ -1,0 +1,51 @@
+{
+ "id": "games-1980-07-01-6",
+ "aliases": [
+  "games1980-07-01f",
+  "games1980-07-01-L052"
+ ],
+ "xdid": "games1980-07-01f",
+ "issue": "1980-07-01",
+ "date": "1980-07-01",
+ "grid": {
+  "unit": "ia:games-18-1980-july/0048",
+  "extract": "sha256:e738ca9d8414f8e3cf15266027fd59f01ef0e94a4265038a82a154293c26d70e",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-18-1980-july/0047",
+  "extract": "sha256:09d5126c07475a5acd9e5855eec5efafec0a679ea861731a3786bcbaec28e4ef"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-July-August-1980-images/0052",
+   "extract": "sha256:6479bf01b28afc1d3577eb56f6dcf8d8e3520b2f0bdad039d8407a488a608171"
+  }
+ ],
+ "reading": "sha256:c98ba074136a5c23bc1f4532c1129f99a5fe3841c12a215bd35128f0d9132e36",
+ "key": {
+  "unit": "ia:games-18-1980-july/0071",
+  "extract": "sha256:7c2e8d821ec01323f9775e60a06bc39afaa7555cde3b2ddca3bccae1bf756091",
+  "solution_id": "games-18-1980-july/71#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   71,
+   "its page says the answers are on page 70"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-July-August-1980-images/page/n52/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c10 r3c5 r6c10 r7c14 r7c18 r7c25 r13c12 r16c6"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:23c9c51663136d38fbc69654909d9a9c49d725f88805d3aba756ca8571a281ed"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "games-1982-07-01-2",
+ "aliases": [
+  "games1982-07-01d",
+  "games1982-07-01-L044"
+ ],
+ "xdid": "games1982-07-01d",
+ "issue": "1982-07-01",
+ "date": "1982-07-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-July-August-1982-images/0044",
+  "extract": "sha256:2b7f7fde5735e401f73b7d143035f6dce730d0c33865797179f93021b61794bc",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-30-1982-July/0040",
+   "extract": "sha256:4dc12dc5942f6229211cd5a50a4089ebc32a9a965e1144a03622ce55dec454a5"
+  }
+ ],
+ "reading": "sha256:e7aa75146917924b30815e2d5d31c5d3fa55894771c0f39101c1a9922fac70ee",
+ "key": {
+  "unit": "ia:games-30-1982-July/0069",
+  "extract": "sha256:881bd812c2bcf22d334252b120dde64276262bfc9082ba30fbc0cfda1e5893bc",
+  "solution_id": "games-30-1982-July/69#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   75,
+   "its page says the answers are on page 68"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-30-1982-July/page/n40/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c9 r11c10 r11c12 r13c21 r16c10 r18c2 r19c6 r19c16"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:5ab4797cafac307d4b1f93ad640f01bee554bda52a9829a87f0cfd54836f204e"
+}

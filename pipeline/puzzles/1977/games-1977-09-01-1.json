@@ -1,0 +1,53 @@
+{
+ "id": "games-1977-09-01-1",
+ "aliases": [
+  "games1977-09-01",
+  "games1977-09-01-L026"
+ ],
+ "xdid": "games1977-09-01",
+ "issue": "1977-09-01",
+ "date": "1977-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September_October-1977-images/0026",
+  "extract": "sha256:7da4aec2c1bf45a8f464d453eea2b006b299f914a1489379a2dc18ae49f4dfef",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-1-1977-september/0026",
+   "extract": "sha256:06de889c1239adc202233bb5b8fc9caf10112514e4a56a39d82faa4e684e12d9"
+  }
+ ],
+ "reading": "sha256:9154a2e62770b520105b3f8b188136991be3a36191aa0a76a8936e711a4fd202",
+ "fix": "sha256:72c337904b73840e3ba13b43f2e2a7c8465b89353ae7fe8457e26fdbd44b7429",
+ "key": {
+  "unit": "ia:Games-Magazine-September_October-1977-images/0063",
+  "extract": "sha256:7c02ae1dfe7529d58963af93cd367a39cdeb100b39934a6da7ca6975cdb17c54",
+  "solution_id": "Games-Magazine-September_October-1977-images/63#4",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   63,
+   "its page says the answers are on page 62"
+  ],
+  [
+   65,
+   "its page says the answers are on page 64"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-1-1977-september/page/n26/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r3c9 r4c3 r6c5 r8c2 r9c3 r9c12 r14c5 r14c15"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:7f0d2c23ce80ca6bf6c56b95dd63e1c67a7253841d09528eba4c235109fbeb70"
+}

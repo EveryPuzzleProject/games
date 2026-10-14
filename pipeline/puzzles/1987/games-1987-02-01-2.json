@@ -1,0 +1,42 @@
+{
+ "id": "games-1987-02-01-2",
+ "aliases": [
+  "games1987-02-01",
+  "games1987-02-01-L030"
+ ],
+ "xdid": "games1987-02-01",
+ "issue": "1987-02-01",
+ "date": "1987-02-01",
+ "grid": {
+  "unit": "ia:games-84-1987-february/0028",
+  "extract": "sha256:e2718757a1f86b8b458d303c5b821a2d56ed05b6a70cf47a51a97588234b0982",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-February_March-1987-images/0030",
+   "extract": "sha256:a921d8ebbc94fa2088cddee7f73390fc80ce8531ca02f5dc83d388d1f73b3b58"
+  }
+ ],
+ "reading": "sha256:365c6a15001113bbbe2c087d8b843edfac16b3230149e68c5887b89981c543ce",
+ "key": {
+  "unit": "ia:games-84-1987-february/0057",
+  "extract": "sha256:7b142bde3cd35b558ca7b3d529f51d7124341a0f49112a2c7019191b63f7dc80",
+  "solution_id": "games-84-1987-february/57#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-February_March-1987-images/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r7c2 r10c3"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:d879f8efbb318870ef77493477e554a7ae7fdc934cf2ec7f60f55faad22bac74"
+}

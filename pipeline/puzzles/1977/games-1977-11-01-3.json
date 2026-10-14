@@ -1,0 +1,42 @@
+{
+ "id": "games-1977-11-01-3",
+ "aliases": [
+  "games1977-11-01c",
+  "games1977-11-01-L032"
+ ],
+ "xdid": "games1977-11-01c",
+ "issue": "1977-11-01",
+ "date": "1977-11-01",
+ "grid": {
+  "unit": "ia:games-2-1977-november/0032",
+  "extract": "sha256:b611f51b92c67a53ac3d731d72914be02a437f8e8c1cbe57ff31cbcb4c6ca1ef",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-November_December-1977-images/0032",
+   "extract": "sha256:7d004ecc4954cfb9ad497620f08edd864d5e60af4891bd5507676d0bb6fde579"
+  }
+ ],
+ "reading": "sha256:c65abc9f41831bb666ff5fe6131b6ae8d667cc25c8d110c88246c0b648d927ec",
+ "key": {
+  "unit": "ia:games-2-1977-november/0063",
+  "extract": "sha256:08f70997451573686339849da7aac5df398ba9599e1c0875b1f7b5a38bd20dc7",
+  "solution_id": "games-2-1977-november/63#4",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-November_December-1977-images/page/n32/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c12 r7c11 r11c8 r12c2 r14c4 r14c10 r14c14 r15c2 r15c13"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:59645e2fed5e726e9837b381f71c1cdd48bdfe533010fb83871a1045caefa79d"
+}

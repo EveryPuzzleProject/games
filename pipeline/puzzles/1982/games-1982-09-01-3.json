@@ -1,0 +1,36 @@
+{
+ "id": "games-1982-09-01-3",
+ "aliases": [
+  "games1982-09-01f",
+  "games1982-09-01-L064"
+ ],
+ "xdid": "games1982-09-01f",
+ "issue": "1982-09-01",
+ "date": "1982-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September-1982-images/0064",
+  "extract": "sha256:0e17d1947174d4ccda9215db67440ec8ff82772d8fdbc2b4735254806dde2445",
+  "size": "23x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:9483792533e69f90ec70c6174cd1ceeed1ed4c4cefb444ec30ed4ebaa4151738",
+ "key": {
+  "unit": "ia:games-31-1982-September/0091",
+  "extract": "sha256:06c68263e966318d231a9703c0dccdcdb2f454bb91cb6f1d43b5346773c6ed2f",
+  "solution_id": "games-31-1982-September/91#0@r0c15:23x15",
+  "how": "exact (part of a merged answer grid)"
+ },
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c10 r15c3 r16c15 r17c11 r18c5 r18c6 r20c3"
+  ],
+  "asymmetric": 35,
+  "warnings": [
+   "Grid isn't symmetric: 35 square pair(s) differ (r1c5/r23c11, r2c5/r22c11, r2c6/r22c10, r3c5/r21c11, r3c6/r21c10, r4c5/r20c11, r4c6/r20c10, r4c12/r20c4). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:bc2b184c23b3b3546c0ad418fbf90e4e77ee2b806cbe8f0a27768ff80415f789"
+}

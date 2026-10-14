@@ -1,0 +1,52 @@
+{
+ "id": "games-1987-10-01-2",
+ "aliases": [
+  "games1987-10-01",
+  "games1987-10-01-L028"
+ ],
+ "xdid": "games1987-10-01",
+ "issue": "1987-10-01",
+ "date": "1987-10-01",
+ "grid": {
+  "unit": "ia:games-88-1987-october/0026",
+  "extract": "sha256:afbc01395fdcc4671221ea59c1733dc93cd717d67bff9a8921a4e64d4739d727",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-October_November-1987-images/0028",
+   "extract": "sha256:cbdf8d2a2b5675d607d3a73144217fd6ac1261af56fadfe44da890e31f2dcd84"
+  }
+ ],
+ "reading": "sha256:49795eb687a32fbb868fbc1c1ef6ce19814d75cd90085752f8a15c417de86605",
+ "key": {
+  "unit": "ia:games-88-1987-october/0059",
+  "extract": "sha256:8dbcbd07afed4adbc138799f2c7051a2002eabb0ab7c860fe41d5ec696c29c9d",
+  "solution_id": "games-88-1987-october/59#2",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   39,
+   "its page says the answers are on page 55"
+  ],
+  [
+   42,
+   "its page says the answers are on page 58"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-October_November-1987-images/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c4 r7c10 r8c7 r10c11"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:578817d72ffeb1d8e48a83d5c403365832ee266375779d865e67b5828f760187"
+}

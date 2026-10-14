@@ -1,0 +1,42 @@
+{
+ "id": "games-1984-12-01-3",
+ "aliases": [
+  "games1984-12-01c",
+  "games1984-12-01-L047"
+ ],
+ "xdid": "games1984-12-01c",
+ "issue": "1984-12-01",
+ "date": "1984-12-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-December-1984-images/0047",
+  "extract": "sha256:7f64b999f16fa5a4aa2086569aba3f2f80ec1bd963adce8993b3a800ce672c5d",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-58-1984-december/0043",
+   "extract": "sha256:70a5bd1892e0186db0fb4ae2e5b9be86f726cc332a15c4a5a8fae1a059fef05a"
+  }
+ ],
+ "reading": "sha256:1c05a306df658fd3b6c699ce6d52fe538f62f665143c57fdad125feb43b05a8a",
+ "key": {
+  "unit": "ia:Games-Magazine-December-1984-images/0084",
+  "extract": "sha256:b9b070b12963520002070f3d9ce7e13cd6c32dec5673ed7db82f70ed1a7a03b7",
+  "solution_id": "Games-Magazine-December-1984-images/84#1",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-58-1984-december/page/n43/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r3c8 r4c1 r6c8 r7c8 r7c11 r11c7 r12c10 r12c11 r12c13 r13c9 r14c8 r14c9"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:096f0892c59b5be2d8efdaa8d98aa9ffd09b5378c0dcfec7e2876ef3dcaf6ae1"
+}

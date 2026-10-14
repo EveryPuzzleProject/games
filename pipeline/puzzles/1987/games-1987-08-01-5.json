@@ -1,0 +1,51 @@
+{
+ "id": "games-1987-08-01-5",
+ "aliases": [
+  "games1987-08-01e",
+  "games1987-08-01-L038"
+ ],
+ "xdid": "games1987-08-01e",
+ "issue": "1987-08-01",
+ "date": "1987-08-01",
+ "grid": {
+  "unit": "ia:games-87-1987-august/0038",
+  "extract": "sha256:fbc5fd8c2da025b6661f2c72e61232ddac9686312a5992ee20e94072b451860c",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-87-1987-august/0037",
+  "extract": "sha256:ada63ae6855c0033eb02458f1e3cfc13024f3133076516abd45f8310ca71df7f"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-August_September-1987-images/0038",
+   "extract": "sha256:d66f352473a1e9d2226db1f7be3ee25a796f0164c1497be82ec14d0d13378d9e"
+  }
+ ],
+ "reading": "sha256:a52a2ab59ac3224064a726fa73255640abafe548fc5d57571e34e3dfedd2d359",
+ "key": {
+  "unit": "ia:Games-Magazine-August_September-1987-images/0055",
+  "extract": "sha256:72f59624c9631f0edd6ce7054db2efd2805c7365c0c2da3771f969dd2e0e6ae7",
+  "solution_id": "Games-Magazine-August_September-1987-images/55#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   55,
+   "its page says the answers are on page 54"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-August_September-1987-images/page/n38/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r3c23 r11c17"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:4359d9127943fd737b0dd1c584379a5ab01ad55157d78b7286722fa6eaab2c3f"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "games-1978-03-01-2",
+ "aliases": [
+  "games1978-03-01",
+  "games1978-03-01-L030"
+ ],
+ "xdid": "games1978-03-01",
+ "issue": "1978-03-01",
+ "date": "1978-03-01",
+ "grid": {
+  "unit": "ia:games-4-1978-march/0028",
+  "extract": "sha256:e8a251ff317ede6780a45b8e5b14803b537a167bbc9357b807ec08024c13a4f2",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-March_April-1978-images/0030",
+   "extract": "sha256:f781e443d534f903d9f52c7193688bc818a41e18ebb5b07907338732fddc297a"
+  }
+ ],
+ "reading": "sha256:9edcadba480638f69dbfe6549d5d9540a0073a7cafc2f6aee7be8154f35cc9d4",
+ "key": {
+  "unit": "ia:games-4-1978-march/0071",
+  "extract": "sha256:7cbacb6db85d010a5f85effa3605d432b9d25d6d4c543a795d24120c34883f0c",
+  "solution_id": "games-4-1978-march/71#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-March_April-1978-images/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c19 r3c17 r5c14 r9c3 r9c4 r9c15 r10c3 r11c9 r11c13 r11c14 r12c8 r13c1 r14c2 r14c3 r15c6 r15c10 r16c8 r16c18 r17c7"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:47b8f93df7e7f05bc8b0afa8632c41e17526e455c95fe2a25e192c42a02a8630"
+}

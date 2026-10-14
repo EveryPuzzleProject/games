@@ -1,0 +1,45 @@
+{
+ "id": "games-1986-06-01-4",
+ "aliases": [
+  "games1986-06-01d",
+  "games1986-06-01-L050"
+ ],
+ "xdid": "games1986-06-01d",
+ "issue": "1986-06-01",
+ "date": "1986-06-01",
+ "grid": {
+  "unit": "ia:games761986june/0042",
+  "extract": "sha256:26d38da6008caa0eda7805d499048521837e53218d0e25827f84df03f2de1643",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games761986june/0041",
+  "extract": "sha256:8927f41c8b7704707991aaac47c876d214d6c6826ce7facba9403eba78f76dae"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-June-1986-images/0050",
+   "extract": "sha256:47cd9896816dba7e55088da4d11228cf42b0f909ee44ca1208410be9533c1780"
+  }
+ ],
+ "reading": "sha256:648f515a87aa026cab415957483988bca156d6663f57dbf068baa24ebbdf7adf",
+ "key": {
+  "unit": "ia:games761986june/0061",
+  "extract": "sha256:1805fa738b6917a500e095a3cd2db2f1dcefef85cf76b0d20aeb822beb0be3ba",
+  "solution_id": "games761986june/61#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-June-1986-images/page/n50/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c19 r2c3 r3c2 r3c15 r4c15 r4c19 r6c8 r7c3 r7c11 r7c24 r16c5 r23c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:5fe8fd77dbd30e1dd658e3ca27d64a4c7b759f577259560b110825f5e54dea3f"
+}

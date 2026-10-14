@@ -1,0 +1,45 @@
+{
+ "id": "games-1984-02-01-4",
+ "aliases": [
+  "games1984-02-01d",
+  "games1984-02-01-L046"
+ ],
+ "xdid": "games1984-02-01d",
+ "issue": "1984-02-01",
+ "date": "1984-02-01",
+ "grid": {
+  "unit": "ia:games-48-1984-february/0046",
+  "extract": "sha256:9ef9e111ca1648e6f76cea1f35320a41b6579a4daa2e8189cc44c8b244b72db5",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-48-1984-february/0045",
+  "extract": "sha256:1ba467fe3dab9e31b209430de041e46f5c3cbe69c4e8670ba7a884ebfa5c1584"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-February-1984-images/0046",
+   "extract": "sha256:4c4a635a933d2964f74cd6fa11196ad08df536d02cb16d9f33f4217f399bdfc9"
+  }
+ ],
+ "reading": "sha256:18191d2b6237343a5297da5e381e3fd03aa1d582ac46eeb15c3e571a445fb4d9",
+ "key": {
+  "unit": "ia:games-48-1984-february/0072",
+  "extract": "sha256:c12e1250ebad0a71b95439f7035d3ae348f14909a7a2b5a53354e8cae9428bfb",
+  "solution_id": "games-48-1984-february/72#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-February-1984-images/page/n46/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r6c4 r6c7"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:cc1a1af0dd3d733346f587fc1a3939ce72a62ecbfa76caec6fb94b911f2e6573"
+}

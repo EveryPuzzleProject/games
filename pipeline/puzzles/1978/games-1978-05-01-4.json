@@ -1,0 +1,48 @@
+{
+ "id": "games-1978-05-01-4",
+ "aliases": [
+  "games1978-05-01",
+  "games1978-05-01-L028-2"
+ ],
+ "xdid": "games1978-05-01",
+ "issue": "1978-05-01",
+ "date": "1978-05-01",
+ "grid": {
+  "unit": "ia:games-5-1978-may/0028",
+  "extract": "sha256:2d9d364ee88c1da14bf182b103aaeefc4fe7aa62f65c63c82d058e04df3ffacc",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-May_June-1978-images/0028",
+   "extract": "sha256:3a2442a4b563279c44b3a7a9ed87c2420fb4b3c097612308e6aae8c0a21a56d0"
+  }
+ ],
+ "reading": "sha256:d547d68556bfb3b94e033ac5d8f7286d30e974869d806f3224d95c84444828bd",
+ "key": {
+  "unit": "ia:games-5-1978-may/0064",
+  "extract": "sha256:99f547c9145dd6b1e72b02e9e61a0614125f9d4bbfd91be659831e14ddc156fc",
+  "solution_id": "games-5-1978-may/64#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   64,
+   "its page says the answers are on page 63"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-May_June-1978-images/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r3c9 r9c7 r9c11 r10c6"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:18439dba6d1b145e0ae87aabf19494049f6dd937806e1fa796e884d52f7cd411"
+}

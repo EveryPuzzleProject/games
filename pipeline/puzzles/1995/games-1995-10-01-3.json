@@ -1,0 +1,30 @@
+{
+ "id": "games-1995-10-01-3",
+ "aliases": [
+  "games1995-10-01-L048"
+ ],
+ "xdid": "games1995-10-01-L048",
+ "issue": "1995-10-01",
+ "date": "1995-10-01",
+ "grid": {
+  "unit": "ia:games-129-1995-october/0048",
+  "extract": "sha256:cbae696af2f784c05329dc05ae5f8a2a3b5ec7cde934874ba0f54a279808cdbf",
+  "size": "4x9",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-129-1995-october/0047",
+  "extract": "sha256:d1c49f138ad31ee3e1826336b26c65246a79f0c7af9128656b5b757a970491b2"
+ },
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:b617e0e56363b390108cf18f576b35b8a7e121235ea6fac05d9963f579f80961",
+ "checks": {
+  "solution": [],
+  "asymmetric": 5,
+  "warnings": [
+   "Grid isn't symmetric: 5 square pair(s) differ (r1c5/r4c5, r1c6/r4c4, r1c7/r4c3, r2c2/r3c8, r2c6/r3c4). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:5d05250ba6ef69d05f7d2f55ac8b76bd031fcfaa2a5651647b4c429cf2cfd998"
+}

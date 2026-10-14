@@ -1,0 +1,45 @@
+{
+ "id": "games-1982-07-01-5",
+ "aliases": [
+  "games1982-07-01e",
+  "games1982-07-01-L052"
+ ],
+ "xdid": "games1982-07-01e",
+ "issue": "1982-07-01",
+ "date": "1982-07-01",
+ "grid": {
+  "unit": "ia:games-30-1982-July/0046",
+  "extract": "sha256:4fb80c91d31ec335d80e005776ee008280da185dc57a8c5bcc0cabb2218af592",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-30-1982-July/0045",
+  "extract": "sha256:8e2588660ed3f42657b5667f59a2ee55d09bf6b5696b00c9c93efd11532b37f0"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-July-August-1982-images/0052",
+   "extract": "sha256:7aa84a63d386b087c0d410e5952558453e7952ebe4e840c90c6a94c63d9010f9"
+  }
+ ],
+ "reading": "sha256:26a35a3ab890b4135412f3a2b171b42471bb96b820edb73313b681f30878d7bf",
+ "key": {
+  "unit": "ia:Games-Magazine-July-August-1982-images/0081",
+  "extract": "sha256:38793f8d87cd954c899d7a9e28aabdb6fb6d1afa59270167434bff5cdd4b7246",
+  "solution_id": "Games-Magazine-July-August-1982-images/81#1",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-July-August-1982-images/page/n52/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c9 r6c19 r13c20 r16c9"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:5c63eb572e46c5ff960e0909d255b1de20f88ba135c9503543d94c6b0a6d1ff8"
+}

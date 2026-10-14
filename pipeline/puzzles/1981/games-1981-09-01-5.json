@@ -1,0 +1,43 @@
+{
+ "id": "games-1981-09-01-5",
+ "aliases": [
+  "games1981-09-01e",
+  "games1981-09-01-L052"
+ ],
+ "xdid": "games1981-09-01e",
+ "issue": "1981-09-01",
+ "date": "1981-09-01",
+ "grid": {
+  "unit": "ia:games-25-1981-september/0052",
+  "extract": "sha256:acb71bf301c1780a89210676407a1c11ef27be73f20a26d49b48620ac7f8a3a8",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-25-1981-september/0051",
+  "extract": "sha256:fc1733c33063370ca3e314df427a084faf32ccdc23a904360b8cefdb0e9fe088"
+ },
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:615de1fcab1dd86f84701c42cc220d5b2fff58db51b195d34e3cde9c35680f32",
+ "key": {
+  "unit": "ia:Games-Magazine-September-October-1981-images/0077",
+  "extract": "sha256:72a491a3b192843f954f6037a38769b1b9664f77a48ba9b26f5ebe114f135007",
+  "solution_id": "Games-Magazine-September-October-1981-images/77#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   77,
+   "its page says the answers are on page 76"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r8c11 r9c5 r10c8 r19c14"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:49d33e4dbc53f4cc9c788298d60935975ee574a6e588dba85d2f5892299c0934"
+}

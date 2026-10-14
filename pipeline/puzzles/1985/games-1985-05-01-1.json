@@ -1,0 +1,42 @@
+{
+ "id": "games-1985-05-01-1",
+ "aliases": [
+  "games1985-05-01b",
+  "games1985-05-01-L034"
+ ],
+ "xdid": "games1985-05-01b",
+ "issue": "1985-05-01",
+ "date": "1985-05-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-May-1985-images/0034",
+  "extract": "sha256:0ea2a88044ee97e32ef560a4496cfb67dba96b4b7a886b90fd4ef931c659ebae",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games631985may/0032",
+   "extract": "sha256:83c6bbfc949a867fbe11c72056cb57004df33c4c1b2ea628be8ca3ed7bc86f39"
+  }
+ ],
+ "reading": "sha256:37b610c57280ca6d880be5a3257a55a64896023aebfe8d7ebd0ed875d149684e",
+ "key": {
+  "unit": "ia:games631985may/0062",
+  "extract": "sha256:9ac8b8dcbb6b8c0221d13ba64a21fffb2bdc20d1a20d404bb700643145197d67",
+  "solution_id": "games631985may/62#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games631985may/page/n32/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r8c6 r11c6"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:1d6fb65e0c38559155af02294cec9bc3421f2ba3a802842dcb9f332e95bb47c2"
+}

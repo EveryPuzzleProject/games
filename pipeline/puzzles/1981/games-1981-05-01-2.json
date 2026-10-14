@@ -1,0 +1,48 @@
+{
+ "id": "games-1981-05-01-2",
+ "aliases": [
+  "games1981-05-01b",
+  "games1981-05-01-L028"
+ ],
+ "xdid": "games1981-05-01b",
+ "issue": "1981-05-01",
+ "date": "1981-05-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-May-June-1981-images/0028",
+  "extract": "sha256:90712aab1d8b6b86b2a352cd851bbcbc70a97710f2494fd80ea1face0f2368be",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-23-1981-may/0030",
+   "extract": "sha256:8b5b64f2242a6dd5bef8e07e80438b52c5c023cf562dd64b8052daaf86f2344f"
+  }
+ ],
+ "reading": "sha256:b245a4978e17ec33aea95ae9d020aa98559c11ad0de8d2ab174ead5bb4222d18",
+ "key": {
+  "unit": "ia:Games-Magazine-May-June-1981-images/0065",
+  "extract": "sha256:1403787ca7b71d5c7457c9f336cfad4f71fd84faa23cf818a5f339aa108b426b",
+  "solution_id": "Games-Magazine-May-June-1981-images/65#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   65,
+   "its page says the answers are on page 66"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-23-1981-may/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c6 r4c14 r5c3 r5c18 r7c7 r7c11 r7c17 r8c10 r11c9 r11c14 r18c6 r19c1"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:6e99289bc992dc39c665e1215e6e01de1a3991e0c711f60461edea84f3dcbbba"
+}

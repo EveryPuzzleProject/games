@@ -1,0 +1,42 @@
+{
+ "id": "games-1988-05-01-5",
+ "aliases": [
+  "games1988-05-01b",
+  "games1988-05-01-L030"
+ ],
+ "xdid": "games1988-05-01b",
+ "issue": "1988-05-01",
+ "date": "1988-05-01",
+ "grid": {
+  "unit": "ia:games-91-1988-may/0028",
+  "extract": "sha256:f5169984990530e19cea4190d3daa7ae412de11a0990562e6bb21b2a2e7a58b2",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-May-1988-images/0030",
+   "extract": "sha256:1d2cdf4a7742e1fcd6e6aeb1e93ef424c1217dd0411f4510dd3040175b96cd50"
+  }
+ ],
+ "reading": "sha256:4c8e3c6890999971721fd52de1c7ae8311b1615a8b9f89fc18e1359ba831d2a3",
+ "key": {
+  "unit": "ia:games-91-1988-may/0075",
+  "extract": "sha256:178e3607c5e2ca9c57567aec62a8a7c59a5aef4e9dfc4d09b86452a7b839809a",
+  "solution_id": "games-91-1988-may/75#6",
+  "how": "recovered"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-May-1988-images/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c3 r9c8 r9c10 r11c6 r11c13 r11c15 r12c6 r13c5 r13c12 r13c13 r13c14 r14c12 r14c14 r15c1 r15c2 r15c3 r15c10"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:da91b116756d435c62e8601bd756085332afd9a21afee578fa96973ff54bb4bb"
+}

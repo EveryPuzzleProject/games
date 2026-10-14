@@ -1,0 +1,51 @@
+{
+ "id": "games-1980-01-01-4",
+ "aliases": [
+  "games1980-01-01d",
+  "games1980-01-01-L044"
+ ],
+ "xdid": "games1980-01-01d",
+ "issue": "1980-01-01",
+ "date": "1980-01-01",
+ "grid": {
+  "unit": "ia:games-15-1980-january/0044",
+  "extract": "sha256:c50d4833b6eefc39eb3143ad715357e2593f595cd83a757c705ab19db9093c69",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-15-1980-january/0043",
+  "extract": "sha256:c5ac9386da65f95eb8c308950c506c0ca0d95b18de785a16c05345fcad82a76f"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-January-February-1980-images/0044",
+   "extract": "sha256:67d03e83999f54c1a3a28c0f7ada36057c262c136e7c9424b22100e482c719ed"
+  }
+ ],
+ "reading": "sha256:665ecede79a674bc24dd300d9268357e55ce180be3b216b144a34b30db7595a6",
+ "key": {
+  "unit": "ia:games-15-1980-january/0063",
+  "extract": "sha256:c2999c7fe03c48f80da439a459194b3e59b794349bbaf408ce0b034133930917",
+  "solution_id": "games-15-1980-january/63#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   63,
+   "its page says the answers are on page 62"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-January-February-1980-images/page/n44/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c3 r7c15 r8c15 r13c5 r15c9 r15c10 r18c13 r18c16 r19c9 r19c22 r22c12 r25c23"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:dcbac764d0c6268a0fe036b38ce8f4f4e64fe78485fc6f177b87fa487ab9bf72"
+}

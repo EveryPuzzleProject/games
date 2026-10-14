@@ -1,0 +1,55 @@
+{
+ "id": "games-1985-04-01-11",
+ "aliases": [
+  "games1985-04-01h",
+  "games1985-04-01-L046"
+ ],
+ "xdid": "games1985-04-01h",
+ "issue": "1985-04-01",
+ "date": "1985-04-01",
+ "grid": {
+  "unit": "ia:games-62-1985-april/0040",
+  "extract": "sha256:fa993d0d20dc2f488e05ac2f21e16a175147ee64454fbf15082dea404986b1eb",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-62-1985-april/0039",
+  "extract": "sha256:70db2ebfe6e6109a6bb4831a76d3c99e16bd2c42da41f7f89779f881c1312c5d"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-April-1985-images/0046",
+   "extract": "sha256:d2d5b38598d91b2ed861695f7393cd57941295c682cccc183d2c1a875aaeff3d"
+  }
+ ],
+ "reading": "sha256:53a11b13ddc652d5e52502141b0be1b39f7b92e60804331f0a05a3e86759032f",
+ "key": {
+  "unit": "ia:Games-Magazine-April-1985-images/0072",
+  "extract": "sha256:1a9e0496b73737be75d8ed2869bb5e01cfab33946764f07d19c21d628b236040",
+  "solution_id": "Games-Magazine-April-1985-images/72#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   42,
+   "its page says the answers are on page 63"
+  ],
+  [
+   64,
+   "its page says the answers are on page 63"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-April-1985-images/page/n46/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r4c19 r12c13 r24c12"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:f6fc34a45b90bf94259a31f02231edfbc1363e5c7056812d1831195fbd6bed7c"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "games-1982-05-01-5",
+ "aliases": [
+  "games1982-05-01d",
+  "games1982-05-01-L046-2"
+ ],
+ "xdid": "games1982-05-01d",
+ "issue": "1982-05-01",
+ "date": "1982-05-01",
+ "grid": {
+  "unit": "ia:games-29-1982-may/0046",
+  "extract": "sha256:25f8598f44b90a476be0172f80767dc9ca7002a30ea383a7973d0fcb7b1c6de7",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-29-1982-may/0045",
+  "extract": "sha256:f23009ec3d47797abd3dfc78e0c496bf1429aeef454bff264bded792bfa26683"
+ },
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:3d3b0f2eddd6dfb17895635f74a2802257e39ee350dada92eff75ad88edee594",
+ "key": {
+  "unit": "ia:Games-Magazine-May-June-1982-images/0081",
+  "extract": "sha256:395ea9374ebe4d28a4b0326d484bcb703aabefd40c6d0422c76ab0d7d7af1e19",
+  "solution_id": "Games-Magazine-May-June-1982-images/81#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   73,
+   "its page says the answers are on page 72"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c22 r8c4 r9c11 r11c2 r14c7 r14c17 r17c7 r21c3 r22c5 r22c17 r22c21 r23c3"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:9a9fe112c44f65a954538f4554615d525f0e67c96ea2198a3f8ae6250b3ebdc5"
+}

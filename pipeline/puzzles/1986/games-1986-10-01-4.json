@@ -1,0 +1,45 @@
+{
+ "id": "games-1986-10-01-4",
+ "aliases": [
+  "games1986-10-01d",
+  "games1986-10-01-L046"
+ ],
+ "xdid": "games1986-10-01d",
+ "issue": "1986-10-01",
+ "date": "1986-10-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-October-1986-images/0046",
+  "extract": "sha256:33c549ebb7ea6862c8cb9f66f3490cc055a07e59b982181ab8251483d97607c9",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-October-1986-images/0045",
+  "extract": "sha256:5cfd854f394833fab033377f2f2f417b54153dabfd5ba74050b8c84d7cd999b9"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games801986october/0038",
+   "extract": "sha256:79c660ed641d8c4217c532882fe58852bd1ac627fcc7d54cafe47082c9c2ffdb"
+  }
+ ],
+ "reading": "sha256:c872fe607181635512deeb206addceafee00337b4177dbf34fdf32e19e7f58d7",
+ "key": {
+  "unit": "ia:Games-Magazine-October-1986-images/0065",
+  "extract": "sha256:f66d8995fa2d813477c7292afec79e2539e6acc82478511846d7f8e3592fe2ac",
+  "solution_id": "Games-Magazine-October-1986-images/65#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games801986october/page/n38/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c14 r3c24 r4c23 r5c22 r7c15 r7c17 r8c24 r11c4 r12c5 r12c6 r15c15 r16c2 r18c14 r20c20 r21c7 r21c19 r22c1 r22c11 r23c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:7819a2f13deed8db01650ecd2653e5fb96dcf6055800c8023cedfc1e09cfbfd2"
+}

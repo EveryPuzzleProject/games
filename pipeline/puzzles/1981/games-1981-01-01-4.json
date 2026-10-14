@@ -1,0 +1,49 @@
+{
+ "id": "games-1981-01-01-4",
+ "aliases": [
+  "games1981-01-01d",
+  "games1981-01-01-L042"
+ ],
+ "xdid": "games1981-01-01d",
+ "issue": "1981-01-01",
+ "date": "1981-01-01",
+ "grid": {
+  "unit": "ia:games-21-1981-january/0042",
+  "extract": "sha256:22409972a0efb63a5714e2bd69ea491e4793371e1250d83f472970c5bdd82ef7",
+  "size": "19x19",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-January-February-1981-images/0042",
+   "extract": "sha256:4ba872656e549746f9285d0716a94dbbe86fd6b90845f3c837be5c5293278486"
+  }
+ ],
+ "reading": "sha256:f39d31dc19079918a32a32ea6823dc157db17f6b6ba09219a9671d4a480a7d59",
+ "key": {
+  "unit": "ia:games-21-1981-january/0071",
+  "extract": "sha256:129e424fdb35705e8835b01a9d235d4ff0e7b549a48c8adaa2a82348912a38e9",
+  "solution_id": "games-21-1981-january/71#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   71,
+   "its page says the answers are on page 70"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-January-February-1981-images/page/n42/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "3 unreadable solution letters",
+   "low-confidence letters at r1c9 r2c3 r2c9 r2c16 r2c17 r2c19 r3c4 r3c8 r4c5 r7c4 r7c15 r8c2 r8c3 r8c9 r8c13 r9c5 r10c4 r10c18 r13c9 r13c16 r13c18 r14c17 r15c4 r15c14 r15c15 r16c13 r16c15 r17c4 r18c2 r18c3 r18c13 r19c2 r19c12"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:2ed8cdb508b192efcba86f19c1b41d710e3a3366af9c578641897ee6aeab5813"
+}

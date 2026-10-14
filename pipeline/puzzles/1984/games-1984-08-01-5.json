@@ -1,0 +1,45 @@
+{
+ "id": "games-1984-08-01-5",
+ "aliases": [
+  "games1984-08-01e",
+  "games1984-08-01-L046"
+ ],
+ "xdid": "games1984-08-01e",
+ "issue": "1984-08-01",
+ "date": "1984-08-01",
+ "grid": {
+  "unit": "ia:games-54-1984-august/0042",
+  "extract": "sha256:c3c8c40e10cde8830f84f6d6bcf18e4412683ed0fe9c38917fe8876e1cb00a39",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-54-1984-august/0041",
+  "extract": "sha256:9f5240166711e635b2f4568591466a9ca03b0f30d634be5c2bf9ea3ab4f8d6ff"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-August-1984-images/0046",
+   "extract": "sha256:c2c89ce41ab000b57dda552c57ee778f52804f4e40a8f6538e5547ebcb43b9b6"
+  }
+ ],
+ "reading": "sha256:eabb0c2f951bfd8bcf8cebbd22579bda45c915d4e3c800758e1782c1367fe533",
+ "key": {
+  "unit": "ia:games-54-1984-august/0069",
+  "extract": "sha256:ad90e3181e3ffb829c1246b4572e24badb11abe1b914db3f77d837a5a8fd462f",
+  "solution_id": "games-54-1984-august/69#1",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-August-1984-images/page/n46/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r8c3"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:6dbc5c5e686ef50937585a618e70db37fbdbfd717c33a28752bdb574e3d6bdd8"
+}

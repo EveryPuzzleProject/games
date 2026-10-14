@@ -1,0 +1,42 @@
+{
+ "id": "games-1992-10-01-2",
+ "aliases": [
+  "games1992-10-01b",
+  "games1992-10-01-L034"
+ ],
+ "xdid": "games1992-10-01b",
+ "issue": "1992-10-01",
+ "date": "1992-10-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-October-1992-images/0034",
+  "extract": "sha256:26342b423abb8399ca0b7e797d19af0fc33034aa95021a060c16b341ffb341ec",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:166988690b1c72bde8ed377cec60ccd0c01f4d13c5a055f3798d76d4b29e029c",
+ "key": {
+  "unit": "ia:Games-Magazine-October-1992-images/0045",
+  "extract": "sha256:0788bcdeafa4b2c055eb3bfa390dc5f43ffaddef206ef7a2c0c3646a829fcbde",
+  "solution_id": "Games-Magazine-October-1992-images/45#0@r2c19:21x21",
+  "how": "near:17 (on the page the puzzle names) (part of a merged answer grid)"
+ },
+ "answer_pages": [
+  [
+   45,
+   "its page says the answers are on page 42"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r1c5 r2c5 r6c3 r6c7 r7c7 r8c5 r9c4 r12c2 r12c7 r13c4 r14c5 r15c6 r18c2 r18c7 r19c6 r20c6 r21c6",
+   "13 unreadable solution letters",
+   "low-confidence letters at r1c5 r1c9 r2c5 r3c11 r4c13 r4c17 r6c3 r6c7 r6c9 r7c7 r8c5 r9c4 r10c12 r12c2 r12c7 r12c15 r13c4 r14c5 r15c1 r15c6 r18c2 r18c7 r19c6 r19c10 r20c6 r21c6 r21c7 r21c14"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:f304d3b47e1dde594383bc838124eab4658a5738c6055a5b24caf649db2228d7"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "games-1989-02-01-5",
+ "aliases": [
+  "games1989-02-01d",
+  "games1989-02-01-L041"
+ ],
+ "xdid": "games1989-02-01d",
+ "issue": "1989-02-01",
+ "date": "1989-02-01",
+ "grid": {
+  "unit": "ia:games-96-1989-february/0037",
+  "extract": "sha256:a96189f13b01c6a121c5bb470435af07438fc8f34168b3add54f716c34575fca",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-Deluxe-February_March-1989-images/0041",
+   "extract": "sha256:7e9582efeb6564daf1c5c8f414392eb1510fe36d447366284ca778c58e996b91"
+  }
+ ],
+ "reading": "sha256:e0950858ba5aecbd509751efe310ba38590fa88836b64f930f1556b6b65d8d67",
+ "key": {
+  "unit": "ia:games-96-1989-february/0045",
+  "extract": "sha256:f1cd376e3e65ad9be93370a7afb567521088b76bbda68d30875011282429b8ce",
+  "solution_id": "games-96-1989-february/45#1",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-Deluxe-February_March-1989-images/page/n41/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r13c16"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:866c8ba2f670e48bffd19b8a4e1939cae344115f620e36e8180888618ba548ab"
+}

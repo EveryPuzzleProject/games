@@ -1,0 +1,48 @@
+{
+ "id": "games-1980-09-01-3",
+ "aliases": [
+  "games1980-09-01c",
+  "games1980-09-01-L044"
+ ],
+ "xdid": "games1980-09-01c",
+ "issue": "1980-09-01",
+ "date": "1980-09-01",
+ "grid": {
+  "unit": "ia:games-19-1980-september/0042",
+  "extract": "sha256:40edaac4c969e449b23135c6662d19e6099dbd31a2e858d53778a5eb9648a241",
+  "size": "19x19",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-September-October-1980-images/0044",
+   "extract": "sha256:f96ef3d71f5ed9d9100bd82157539f58cb17e32d01acf85dd62e74ca504857e2"
+  }
+ ],
+ "reading": "sha256:eb747a58e521a758c48795af224337ae552875e5dcade10483f7f939110ac956",
+ "key": {
+  "unit": "ia:games-19-1980-september/0070",
+  "extract": "sha256:ab0c2d757b4c91887562c0f1a95b59667773b5977e4d5f611ab055fefc10f8a5",
+  "solution_id": "games-19-1980-september/70#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   70,
+   "its page says the answers are on page 69"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-September-October-1980-images/page/n44/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c11 r3c18 r9c16 r11c9 r12c2 r13c12 r16c8"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:2ba0e4732d3948b4795fc36d8bf8fc069276fc8fd7cdb324c08c28da7191d364"
+}

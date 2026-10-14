@@ -1,0 +1,42 @@
+{
+ "id": "games-1988-07-01-3",
+ "aliases": [
+  "games1988-07-01d",
+  "games1988-07-01-L039"
+ ],
+ "xdid": "games1988-07-01d",
+ "issue": "1988-07-01",
+ "date": "1988-07-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-Deluxe-July-1988-images/0039",
+  "extract": "sha256:284ed0a19809dc5421dd4445d22f3dd77245026ce87c885bcc1c73c135a2001b",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-92-1988-july/0037",
+   "extract": "sha256:e4eeab6abbad0c2e4b40c014bb397e1218b425238148082b5f0467f8fe345fc2"
+  }
+ ],
+ "reading": "sha256:dbfb4e632c32ef62dae8a80c85abe93c5fb5d387750904224ecb41613b46844d",
+ "key": {
+  "unit": "ia:Games-Magazine-Deluxe-July-1988-images/0048",
+  "extract": "sha256:ffb3bcb100001bc9361cbd759261e455c8cc0bdf0adefa7af15382689c391ba3",
+  "solution_id": "Games-Magazine-Deluxe-July-1988-images/48#3",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-92-1988-july/page/n37/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r5c9 r7c12 r9c17 r14c10 r15c15"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:469e4c0e39e6f48843cd65b9284ff1a40b51f13b587d03caeb5d6356fe148eb1"
+}

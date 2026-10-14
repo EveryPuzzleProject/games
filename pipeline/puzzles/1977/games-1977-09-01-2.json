@@ -1,0 +1,50 @@
+{
+ "id": "games-1977-09-01-2",
+ "aliases": [
+  "games1977-09-01b",
+  "games1977-09-01-L028"
+ ],
+ "xdid": "games1977-09-01b",
+ "issue": "1977-09-01",
+ "date": "1977-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September_October-1977-images/0028",
+  "extract": "sha256:97e9d08ea82906d426975850ee4f66c23d6ce2759f5f66fba62f6bb0bb0c13c0",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-1-1977-september/0028",
+   "extract": "sha256:e0bac794004de48ccf04eab7dbe58b8e20499388a82ec5844b95ea1191faf47a"
+  }
+ ],
+ "reading": "sha256:0a29c5fb8c07f593a44e29f5e4747f8b8611065d6aa29ece2dd1d4afae5c70e4",
+ "key": {
+  "unit": "ia:Games-Magazine-September_October-1977-images/0063",
+  "extract": "sha256:7c02ae1dfe7529d58963af93cd367a39cdeb100b39934a6da7ca6975cdb17c54",
+  "solution_id": "Games-Magazine-September_October-1977-images/63#2",
+  "how": "near:3"
+ },
+ "answer_pages": [
+  [
+   63,
+   "headed with the puzzle's page, (Page 27)"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-1-1977-september/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r6c13 r12c13 r17c13",
+   "3 unreadable solution letters",
+   "low-confidence letters at r1c5 r1c9 r2c12 r2c13 r2c14 r3c12 r3c16 r4c14 r5c13 r6c13 r8c19 r9c6 r9c13 r10c13 r10c14 r12c13 r16c11 r17c2 r17c13 r17c14 r18c14 r19c14 r20c6 r21c5"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:669e085fec20337701ad1708f2d5e9b9462c619cc0e0f8f45b867747ac1ae215"
+}

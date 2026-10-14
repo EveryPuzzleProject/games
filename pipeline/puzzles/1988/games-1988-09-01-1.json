@@ -1,0 +1,45 @@
+{
+ "id": "games-1988-09-01-1",
+ "aliases": [
+  "games1988-09-01d",
+  "games1988-09-01-L042"
+ ],
+ "xdid": "games1988-09-01d",
+ "issue": "1988-09-01",
+ "date": "1988-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September-1988-images/0042",
+  "extract": "sha256:4fa30c73f7d1b62680346f0a0ba55e200bd74d8ccfe6d914e700073fac6b721a",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-September-1988-images/0041",
+  "extract": "sha256:1858f0f456c51a21cc9fefd2a38d82e5306c8b60f3bd2aec9c454406c377ebfc"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-93-1988-september/0054",
+   "extract": "sha256:26fa68709dbaf713dc0c74762892eaeb4010cdd10ed21a9d6cc76279dd60ef88"
+  }
+ ],
+ "reading": "sha256:761b867c27ae2c84bb26aae1b8f3695e1f3dedf155176c5c5cc0e1b7e371f822",
+ "key": {
+  "unit": "ia:Games-Magazine-September-1988-images/0067",
+  "extract": "sha256:8182d96d68801868c07a1c3fe0f799962016f4e5e1b608492515cf3ad6d3bcec",
+  "solution_id": "Games-Magazine-September-1988-images/67#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-93-1988-september/page/n54/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c4 r2c3 r6c10 r7c9 r10c1 r12c1 r12c20 r14c25"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:cc0aa68ae13b8044e42ca34503662653e9bd228da2c7de5d77db9c9443dca085"
+}

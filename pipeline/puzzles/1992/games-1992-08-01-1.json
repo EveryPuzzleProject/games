@@ -1,0 +1,40 @@
+{
+ "id": "games-1992-08-01-1",
+ "aliases": [
+  "games1992-08-01",
+  "games1992-08-01-L024"
+ ],
+ "xdid": "games1992-08-01",
+ "issue": "1992-08-01",
+ "date": "1992-08-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-August-1992-images/0024",
+  "extract": "sha256:0636b77887c68bf0e80aa3dd70485b4028d6423f92c6166b4ea43aa4646313b3",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:f1ec03269c5e43cf0aa4e6754d5133cf7ac8c348d3d2ca528dad2ddb3b8f53fa",
+ "key": {
+  "unit": "ia:Games-Magazine-August-1992-images/0041",
+  "extract": "sha256:2a248b89e7c2d1f197932643fa995e4165cb9ec97676dc387ea33905b828c16f",
+  "solution_id": "Games-Magazine-August-1992-images/41#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   41,
+   "its page says the answers are on page 40"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c4 r2c3 r6c12 r12c7"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:34149cb99b9d0141189b2766d88f2d0fae1cfd0ec7ec57299f1c631cdca5194b"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "games-1985-04-01-8",
+ "aliases": [
+  "games1985-04-01",
+  "games1985-04-01-L028-2"
+ ],
+ "xdid": "games1985-04-01",
+ "issue": "1985-04-01",
+ "date": "1985-04-01",
+ "grid": {
+  "unit": "ia:games-62-1985-april/0026",
+  "extract": "sha256:7fb66b37f36281176bf42f856825b80aa9ad40f5169336f471dd0f54bf1588c9",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-April-1985-images/0028",
+   "extract": "sha256:16cfd46e6b73de3736c2211c0d4145546dd52eb91065f13859e4f9cf3110acd8"
+  }
+ ],
+ "reading": "sha256:5d941172863b5186049401ebb0a5762055b6a5f08d7ac17da8c599a2d59e8dab",
+ "key": {
+  "unit": "ia:games-62-1985-april/0064",
+  "extract": "sha256:12f54be42d641b8c3d060c28670d4c3915abfa25169b67bab72f100b1d63319e",
+  "solution_id": "games-62-1985-april/64#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   42,
+   "its page says the answers are on page 63"
+  ],
+  [
+   64,
+   "its page says the answers are on page 63"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-April-1985-images/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r5c4 r5c11 r7c14 r12c9 r13c3 r15c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:fe1e1357c53ac30306063f922c04ec6d5d5e245b15c0dfbde4564e213bf1dff2"
+}

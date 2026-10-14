@@ -1,0 +1,54 @@
+{
+ "id": "games-1983-07-01-1",
+ "aliases": [
+  "games1983-07-01",
+  "games1983-07-01-L030"
+ ],
+ "xdid": "games1983-07-01",
+ "issue": "1983-07-01",
+ "date": "1983-07-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-July-1983-images/0030",
+  "extract": "sha256:86de7b061a75088acf5053f07db20e3936e81d4bb91eaaa4fb42e11d5c5d625e",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-41-1983-july/0030",
+   "extract": "sha256:40c4f395ed850078d92d6fe2fad8d3fe7f28c34dbdf0abe6a38a08ccd929bcd6"
+  }
+ ],
+ "reading": "sha256:6be3b60cc94350b9d785f8ad77bb558e8aada826e29a59b03a0b84d9a0d31629",
+ "key": {
+  "unit": "ia:games-41-1983-july/0073",
+  "extract": "sha256:87ba2e83a035892447290ed23ca61119c5a5e33259e9a01a771d148060043e36",
+  "solution_id": "games-41-1983-july/73#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   69,
+   "its page says the answers are on page 68"
+  ],
+  [
+   73,
+   "its page says the answers are on page 72"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-41-1983-july/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c13 r14c10"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "This copy of the puzzle was filled in by a reader (handwriting in the grid)."
+  ]
+ },
+ "xd": "sha256:5ebc10d2ef561db914141b9b530c869c725a5b884b15527147267f53f301e8b2"
+}

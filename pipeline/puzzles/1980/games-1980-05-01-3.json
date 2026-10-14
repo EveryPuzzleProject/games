@@ -1,0 +1,40 @@
+{
+ "id": "games-1980-05-01-3",
+ "aliases": [
+  "games1980-05-01e",
+  "games1980-05-01-L040"
+ ],
+ "xdid": "games1980-05-01e",
+ "issue": "1980-05-01",
+ "date": "1980-05-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-May-June-1980-images/0040",
+  "extract": "sha256:7178b9e9b76c49c221a1bb1961fa4a680931079623386d66b2aba40f27679bcc",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:288a16da8267ef022c9e206ed0dcf0c3eddf86d1fcf675ff80a6221eaf351698",
+ "key": {
+  "unit": "ia:Games-Magazine-May-June-1980-images/0068",
+  "extract": "sha256:777f0f88071a332b5ad017e931827caa0fec15d2129b3052002f0f6a9a596ac6",
+  "solution_id": "Games-Magazine-May-June-1980-images/68#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   68,
+   "its page says the answers are on page 63"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r7c9 r8c3 r11c2 r15c6 r16c18 r18c15 r19c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:ba127d9d325c43d396bcecb29946966236cc04f48a6b6579445b109b94711a5f"
+}

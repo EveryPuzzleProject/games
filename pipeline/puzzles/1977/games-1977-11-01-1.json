@@ -1,0 +1,42 @@
+{
+ "id": "games-1977-11-01-1",
+ "aliases": [
+  "games1977-11-01",
+  "games1977-11-01-L028"
+ ],
+ "xdid": "games1977-11-01",
+ "issue": "1977-11-01",
+ "date": "1977-11-01",
+ "grid": {
+  "unit": "ia:games-2-1977-november/0028",
+  "extract": "sha256:038acc2e8d11c1ef119fc4438805eee9aa48740e1dc092e742e91fdb15588892",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-November_December-1977-images/0028",
+   "extract": "sha256:ee9673160b6fac605eb2625b82e4b65109876ee4837a56dbb8c85f8b5c409a68"
+  }
+ ],
+ "reading": "sha256:5c03f248c62384972e13f3bfcb7f6e9b6ece935eb5441f0a2a1d85452bdb3ef0",
+ "key": {
+  "unit": "ia:Games-Magazine-November_December-1977-images/0063",
+  "extract": "sha256:614b4212f9fcd99972bc07abbe9e8bcde3c173ba7e26622bb9ff44bc923b6d2b",
+  "solution_id": "Games-Magazine-November_December-1977-images/63#0@r5c0:21x21",
+  "how": "exact (part of a merged answer grid)"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-November_December-1977-images/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c2 r2c4 r2c6 r2c11 r2c18 r4c9 r5c10 r6c11 r11c3 r12c4 r12c5 r13c14 r14c2 r14c8 r15c6 r17c5 r18c2 r20c7 r21c1 r21c18"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:423c77b42bdd27e5e208b1c39f49fa777e4354d6893a3043fd0e978a607be342"
+}

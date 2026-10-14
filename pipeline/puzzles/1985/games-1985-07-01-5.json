@@ -1,0 +1,45 @@
+{
+ "id": "games-1985-07-01-5",
+ "aliases": [
+  "games1985-07-01d",
+  "games1985-07-01-L046"
+ ],
+ "xdid": "games1985-07-01d",
+ "issue": "1985-07-01",
+ "date": "1985-07-01",
+ "grid": {
+  "unit": "ia:games-65-1985-july/0040",
+  "extract": "sha256:6f01e8dbfeb42e27699c40fea952166ae0d621c7c5cfcf5057f208e20b8dacb1",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-65-1985-july/0039",
+  "extract": "sha256:12107d8ff1f8fceb17b9bb927ae62f246b800227002927c7b9bfcb6294bf5aa7"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-July-1985-images/0046",
+   "extract": "sha256:f57a732086d8906e796d285bccbbc294a942f7d973e74bd8d2c4f45afc38ea15"
+  }
+ ],
+ "reading": "sha256:5c9205ee7ce6066b3e676afd6505d828971754c6451c0b90dbf72ae05981a444",
+ "key": {
+  "unit": "ia:Games-Magazine-July-1985-images/0071",
+  "extract": "sha256:9d03d77d3c686a345f3929a737e36c003a07d51a3a3031ab095d16fe282b21d5",
+  "solution_id": "Games-Magazine-July-1985-images/71#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-July-1985-images/page/n46/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r12c5"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:8aff88fd8aeb15f8c22c0fc5418fa73d13646f52b865e1c644471954d01b3be4"
+}

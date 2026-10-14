@@ -1,0 +1,48 @@
+{
+ "id": "games-1983-01-01-1",
+ "aliases": [
+  "games1983-01-01",
+  "games1983-01-01-L030"
+ ],
+ "xdid": "games1983-01-01",
+ "issue": "1983-01-01",
+ "date": "1983-01-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-January-1983-images/0030",
+  "extract": "sha256:30239f7f9b42bbb9fdd4854293dfe0e169b0c17bc72f9dd944bd57b8b7c7a9d3",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-35-1983-jan/0030",
+   "extract": "sha256:eb3bfdd3a6fdfb790af01f94c6b088e9ebe2d2286eb47953e56cd00fd806f828"
+  }
+ ],
+ "reading": "sha256:4529aea08faf4188f3837e26423371f4c8159a6a90750871430e985bffe9de52",
+ "key": {
+  "unit": "ia:Games-Magazine-January-1983-images/0069",
+  "extract": "sha256:3af4868dfa5c425f1fbe70b25b222f3b0b8d17c5a8dc5a70f028ffbeec63664b",
+  "solution_id": "Games-Magazine-January-1983-images/69#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   69,
+   "its page says the answers are on page 68"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-35-1983-jan/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r7c9"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:2282569074ee844b63d64c879eccd2689d2f699f19ebaabc350f857acd347177"
+}

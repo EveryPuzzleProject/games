@@ -1,0 +1,48 @@
+{
+ "id": "games-1984-11-01-4",
+ "aliases": [
+  "games1984-11-01c",
+  "games1984-11-01-L056"
+ ],
+ "xdid": "games1984-11-01c",
+ "issue": "1984-11-01",
+ "date": "1984-11-01",
+ "grid": {
+  "unit": "ia:games-57-1984-november/0050",
+  "extract": "sha256:5bdc7d58bac84446766394bca107482d50ab0a6cffd12dceb612931375f6f773",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-November-1984-images/0056",
+   "extract": "sha256:19157aea876000ba6863f98dd410feb03cad23b82c1b21f4224acdd27aa4d026"
+  }
+ ],
+ "reading": "sha256:9a8e2d99e944859b179bfcdf0756a9c9dff55932b104a3ba63a333cf16a904e8",
+ "key": {
+  "unit": "ia:Games-Magazine-November-1984-images/0083",
+  "extract": "sha256:2617bbcefd482caa30e5ac369a0cd5ba478abd6c0caf3435576aa4c7b39dbfcc",
+  "solution_id": "Games-Magazine-November-1984-images/83#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   75,
+   "its page says the answers are on page 74"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-November-1984-images/page/n56/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c19 r3c20 r6c19 r8c10 r10c16 r10c18 r17c7 r18c3 r19c17"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:67e54fb14638ba59c7366ce0bf1e3421a7d0ee905297eed003efd7be05a881bb"
+}

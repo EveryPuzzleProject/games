@@ -1,0 +1,48 @@
+{
+ "id": "games-1982-10-01-4",
+ "aliases": [
+  "games1982-10-01b",
+  "games1982-10-01-L036"
+ ],
+ "xdid": "games1982-10-01b",
+ "issue": "1982-10-01",
+ "date": "1982-10-01",
+ "grid": {
+  "unit": "ia:games-32-1982-October/0032",
+  "extract": "sha256:56354c323598cc9104130ea3cc4fecb702816f1d58adbbfbc0131a66852e7f6b",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-October-1982-images/0036",
+   "extract": "sha256:340ae58f5d644929add4738ede1d7b100f269affc1de406a0c13becf92f40977"
+  }
+ ],
+ "reading": "sha256:70437939094155f11f3f3edef4818a56f36500396e217c8a5c9b7826f9e2f268",
+ "key": {
+  "unit": "ia:games-32-1982-October/0071",
+  "extract": "sha256:9b7798e3e3d3f024149f1c2cb39ca692f41b6abafb81407648f5cdb05c0a1d9f",
+  "solution_id": "games-32-1982-October/71#1",
+  "how": "recovered"
+ },
+ "answer_pages": [
+  [
+   71,
+   "its page says the answers are on page 70"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-October-1982-images/page/n36/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r4c11 r8c15 r9c2 r9c6 r11c11 r13c7 r13c8"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:8ffefdf0d9a189cf25e566be262901f83fba50180316f0e49e8217fdad0dab7d"
+}

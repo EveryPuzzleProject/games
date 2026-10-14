@@ -1,0 +1,55 @@
+{
+ "id": "games-1989-06-01-8",
+ "aliases": [
+  "games1989-06-01g",
+  "games1989-06-01-L058"
+ ],
+ "xdid": "games1989-06-01g",
+ "issue": "1989-06-01",
+ "date": "1989-06-01",
+ "grid": {
+  "unit": "ia:games-98-1989-june/0054",
+  "extract": "sha256:be83dca8fbf3e470ca906a479dffbe8df9db612bf7c35ff575fe8f731eb8cfbd",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-98-1989-june/0053",
+  "extract": "sha256:5c14a0960d4cfdc521bc2b8e6134a1acd92958bf6ab4e8e4eb94e99d3c4ecda4"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-Deluxe-June_July-1989-images/0058",
+   "extract": "sha256:ca3f205bd3ba1e6cd1407fe8ff57c2a716ed6f1a18af33cdb7ecc047d139765a"
+  }
+ ],
+ "reading": "sha256:d47e47a281bdbbd0b5f93f9768a16f4f99619c3a1c383548e1ef68bca1bcccae",
+ "key": {
+  "unit": "ia:Games-Magazine-Deluxe-June_July-1989-images/0082",
+  "extract": "sha256:86a9efd148dd0dff14b8a8e809ee64f4d194d108c9426456dbca860a03321502",
+  "solution_id": "Games-Magazine-Deluxe-June_July-1989-images/82#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   51,
+   "its page says the answers are on page 57"
+  ],
+  [
+   74,
+   "its page says the answers are on page 57"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-Deluxe-June_July-1989-images/page/n58/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r3c16 r5c12 r8c11 r8c25 r10c11 r11c12 r11c18 r16c10 r17c11 r20c10 r24c17 r25c13"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:8abcb783bc543855349f6d7961bcb64ebded80836a2ef73198196d6fbef61170"
+}

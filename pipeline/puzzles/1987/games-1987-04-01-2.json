@@ -1,0 +1,52 @@
+{
+ "id": "games-1987-04-01-2",
+ "aliases": [
+  "games1987-04-01b",
+  "games1987-04-01-L030"
+ ],
+ "xdid": "games1987-04-01b",
+ "issue": "1987-04-01",
+ "date": "1987-04-01",
+ "grid": {
+  "unit": "ia:games-85-1987-april/0028",
+  "extract": "sha256:27fd9de433106ec5c1e1d3fce0767b2122b732affe90fae5b77f5a74a621bdc7",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-April_May-1987-images/0030",
+   "extract": "sha256:9773a1b873383b4b643b0c5b00c75c6831c49983cd8ee06d578a43e6d903f23a"
+  }
+ ],
+ "reading": "sha256:4542549a35c7783c2f9efe1b1acc04e3c24ce4365e07c384f46de647fb23734d",
+ "key": {
+  "unit": "ia:games-85-1987-april/0056",
+  "extract": "sha256:9d576b78695d765200e66712996e5004e52193772eaf0c96c3146c00bc3820b1",
+  "solution_id": "games-85-1987-april/56#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   56,
+   "its page says the answers are on page 55"
+  ],
+  [
+   60,
+   "its page says the answers are on page 59"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-April_May-1987-images/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r6c8"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:0653543c2219b4f5f61dd317692a2a91d4079aea7835e94ceff4db47615f4742"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "games-1987-01-01-3",
+ "aliases": [
+  "games1987-01-01c",
+  "games1987-01-01-L044"
+ ],
+ "xdid": "games1987-01-01c",
+ "issue": "1987-01-01",
+ "date": "1987-01-01",
+ "grid": {
+  "unit": "ia:games-83-1987-january/0038",
+  "extract": "sha256:7110333bdf1c6eb946149622c10382cc1236b9d8ef164d2972f8fe60883c776c",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-83-1987-january/0037",
+  "extract": "sha256:584a25075baf3bfc4b59b52d44a3b7d8ebb65adb61e458050901dbaa07dec4cb"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-January-1987-images/0044",
+   "extract": "sha256:8facfb66b2c09c12638fc45522218b6a51b6fa50700116db916d3b9cfb4fd746"
+  }
+ ],
+ "reading": "sha256:c8e567af31502eee207f29adb7d2dbb79a9b8838437edd1ed5cf9239643d6f67",
+ "key": {
+  "unit": "ia:games-83-1987-january/0057",
+  "extract": "sha256:dc1ac200d10cf1786c0ac48c05ae1018631374d353f363e7028505106130e47e",
+  "solution_id": "games-83-1987-january/57#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   57,
+   "its page says the answers are on page 56"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-January-1987-images/page/n44/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r4c7 r11c2 r18c9 r18c16"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:6569f6c4ad546f7685eb63601c7669ad5f466217164433f513c3a06185aaf7e0"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "games-1986-08-01-1",
+ "aliases": [
+  "games1986-08-01",
+  "games1986-08-01-L028"
+ ],
+ "xdid": "games1986-08-01",
+ "issue": "1986-08-01",
+ "date": "1986-08-01",
+ "grid": {
+  "unit": "ia:games-78-1986-august/0028",
+  "extract": "sha256:d4e79b00c41b7c46674ad8f74d0863eab7bad077024b9a846538ea24ac3ceb7a",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-August-1986-images/0028",
+   "extract": "sha256:c5485ccd123d209d6333986e961af01676e3cf499dcc4f25fe5da1c3f7cebffe"
+  }
+ ],
+ "reading": "sha256:9be4b1a32d405260b2ffd8063d5934c4f132ce8a08ac4365e40b37a9b3934bbe",
+ "key": {
+  "unit": "ia:games-78-1986-august/0065",
+  "extract": "sha256:0fc87c4aebc9362cbae2f1b67bc1e9f972ca6fdefba11af523fbc2b8dc97b953",
+  "solution_id": "games-78-1986-august/65#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   63,
+   "its page says the answers are on page 62"
+  ],
+  [
+   65,
+   "its page says the answers are on page 64"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-August-1986-images/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r6c1 r11c10 r14c1 r14c7"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:fb27e31ddb784af53d8eeab29ba768f8056d29f4e3637ae58256da046d18738a"
+}

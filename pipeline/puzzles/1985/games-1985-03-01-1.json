@@ -1,0 +1,34 @@
+{
+ "id": "games-1985-03-01-1",
+ "aliases": [
+  "games1985-03-01",
+  "games1985-03-01-L028"
+ ],
+ "xdid": "games1985-03-01",
+ "issue": "1985-03-01",
+ "date": "1985-03-01",
+ "grid": {
+  "unit": "ia:games611985march/0028",
+  "extract": "sha256:d6b48bc6a7c8fa20b6fb4b33975781312d0784927cc4cae805da6666150e6eb6",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:55b5dd80201268c727581a86b7d0ac737c27d3c7e24b6419037edd3ed289de96",
+ "key": {
+  "unit": "ia:games611985march/0068",
+  "extract": "sha256:9344b3a42f38d4dba67b7f5015afa29e909ae2b2589aaf9fdca3744662d533c8",
+  "solution_id": "games611985march/68#0",
+  "how": "exact"
+ },
+ "checks": {
+  "solution": [
+   "low-confidence letters at r8c13 r12c3 r14c1"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:d90e0f0c0e3c228045104a56eb1e5c1d9de058e1b91667ee033a3dc35e470fda"
+}

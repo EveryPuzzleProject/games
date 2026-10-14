@@ -1,0 +1,50 @@
+{
+ "id": "games-1981-03-01-1",
+ "aliases": [
+  "games1981-03-01",
+  "games1981-03-01-L048"
+ ],
+ "xdid": "games1981-03-01",
+ "issue": "1981-03-01",
+ "date": "1981-03-01",
+ "grid": {
+  "unit": "ia:games-22-1981-march/0044",
+  "extract": "sha256:d41ae17eb7cc4df2c3425fb566b0dda12ec00fc3116618360164a0ca6ad24b0e",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-March-April-1981-images/0048",
+   "extract": "sha256:0c1b54f3306e872a1a3f7df1d5320bcebee02dbec7a501a4d208dead87abbbe1"
+  }
+ ],
+ "reading": "sha256:97741c019e564781aff6fea9fdd28ebd51271590205077e4f2bbed6e53998b30",
+ "key": {
+  "unit": "ia:games-22-1981-march/0069",
+  "extract": "sha256:6e38c66c531cf9b179d1709c9c3276a05ab3988dc8b96a07a2235e6ac454217c",
+  "solution_id": "games-22-1981-march/69#0",
+  "how": "near:11 (on the page the puzzle names)"
+ },
+ "answer_pages": [
+  [
+   69,
+   "its page says the answers are on page 66"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-March-April-1981-images/page/n48/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r1c6 r2c8 r7c8 r8c2 r8c20 r9c13 r12c5 r14c13 r14c15 r17c18 r20c1",
+   "3 unreadable solution letters",
+   "low-confidence letters at r1c16 r1c19 r3c8 r5c13 r15c14 r15c15 r19c9"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:26f53d4d83697f4863d620de8277afd4401fec2658c4e406d65a0accbe74c812"
+}

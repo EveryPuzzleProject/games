@@ -1,0 +1,52 @@
+{
+ "id": "games-1982-12-01-3",
+ "aliases": [
+  "games1982-12-01",
+  "games1982-12-01-L038"
+ ],
+ "xdid": "games1982-12-01",
+ "issue": "1982-12-01",
+ "date": "1982-12-01",
+ "grid": {
+  "unit": "ia:games-34-1982-december/0034",
+  "extract": "sha256:c55b1eb7b172ba192adaacde8394a0beae78de547c31903d3dd7a8a8c287027e",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-December-1982-images/0038",
+   "extract": "sha256:d4584cc4728d2893a0c8a94d5696d6a69c2a0e38e475a3b5d4dcfc157f7e21a5"
+  }
+ ],
+ "reading": "sha256:43053d8af3f07b93c281b6f42531c931f49504ff9c95dee1de13e0b01630cc3b",
+ "key": {
+  "unit": "ia:Games-Magazine-December-1982-images/0099",
+  "extract": "sha256:e09660f899050b776c8dfd43e41a39dac8b0d7c7c159bc388b56d37f59adbd48",
+  "solution_id": "Games-Magazine-December-1982-images/99#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   89,
+   "its page says the answers are on page 86"
+  ],
+  [
+   90,
+   "its page says the answers are on page 87"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-December-1982-images/page/n38/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c13 r4c1 r6c2 r10c8 r13c3 r15c5 r15c8 r15c12"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:a30b0859afd827273db40248f44c318984eb5b59f06d0a1aac1dd17527372fe5"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "games-1981-05-01-7",
+ "aliases": [
+  "games1981-05-01g",
+  "games1981-05-01-L071"
+ ],
+ "xdid": "games1981-05-01g",
+ "issue": "1981-05-01",
+ "date": "1981-05-01",
+ "grid": {
+  "unit": "ia:games-23-1981-may/0071",
+  "extract": "sha256:5389e9b3abe8e570ab908c5066758b938d357dcc6591bd5bdfdbdaa21737dbc4",
+  "size": "5x9",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-23-1981-may/0070",
+  "extract": "sha256:f9032a6729e97d74afed52401d911f9ef2c62ad366d13e2b7e89f3f6bc6798c3"
+ },
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:9b4b13abcd93b6ff77f8ca565ca9d2523b041d8add5fb362923e92ef950bb119",
+ "answer_pages": [
+  [
+   73,
+   "its page says the answers are on page 72"
+  ]
+ ],
+ "checks": {
+  "solution": [],
+  "asymmetric": 6,
+  "warnings": [
+   "Grid isn't symmetric: 6 square pair(s) differ (r1c1/r5c9, r1c4/r5c6, r1c8/r5c2, r1c9/r5c1, r2c5/r4c5, r2c9/r4c1). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:42d15de9714583b71559743f9e1388d94f2f12d86244692418745c85ea036300"
+}

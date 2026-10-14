@@ -1,0 +1,43 @@
+{
+ "id": "games-1985-11-01-2",
+ "aliases": [
+  "games1985-11-01b",
+  "games1985-11-01-L030"
+ ],
+ "xdid": "games1985-11-01b",
+ "issue": "1985-11-01",
+ "date": "1985-11-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-November-1985-images/0030",
+  "extract": "sha256:2962f60b4aab801dbfd5fbb8f83959f456d3fb4754fa937d5f0e42ffd1ed3734",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-69-1985-november/0028",
+   "extract": "sha256:b674d8b866ccd1a5a19d697f4c55db5f2deaf62e0215304988e829698330c1db"
+  }
+ ],
+ "reading": "sha256:98e2435d6737f0a8a606388e911060c54c6bcaaf920866ec934e455b12762e9b",
+ "key": {
+  "unit": "ia:games-69-1985-november/0075",
+  "extract": "sha256:6dd9c9b8041b53ada54dd4c47323699d973d69fa137c16457e15460eba42ca1a",
+  "solution_id": "games-69-1985-november/75#3",
+  "how": "recovered near:2"
+ },
+ "alternates": [
+  "https://archive.org/details/games-69-1985-november/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r14c14 r15c15",
+   "low-confidence letters at r12c5"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:f0f0ebc3d8796924814591d9847f4b0930522a9e2390a52b7234259eb51ca61f"
+}

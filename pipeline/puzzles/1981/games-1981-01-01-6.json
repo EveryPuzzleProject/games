@@ -1,0 +1,51 @@
+{
+ "id": "games-1981-01-01-6",
+ "aliases": [
+  "games1981-01-01f",
+  "games1981-01-01-L048"
+ ],
+ "xdid": "games1981-01-01f",
+ "issue": "1981-01-01",
+ "date": "1981-01-01",
+ "grid": {
+  "unit": "ia:games-21-1981-january/0048",
+  "extract": "sha256:005b003249abe4d84a91273ce0fb2267fe5d931b8c8adc54c46fbd01e3a4c789",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-21-1981-january/0047",
+  "extract": "sha256:1b230fdeba6287c6de8d54f6cdab8894ff4c005d995767e481727d5410a8830e"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-January-February-1981-images/0048",
+   "extract": "sha256:e94b68f95387858b51082c5dd6ca00a8a72546615da7d29e05da3063907ddd2b"
+  }
+ ],
+ "reading": "sha256:7602af8f4d4581a12fc06e27a6881b5be5067840d9e1df586c0f43d3a0140119",
+ "key": {
+  "unit": "ia:Games-Magazine-January-February-1981-images/0070",
+  "extract": "sha256:83edaacee0253b40d004942f7dc458d9fca0415d57ebaeeec1a552eb59015af4",
+  "solution_id": "Games-Magazine-January-February-1981-images/70#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   70,
+   "its page says the answers are on page 69"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-January-February-1981-images/page/n48/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r4c15 r4c24 r8c6 r16c22 r17c21 r23c16"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:02b155312e324cab272180a77ef235bd3a7d0ccea7bf6c6d4834f828571256a4"
+}

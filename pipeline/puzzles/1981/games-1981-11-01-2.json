@@ -1,0 +1,52 @@
+{
+ "id": "games-1981-11-01-2",
+ "aliases": [
+  "games1981-11-01e",
+  "games1981-11-01-L064"
+ ],
+ "xdid": "games1981-11-01e",
+ "issue": "1981-11-01",
+ "date": "1981-11-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-November-December-1981-images/0064",
+  "extract": "sha256:399e70eff5feab5ea317ba90b430be4e868d2b278eb769916d1b331de016b594",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-November-December-1981-images/0063",
+  "extract": "sha256:b84ec1925a56701130267d41c714e16d3379affeac303ac0200c9dc4b245be3a"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-26-1981-november/0064",
+   "extract": "sha256:e87fa8485e59390b5fe588a5fa576700fb930089459056c619c2552db08d32d1"
+  }
+ ],
+ "reading": "sha256:e6ac9a9aec42fe1baf814c72fc1ec1063deb9b7e6ac4890773d1fe2e433ff6b2",
+ "key": {
+  "unit": "ia:Games-Magazine-November-December-1981-images/0095",
+  "extract": "sha256:b3305044d5a1e9fa9941afe7f8f4c04c5682ce2e81f95b557334546debe75937",
+  "solution_id": "Games-Magazine-November-December-1981-images/95#3",
+  "how": "recovered near:2"
+ },
+ "answer_pages": [
+  [
+   95,
+   "its page says the answers are on page 94"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-26-1981-november/page/n64/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r22c9 r25c7",
+   "low-confidence letters at r7c14 r11c7 r14c16 r15c18 r20c20 r21c14 r21c20 r23c7 r24c2 r24c7 r25c16"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:5af6c3fa8a6f0253c9241ec6f118ea8c6041352c2c139ca2a3819522830b2405"
+}

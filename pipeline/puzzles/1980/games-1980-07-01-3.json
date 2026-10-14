@@ -1,0 +1,53 @@
+{
+ "id": "games-1980-07-01-3",
+ "aliases": [
+  "games1980-07-01e",
+  "games1980-07-01-L046"
+ ],
+ "xdid": "games1980-07-01e",
+ "issue": "1980-07-01",
+ "date": "1980-07-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-July-August-1980-images/0046",
+  "extract": "sha256:6a6309386e188dbeea0f2a1121daf84ce5cd8f802e11d5947122528e4f62967d",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-18-1980-july/0042",
+   "extract": "sha256:f899e5eac8efbfd203353fd5072087ea168b2c4c6a27b7b283fbd1e76feeef05"
+  }
+ ],
+ "reading": "sha256:8b295f043c1c1a2d6de4f8a9fc9ada91cd0b97e8a5e55631f05d140646923fac",
+ "key": {
+  "unit": "ia:Games-Magazine-July-August-1980-images/0077",
+  "extract": "sha256:e725fa0b6da7d44a9068fcb054426b78f9d367a5a3bf6c6ac8a03bfd7006d83f",
+  "solution_id": "Games-Magazine-July-August-1980-images/77#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   70,
+   "headed with the puzzle's page, (Page 41)"
+  ],
+  [
+   77,
+   "its page says the answers are on page 70"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-18-1980-july/page/n42/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "2 unreadable solution letters",
+   "low-confidence letters at r1c8 r1c15 r2c2 r2c4 r2c5 r2c9 r4c5 r5c13 r6c10 r7c9 r9c15 r10c6 r12c14 r12c15 r13c11 r14c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:5a8c462560be504c9670a18cb3fb30acd508fd121b299e33d57f2b77c849add0"
+}

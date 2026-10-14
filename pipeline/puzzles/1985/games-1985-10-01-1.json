@@ -1,0 +1,42 @@
+{
+ "id": "games-1985-10-01-1",
+ "aliases": [
+  "games1985-10-01b",
+  "games1985-10-01-L030"
+ ],
+ "xdid": "games1985-10-01b",
+ "issue": "1985-10-01",
+ "date": "1985-10-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-October-1985-images/0030",
+  "extract": "sha256:ec825947d93cff90a8ceaa709bc53eb2b18d3712f05a85a0fa76a7c842b7ea7b",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games681985october/0028",
+   "extract": "sha256:36befce4fd722277e11532dbf8f9b98b166ee8ce566e9f99e3478632492c71bb"
+  }
+ ],
+ "reading": "sha256:aeb7cc6b952cf10efd548aece952a1b911a85b29e9b1a1161e667d8e59939bbd",
+ "key": {
+  "unit": "ia:Games-Magazine-October-1985-images/0083",
+  "extract": "sha256:3ae15ea6a4a0a69cd01023770a512dd2715a0419cd23a83d4faf2cea034365f7",
+  "solution_id": "Games-Magazine-October-1985-images/83#1",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games681985october/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c13 r11c6 r12c12 r12c13 r13c10"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:ef248b7de719eb6259925e7b214eff70546e144f8966191bd7f2b54ac999cb84"
+}

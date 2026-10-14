@@ -1,0 +1,2057 @@
+{
+ "ia:Games-Magazine-July-1985-images/0003": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8d7b0458a2fa3d42e329dca0fd7fee70f04d1d7aef0ee399fd93998d4ef81483"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0003.analysis.v4.pkl",
+   "output": "sha256:c39265db50ba8a9bdc844bc74cbe7d4c7addfa83d519b5d57ea16c53426fe700",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:8d7b0458a2fa3d42e329dca0fd7fee70f04d1d7aef0ee399fd93998d4ef81483",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0004": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:03a85c17c19bd6396eff147f6e3225e7c0c40c339675f76392115fcda86f12e2"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0004.analysis.v4.pkl",
+   "output": "sha256:46ce600cd71e594e8f5dfdc986a5c1536975f9bc48efcbc4c5490a88ef0163f0",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:03a85c17c19bd6396eff147f6e3225e7c0c40c339675f76392115fcda86f12e2",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0005": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2a2cd2a224c9cb2a87dd3d60e16082d36d2cf98d975a81338e5cb846b2f37453"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0005.analysis.v4.pkl",
+   "output": "sha256:5ef26af0a67c553a644a4b3aff6097352f5ef830752aca971421c67325ae823f",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:2a2cd2a224c9cb2a87dd3d60e16082d36d2cf98d975a81338e5cb846b2f37453",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0006": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7984ecf29626e38cc9aca45ddeb5d4eb614e21c7f0cd6a62950276b5d405475b",
+    "ocr": "sha256:b9a20f1f42e80a07afee7b868f1b71e9684aa606f32c57d36e617c05b53e58ec"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0006.analysis.v4.pkl",
+   "output": "sha256:c1ca5fe35a044f70abc4fffbf80c87b6c31be09a5ad18a80b2cdd0af90df6751",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:7984ecf29626e38cc9aca45ddeb5d4eb614e21c7f0cd6a62950276b5d405475b",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7984ecf29626e38cc9aca45ddeb5d4eb614e21c7f0cd6a62950276b5d405475b"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0006.ocr.json",
+   "output": "sha256:b9a20f1f42e80a07afee7b868f1b71e9684aa606f32c57d36e617c05b53e58ec",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0006#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7984ecf29626e38cc9aca45ddeb5d4eb614e21c7f0cd6a62950276b5d405475b"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0006.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0006#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7984ecf29626e38cc9aca45ddeb5d4eb614e21c7f0cd6a62950276b5d405475b"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0006.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0006#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7984ecf29626e38cc9aca45ddeb5d4eb614e21c7f0cd6a62950276b5d405475b"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0006.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0007": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:83b81efa8aa00c0dbca1d941144653f8174f0029031c21bd6e12601740ad1750"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0007.analysis.v4.pkl",
+   "output": "sha256:d8accd93ea52589e210af93015d415c966cf7cea51622f3e1afd90e1063fe978",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:83b81efa8aa00c0dbca1d941144653f8174f0029031c21bd6e12601740ad1750",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0007#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:83b81efa8aa00c0dbca1d941144653f8174f0029031c21bd6e12601740ad1750"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0007.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0007#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:83b81efa8aa00c0dbca1d941144653f8174f0029031c21bd6e12601740ad1750"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0007.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0007#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:83b81efa8aa00c0dbca1d941144653f8174f0029031c21bd6e12601740ad1750"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0007.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0008": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c8b0de7da5ccde6b8f657854f8a296406b72ff16b4f5ef4fa17f92d5347c4891"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0008.analysis.v4.pkl",
+   "output": "sha256:70c09c336150a3fe0fe6e960420cd5348b45e27baa80cb978ae0b5efad9244b7",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:c8b0de7da5ccde6b8f657854f8a296406b72ff16b4f5ef4fa17f92d5347c4891",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0013": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3798eb44258f1a4ecad2f50d58dda980098eae115eb5166dc1da82d14ce1abf7"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0013.analysis.v4.pkl",
+   "output": "sha256:3103096b50bf003fdd79c0e5c80c573debfdb2d3e9ab32810efad681adf155cc",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:3798eb44258f1a4ecad2f50d58dda980098eae115eb5166dc1da82d14ce1abf7",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0014": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5c6d5e3862d309f87f743ff166be49a619d55372917e29331748ff6f2dc369b5"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0014.analysis.v4.pkl",
+   "output": "sha256:a79b92de1509348e3e5eaefdc582e75af2eb1d4389387abc6ee7129282dc5114",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:5c6d5e3862d309f87f743ff166be49a619d55372917e29331748ff6f2dc369b5",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0015": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:fe449291c7cb51adf4227731d062acf2065fcea53f9479b8f6c70d64304b5403"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0015.analysis.v4.pkl",
+   "output": "sha256:bd533724b4cc68664e7bd806b954ead1abd56c44c72ec70bb3d5cd546fd82400",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:fe449291c7cb51adf4227731d062acf2065fcea53f9479b8f6c70d64304b5403",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0020": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c3f9e662dfa4d55ac8d66eaa5e9237d6a40e27fe330e45da6f3bc4fd895d44f4"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0020.analysis.v4.pkl",
+   "output": "sha256:ba66522ba9a78565392b5c16e2d86a50ff17ef67d8a88a4d6b5597f051ac37a3",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:c3f9e662dfa4d55ac8d66eaa5e9237d6a40e27fe330e45da6f3bc4fd895d44f4",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0021": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7a340e3f9ebd0c9649f4dce30690f786731a012d835ae9a18ae03b6683a1ca31"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0021.analysis.v4.pkl",
+   "output": "sha256:83c867895d14a2c8f9b7d851c016599fc53d73954d78ad656255e921185d7e81",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:7a340e3f9ebd0c9649f4dce30690f786731a012d835ae9a18ae03b6683a1ca31",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0022": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e8b8fffec444121d63b157d4c9ed5ee048c9c4645bc8ed8f72077a0e8916524c"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0022.analysis.v4.pkl",
+   "output": "sha256:d543d711b0569a3f3adbbc410480166e6d1ac2127635349aeb29b01b0bc33a5d",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:e8b8fffec444121d63b157d4c9ed5ee048c9c4645bc8ed8f72077a0e8916524c",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0023": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:b18e7b6d9863b53cd67aae8e13056482e23ba7f068f246eb6453cf94e0a6e889"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0023.analysis.v4.pkl",
+   "output": "sha256:f3e572c6c3a6b3d0fbced0a076bc2a5036f85232bd01eb0bf0d8e94d7c09e6b6",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:b18e7b6d9863b53cd67aae8e13056482e23ba7f068f246eb6453cf94e0a6e889",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0024": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5606b6e7ee5f6ad35eab0172a207310d0a9e3dfe9296b846bffd235b804cc114"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0024.analysis.v4.pkl",
+   "output": "sha256:99e8152de3704cae97ea3ac36b9c47409f90c276562ae57e0b16d34745986c3a",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:5606b6e7ee5f6ad35eab0172a207310d0a9e3dfe9296b846bffd235b804cc114",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0027": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:b6c2d454e37d406a5edae223284b4c4fb0ae892c37d90a87a01199d2f6219a33"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0027.analysis.v4.pkl",
+   "output": "sha256:f33ae62cc763fa3391850f3b8219bb9f61e9821e197883e76a79141a9af736d7",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:b6c2d454e37d406a5edae223284b4c4fb0ae892c37d90a87a01199d2f6219a33",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0028": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:330b83b7afdc84b68739003d1422bc99ad32ffb35123c62307edb610d5e3583b"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0028.analysis.v4.pkl",
+   "output": "sha256:eb3fc051adc2317531819182cfb914af312038a70877f05d5fbd34a8fd2f0ee6",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:330b83b7afdc84b68739003d1422bc99ad32ffb35123c62307edb610d5e3583b",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0028#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:330b83b7afdc84b68739003d1422bc99ad32ffb35123c62307edb610d5e3583b"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0028.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0028#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:330b83b7afdc84b68739003d1422bc99ad32ffb35123c62307edb610d5e3583b"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0028.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0028#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:330b83b7afdc84b68739003d1422bc99ad32ffb35123c62307edb610d5e3583b"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0028.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0029": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:06eb28b8211941794b46f910610d7e7116719defeba696b631203e60d0f27a3c"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0029.analysis.v4.pkl",
+   "output": "sha256:efcfc35ee19884438fa11d4e6ad28a60126160b66ccde51534538547404acfc4",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:06eb28b8211941794b46f910610d7e7116719defeba696b631203e60d0f27a3c",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0030": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c9caee122e0c25ae2a01ee2f07d7abc749e0c1ccec2945000173c168ebdfd9be",
+    "ocr": "sha256:78aafc4d3411487bae906344f571025844e0e46eecfa3f39a787eca2293249ce"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0030.analysis.v4.pkl",
+   "output": "sha256:013eeaad4125f09e2925120b759949fe063ea2242ece2f5b0fed29493eb7cd0d",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:c9caee122e0c25ae2a01ee2f07d7abc749e0c1ccec2945000173c168ebdfd9be",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c9caee122e0c25ae2a01ee2f07d7abc749e0c1ccec2945000173c168ebdfd9be"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0030.ocr.json",
+   "output": "sha256:78aafc4d3411487bae906344f571025844e0e46eecfa3f39a787eca2293249ce",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0030#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c9caee122e0c25ae2a01ee2f07d7abc749e0c1ccec2945000173c168ebdfd9be"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0030.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0030#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c9caee122e0c25ae2a01ee2f07d7abc749e0c1ccec2945000173c168ebdfd9be"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0030.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0030#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c9caee122e0c25ae2a01ee2f07d7abc749e0c1ccec2945000173c168ebdfd9be"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0030.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0034": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7e42029c015f5ddf80703626b8030b06820900d01e59975a71ef479426eebef7",
+    "ocr": "sha256:b708e6d53253bd41d488a62e102f6379a1eaf898c2298b9217e2db7872d594fa"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0034.analysis.v4.pkl",
+   "output": "sha256:345d512921604c50869ff6b14cbf67cec02dc0d80a8f220d840339ef07b0088a",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:7e42029c015f5ddf80703626b8030b06820900d01e59975a71ef479426eebef7",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7e42029c015f5ddf80703626b8030b06820900d01e59975a71ef479426eebef7"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0034.ocr.json",
+   "output": "sha256:b708e6d53253bd41d488a62e102f6379a1eaf898c2298b9217e2db7872d594fa",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0034#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7e42029c015f5ddf80703626b8030b06820900d01e59975a71ef479426eebef7"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0034.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0034#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7e42029c015f5ddf80703626b8030b06820900d01e59975a71ef479426eebef7"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0034.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0034#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:7e42029c015f5ddf80703626b8030b06820900d01e59975a71ef479426eebef7"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0034.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0036": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2ce0465c588380b902db0701b52b6193e13c48a10f06d423458e1cc08cc420a0",
+    "ocr": "sha256:521d4d7505f1514ede24217fc0a4ccb88a1fabd41512ff46fb37d279508373c4"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0036.analysis.v4.pkl",
+   "output": "sha256:1a1fe00843bceca7eed45715328360a025deee49b152d8b821b43c983ca105c5",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:2ce0465c588380b902db0701b52b6193e13c48a10f06d423458e1cc08cc420a0",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2ce0465c588380b902db0701b52b6193e13c48a10f06d423458e1cc08cc420a0"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0036.ocr.json",
+   "output": "sha256:521d4d7505f1514ede24217fc0a4ccb88a1fabd41512ff46fb37d279508373c4",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0036#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2ce0465c588380b902db0701b52b6193e13c48a10f06d423458e1cc08cc420a0"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0036.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0036#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2ce0465c588380b902db0701b52b6193e13c48a10f06d423458e1cc08cc420a0"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0036.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0036#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2ce0465c588380b902db0701b52b6193e13c48a10f06d423458e1cc08cc420a0"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0036.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0040": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:6886b54ac8e48239f74a9b34269655017ffd3773f931eceff8dd4f1acbb5a030",
+    "ocr": "sha256:e0a84e6d332587d35c3239a759f483779fbced8c33ea09f4e7beb42297460dd9"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0040.analysis.v4.pkl",
+   "output": "sha256:2ef4de507ff8bc706b8ed7575fc3c99a7a5d68ba78e20c738e1ae143de48cc44",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:6886b54ac8e48239f74a9b34269655017ffd3773f931eceff8dd4f1acbb5a030",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:6886b54ac8e48239f74a9b34269655017ffd3773f931eceff8dd4f1acbb5a030"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0040.ocr.json",
+   "output": "sha256:e0a84e6d332587d35c3239a759f483779fbced8c33ea09f4e7beb42297460dd9",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0040#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:6886b54ac8e48239f74a9b34269655017ffd3773f931eceff8dd4f1acbb5a030"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0040.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0040#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:6886b54ac8e48239f74a9b34269655017ffd3773f931eceff8dd4f1acbb5a030"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0040.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0040#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:6886b54ac8e48239f74a9b34269655017ffd3773f931eceff8dd4f1acbb5a030"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0040.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0041": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8e779604c882277452ba7f512a6d4e9d88c5ba56550d913faba2e07f9e1ee17c",
+    "ocr": "sha256:94ab0e7fc7a65bb7ef04899de20dbc9a9eaab8d3758d44f49c42069276968e8f"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0041.analysis.v4.pkl",
+   "output": "sha256:3f6a755f9a7e90f32fa17e32bc669b6aea282d021b99f490af9ac4b442efa822",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:8e779604c882277452ba7f512a6d4e9d88c5ba56550d913faba2e07f9e1ee17c",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8e779604c882277452ba7f512a6d4e9d88c5ba56550d913faba2e07f9e1ee17c"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0041.ocr.json",
+   "output": "sha256:94ab0e7fc7a65bb7ef04899de20dbc9a9eaab8d3758d44f49c42069276968e8f",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0041#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8e779604c882277452ba7f512a6d4e9d88c5ba56550d913faba2e07f9e1ee17c"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0041.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0041#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8e779604c882277452ba7f512a6d4e9d88c5ba56550d913faba2e07f9e1ee17c"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0041.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0041#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8e779604c882277452ba7f512a6d4e9d88c5ba56550d913faba2e07f9e1ee17c"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0041.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0042": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2e0678aa7dc9193a72e8eba36cef7ef9d6d944275e1b3480869f7ee4647cf096"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0042.analysis.v4.pkl",
+   "output": "sha256:3e0265e734e2b940000d67fa9764d828d4f6cc621cd8e47a356218d8a2f7b962",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:2e0678aa7dc9193a72e8eba36cef7ef9d6d944275e1b3480869f7ee4647cf096",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0043": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:25b2d45894e376c08817704034e6a0647dc79242982519753183edf2bf0c6892",
+    "ocr": "sha256:71c18c3167d58b8f7e7c7b47960138c5d9134db95478532e7c760575949120c3"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0043.analysis.v4.pkl",
+   "output": "sha256:d74a010bc25352de1d9b25886c03dd9a8ebe9853a37d1250c9cfd6c68dc3ab31",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:25b2d45894e376c08817704034e6a0647dc79242982519753183edf2bf0c6892",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:25b2d45894e376c08817704034e6a0647dc79242982519753183edf2bf0c6892"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0043.ocr.json",
+   "output": "sha256:71c18c3167d58b8f7e7c7b47960138c5d9134db95478532e7c760575949120c3",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0043#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:25b2d45894e376c08817704034e6a0647dc79242982519753183edf2bf0c6892"
+   },
+   "made": "2026-10-14T19:33:00+00:00",
+   "note": "adopted leaf0043.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0043#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:25b2d45894e376c08817704034e6a0647dc79242982519753183edf2bf0c6892"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0043.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0043#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:25b2d45894e376c08817704034e6a0647dc79242982519753183edf2bf0c6892"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0043.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0044": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8c4511f98b1e1c059634aa409ea15ff25cab9788785368f0640d8bf6ccf4d46f"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0044.analysis.v4.pkl",
+   "output": "sha256:a2573722ce090c3f4c2c765d86c8ef8eec38bb7499853078f6cb1b6ac2faa578",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:8c4511f98b1e1c059634aa409ea15ff25cab9788785368f0640d8bf6ccf4d46f",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0045": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:eccc44306a8cf08029130446b2ef976e21bef747f00d345545c310bd8457b298"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0045.analysis.v4.pkl",
+   "output": "sha256:e2f1bb779b4b02edd1a8d8af8360bee33888110634e31afbf01367c6514d8f2f",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:eccc44306a8cf08029130446b2ef976e21bef747f00d345545c310bd8457b298",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0046": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:53c8547869b7a8369816aae239492559d18aa083c811832cd03117d330532979",
+    "ocr": "sha256:bd3c348ef5a1f94fea78d29753ad3fc86deac0c34bcdcf1b0d2b1eeb474cd673"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0046.analysis.v4.pkl",
+   "output": "sha256:f57a732086d8906e796d285bccbbc294a942f7d973e74bd8d2c4f45afc38ea15",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:53c8547869b7a8369816aae239492559d18aa083c811832cd03117d330532979",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:53c8547869b7a8369816aae239492559d18aa083c811832cd03117d330532979"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0046.ocr.json",
+   "output": "sha256:bd3c348ef5a1f94fea78d29753ad3fc86deac0c34bcdcf1b0d2b1eeb474cd673",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0046#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:53c8547869b7a8369816aae239492559d18aa083c811832cd03117d330532979"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0046.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0046#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:53c8547869b7a8369816aae239492559d18aa083c811832cd03117d330532979"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0046.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0046#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:53c8547869b7a8369816aae239492559d18aa083c811832cd03117d330532979"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0046.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0047": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:73368c70323c5af048ec7b1e9f0a14d13be5b15ed9cb8b736b25f207036930bc"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0047.analysis.v4.pkl",
+   "output": "sha256:c84b51a8e9b7c7aeed7db67ad6aae767a3ef1ffb12d3bef88cb1c090f19dcfc0",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:73368c70323c5af048ec7b1e9f0a14d13be5b15ed9cb8b736b25f207036930bc",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0047#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:73368c70323c5af048ec7b1e9f0a14d13be5b15ed9cb8b736b25f207036930bc"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0047.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0047#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:73368c70323c5af048ec7b1e9f0a14d13be5b15ed9cb8b736b25f207036930bc"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0047.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0047#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:73368c70323c5af048ec7b1e9f0a14d13be5b15ed9cb8b736b25f207036930bc"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0047.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0061": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:42fce721453d1b7c591bbbb3c73979d7fbd71474645d9e82af422228d0b1f81d"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0061.analysis.v4.pkl",
+   "output": "sha256:9e1eed43c9f1ddc40a0863526f54d5fe1086ed132c7bc2ea3df1f84eca4ca191",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:42fce721453d1b7c591bbbb3c73979d7fbd71474645d9e82af422228d0b1f81d",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0061#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:42fce721453d1b7c591bbbb3c73979d7fbd71474645d9e82af422228d0b1f81d"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0061.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0061#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:42fce721453d1b7c591bbbb3c73979d7fbd71474645d9e82af422228d0b1f81d"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0061.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0061#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:42fce721453d1b7c591bbbb3c73979d7fbd71474645d9e82af422228d0b1f81d"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0061.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0062": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:82f0be3b3725d70e5a4b490c8f518a19c2bcbe4875a4e7425ac3d314e155af2d",
+    "ocr": "sha256:3cb1f733eaad4911499873e5a4bb47de89628b8f08d2f4d516bb354476864f6b"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0062.analysis.v4.pkl",
+   "output": "sha256:02113d8ffec2bf4246c902ffbf570504258a1c5429d70e834b7551cd84f94444",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:82f0be3b3725d70e5a4b490c8f518a19c2bcbe4875a4e7425ac3d314e155af2d",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:82f0be3b3725d70e5a4b490c8f518a19c2bcbe4875a4e7425ac3d314e155af2d"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0062.ocr.json",
+   "output": "sha256:3cb1f733eaad4911499873e5a4bb47de89628b8f08d2f4d516bb354476864f6b",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0062#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:82f0be3b3725d70e5a4b490c8f518a19c2bcbe4875a4e7425ac3d314e155af2d"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0062.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0062#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:82f0be3b3725d70e5a4b490c8f518a19c2bcbe4875a4e7425ac3d314e155af2d"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0062.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0062#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:82f0be3b3725d70e5a4b490c8f518a19c2bcbe4875a4e7425ac3d314e155af2d"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0062.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0063": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:9ffa028b7ff03fd4b5c5821e41c08ea90b2f4fc2159460a39281a4fece1f4ea8"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0063.analysis.v4.pkl",
+   "output": "sha256:8040408826e4515acd1c49597decf76d77531d6c39e8c80922a91f5bd749113c",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:9ffa028b7ff03fd4b5c5821e41c08ea90b2f4fc2159460a39281a4fece1f4ea8",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0068": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:361544ecf6f4e61cb6df9fac441e670b494c5ab4378416f62c5a4d23bf6a19f7"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0068.analysis.v4.pkl",
+   "output": "sha256:7b42524120eb96a24715c5128f070d90d7440d9e51e125ec59dd48d7446d8fe1",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:361544ecf6f4e61cb6df9fac441e670b494c5ab4378416f62c5a4d23bf6a19f7",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0068#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:361544ecf6f4e61cb6df9fac441e670b494c5ab4378416f62c5a4d23bf6a19f7"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0068.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0068#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:361544ecf6f4e61cb6df9fac441e670b494c5ab4378416f62c5a4d23bf6a19f7"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0068.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0068#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:361544ecf6f4e61cb6df9fac441e670b494c5ab4378416f62c5a4d23bf6a19f7"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0068.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0069": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:69636870c160d25f5191880bdd03ad63b89eadef82411c9f2aa339c25eabc917",
+    "ocr": "sha256:96bca40d5f9ca2691e27864b627ad335d842850044451760034baa6ea3dfcc99"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0069.analysis.v4.pkl",
+   "output": "sha256:d533923802817cd4b1d7a717799cd4dbc647630838523c283ef8075404d4b9d2",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:69636870c160d25f5191880bdd03ad63b89eadef82411c9f2aa339c25eabc917",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:69636870c160d25f5191880bdd03ad63b89eadef82411c9f2aa339c25eabc917"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0069.ocr.json",
+   "output": "sha256:96bca40d5f9ca2691e27864b627ad335d842850044451760034baa6ea3dfcc99",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0069#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:69636870c160d25f5191880bdd03ad63b89eadef82411c9f2aa339c25eabc917"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0069.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0069#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:69636870c160d25f5191880bdd03ad63b89eadef82411c9f2aa339c25eabc917"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0069.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0069#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:69636870c160d25f5191880bdd03ad63b89eadef82411c9f2aa339c25eabc917"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0069.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0070": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:02fa2c3d38f244b0a1d27f4c59c138260ad51777fc1a0322b5ea3070cfb2c2b7"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0070.analysis.v4.pkl",
+   "output": "sha256:9be7609af0f89ddad0cd8fe2d31f37864d583573cf6fc9a56325d37dcb88a12a",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:02fa2c3d38f244b0a1d27f4c59c138260ad51777fc1a0322b5ea3070cfb2c2b7",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0071": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1d9e6710b87d4790e28d75f87d6a749261daa16f64cb2fb3b03045cef885ccb2",
+    "ocr": "sha256:5e8b20cd22d4450b6cf4ce1e0d726305d9152d5bf7ee974fae85b3f87d7d11ca"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0071.analysis.v4.pkl",
+   "output": "sha256:9d03d77d3c686a345f3929a737e36c003a07d51a3a3031ab095d16fe282b21d5",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:1d9e6710b87d4790e28d75f87d6a749261daa16f64cb2fb3b03045cef885ccb2",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1d9e6710b87d4790e28d75f87d6a749261daa16f64cb2fb3b03045cef885ccb2"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0071.ocr.json",
+   "output": "sha256:5e8b20cd22d4450b6cf4ce1e0d726305d9152d5bf7ee974fae85b3f87d7d11ca",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0071#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1d9e6710b87d4790e28d75f87d6a749261daa16f64cb2fb3b03045cef885ccb2"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0071.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0071#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1d9e6710b87d4790e28d75f87d6a749261daa16f64cb2fb3b03045cef885ccb2"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0071.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0071#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:1d9e6710b87d4790e28d75f87d6a749261daa16f64cb2fb3b03045cef885ccb2"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0071.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0072": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:28c068e28ee9b7d213bba7d8eb2f228422e272e533322317e698cb8d8ce04be1",
+    "ocr": "sha256:04db3d41bae5c2fec2ef86436a2da40cbdb4ff9cc70efe53900f3e844a265f9d"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0072.analysis.v4.pkl",
+   "output": "sha256:791fc9741b2af38ddcd3b51e988bae1a12bce65d06913e9fd06fcfdbc7ca49ff",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:28c068e28ee9b7d213bba7d8eb2f228422e272e533322317e698cb8d8ce04be1",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:28c068e28ee9b7d213bba7d8eb2f228422e272e533322317e698cb8d8ce04be1"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0072.ocr.json",
+   "output": "sha256:04db3d41bae5c2fec2ef86436a2da40cbdb4ff9cc70efe53900f3e844a265f9d",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0072#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:28c068e28ee9b7d213bba7d8eb2f228422e272e533322317e698cb8d8ce04be1"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0072.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:5f92ecf0f760c1644b927e2914f57d0484991295e031ca3f26fc29d1ab40c6b2",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0072#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:28c068e28ee9b7d213bba7d8eb2f228422e272e533322317e698cb8d8ce04be1"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0072.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0072#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:28c068e28ee9b7d213bba7d8eb2f228422e272e533322317e698cb8d8ce04be1"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0072.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0073": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:03e4d67c916a11f49308c69363860f5829c74d5e3e695119651b5e8c959d6872"
+   },
+   "made": "2026-10-14T19:28:01+00:00",
+   "note": "adopted leaf0073.analysis.v4.pkl",
+   "output": "sha256:951bfd3ae1bb12f5782b958b0faea54c96fec9806386a7700b76ae25f6d9c335",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:28:01+00:00",
+   "output": "sha256:03e4d67c916a11f49308c69363860f5829c74d5e3e695119651b5e8c959d6872",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0073#key-71773e9b13dd": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:03e4d67c916a11f49308c69363860f5829c74d5e3e695119651b5e8c959d6872"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0073.key-71773e9b13dd.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0073#key-8fd530257c65": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:03e4d67c916a11f49308c69363860f5829c74d5e3e695119651b5e8c959d6872"
+   },
+   "made": "2026-10-14T19:32:58+00:00",
+   "note": "adopted leaf0073.key-8fd530257c65.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-July-1985-images/0073#key-cf904f02ce91": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:03e4d67c916a11f49308c69363860f5829c74d5e3e695119651b5e8c959d6872"
+   },
+   "made": "2026-10-14T19:32:59+00:00",
+   "note": "adopted leaf0073.key-cf904f02ce91.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ }
+}
