@@ -1,0 +1,45 @@
+{
+ "id": "games-1983-02-01-2",
+ "aliases": [
+  "games1983-02-01b",
+  "games1983-02-01-L040"
+ ],
+ "xdid": "games1983-02-01b",
+ "issue": "1983-02-01",
+ "date": "1983-02-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-February-1983-images/0040",
+  "extract": "sha256:6e2814539b92da2a1fef789d2347f0b3c51dbe32259fc2763329479f3c18ce72",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:6caa576f28a30448f8f1ea5d155de88683fff55d6c6cbf32164445eb85da1082",
+ "key": {
+  "unit": "ia:Games-Magazine-February-1983-images/0090",
+  "extract": "sha256:986d86d0d44dcf388c45006f3f0ecb0198db4e2706af02c7cf5e312c761b3164",
+  "solution_id": "Games-Magazine-February-1983-images/90#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   86,
+   "its page says the answers are on page 83"
+  ],
+  [
+   88,
+   "its page says the answers are on page 85"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "6 unreadable solution letters",
+   "low-confidence letters at r1c15 r4c4 r4c8 r6c7 r8c7 r12c8 r15c13"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:2e4c9babe772f87e82f746e16ba30f3a0e566e24452c00a30b54a8b06c32b4c9"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "games-1978-01-01-1",
+ "aliases": [
+  "games1978-01-01",
+  "games1978-01-01-L028"
+ ],
+ "xdid": "games1978-01-01",
+ "issue": "1978-01-01",
+ "date": "1978-01-01",
+ "grid": {
+  "unit": "ia:games-3-1978-january/0028",
+  "extract": "sha256:e352072a3d767605c83ecd11d28faaf14d551a5372215300ddca36763811c329",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-January_February-1978-images/0028",
+   "extract": "sha256:11e42ee6ac7cf47632b980613e85c9b0276dece3406150829a866c3e321a5a28"
+  }
+ ],
+ "reading": "sha256:5dcf2c5a80bbcc795d77ac27fb3ac3990100be73c896a4d11e4cd3b5b1bdfbfb",
+ "key": {
+  "unit": "ia:Games-Magazine-January_February-1978-images/0063",
+  "extract": "sha256:ef8e864d5e2cef0a496bdca5fef763f5100cd2dc205cb4b4ff83257560f91038",
+  "solution_id": "Games-Magazine-January_February-1978-images/63#0@r0c0:21x21",
+  "how": "exact (part of a merged answer grid)"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-January_February-1978-images/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c2 r8c20 r9c21 r11c5 r11c17 r15c19 r16c16 r16c18 r19c13 r20c15 r21c15 r21c19"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:8d10e774ee7f7d713e5179690867e538bbc5b909c072d710051f74546803401d"
+}

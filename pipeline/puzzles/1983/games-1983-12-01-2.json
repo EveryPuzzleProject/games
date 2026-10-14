@@ -1,0 +1,42 @@
+{
+ "id": "games-1983-12-01-2",
+ "aliases": [
+  "games1983-12-01b",
+  "games1983-12-01-L042"
+ ],
+ "xdid": "games1983-12-01b",
+ "issue": "1983-12-01",
+ "date": "1983-12-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-December-1983-images/0042",
+  "extract": "sha256:3577c0de5060dec60628bb6a259c6c9b59c624d3cf7287000dbafca6032ebbc5",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-46-1983-december/0038",
+   "extract": "sha256:879927b733300dba1fbb002b97191bba82f5164e408ec870b1f547a381534681"
+  }
+ ],
+ "reading": "sha256:d8910a5bf5db2b7901a4412b79506b9d607f5d988aef43061e9c2d49210faba7",
+ "key": {
+  "unit": "ia:Games-Magazine-December-1983-images/0091",
+  "extract": "sha256:9490cb07162b947846bb85095e9d58bdcfa408a102d0dd3281e6cb88466eb843",
+  "solution_id": "Games-Magazine-December-1983-images/91#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-46-1983-december/page/n38/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r13c7 r14c12"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:b31b053add11c347bfab3c8694ee880b90a64eaf59bfec34fe3c2c16dea5d884"
+}

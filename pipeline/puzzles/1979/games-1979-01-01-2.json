@@ -1,0 +1,48 @@
+{
+ "id": "games-1979-01-01-2",
+ "aliases": [
+  "games1979-01-01c",
+  "games1979-01-01-L036"
+ ],
+ "xdid": "games1979-01-01c",
+ "issue": "1979-01-01",
+ "date": "1979-01-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-January-February-1979-images/0036",
+  "extract": "sha256:3c493cf6fe4c5d24def18972a35df843187fb809476222c3f573b6e2e75e9d5c",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-9-1979-january/0032",
+   "extract": "sha256:d7da67b4f9f0ac227f8e5e36d23a84e671983b0a8398e322de009609fbd09f03"
+  }
+ ],
+ "reading": "sha256:cb4ade222a1c1806fd99143b1e421909b5b3fbb96f87c6932eb3b869fe5bdbe2",
+ "key": {
+  "unit": "ia:Games-Magazine-January-February-1979-images/0069",
+  "extract": "sha256:0c8e4c39afa67fe4c5541db98f5c8657af5479a4297f527c1bc651d33182f0e7",
+  "solution_id": "Games-Magazine-January-February-1979-images/69#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   69,
+   "its page says the answers are on page 62"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-9-1979-january/page/n32/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c19 r2c10 r2c14 r7c20 r9c18 r10c9 r11c20 r12c14 r13c17 r14c7 r19c5 r19c18"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:ee229d77aa8198a88989f70dbb9a4f09b45bf14626f9ac9cca888511a751c54b"
+}

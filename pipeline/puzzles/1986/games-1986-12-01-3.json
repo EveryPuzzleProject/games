@@ -1,0 +1,43 @@
+{
+ "id": "games-1986-12-01-3",
+ "aliases": [
+  "games1986-12-01e",
+  "games1986-12-01-L045"
+ ],
+ "xdid": "games1986-12-01e",
+ "issue": "1986-12-01",
+ "date": "1986-12-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-December-1986-images/0045",
+  "extract": "sha256:0eb9657b7a456c9f414ce1a62dbafdb4102e8d1b9aa16fd7db2f3653cc1b9622",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games821986december/0037",
+   "extract": "sha256:e562916b45e72ff7bd389a9fd1451ac91506feef88502c7378d1b32c4b97ba7d"
+  }
+ ],
+ "reading": "sha256:56b81f8497d2912a26bd08f70925f5705806a50acdff887c2a673d8bd08694e2",
+ "key": {
+  "unit": "ia:Games-Magazine-December-1986-images/0068",
+  "extract": "sha256:7dce046f2542ddb600ff0be34c197b80beadc32d08cacad87042954ada92cb0b",
+  "solution_id": "Games-Magazine-December-1986-images/68#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games821986december/page/n37/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "8 unreadable solution letters",
+   "low-confidence letters at r1c1 r1c7 r1c14 r3c4 r4c10 r6c7 r7c6 r7c15 r8c19 r9c3 r10c9 r12c7 r15c19 r16c20 r19c13 r19c14"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:1089f83a6aa87a724aff55ab648c56e64b90417185fe7890c376ff7d49c35f6f"
+}

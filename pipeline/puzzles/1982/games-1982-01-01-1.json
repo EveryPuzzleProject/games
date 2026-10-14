@@ -1,0 +1,49 @@
+{
+ "id": "games-1982-01-01-1",
+ "aliases": [
+  "games1982-01-01b",
+  "games1982-01-01-L032"
+ ],
+ "xdid": "games1982-01-01b",
+ "issue": "1982-01-01",
+ "date": "1982-01-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-January-February-1982-images/0032",
+  "extract": "sha256:45a013f9ecca8b99790a53448a0d4a59104be0cdc4e08d8a541f1a1d2e230aea",
+  "size": "9x9",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-27-1982-january/0028",
+   "extract": "sha256:5c102fa1c2f7367d90876a1dce83f0ba68bb2de952b58cddc4014e3e43b3f20f"
+  }
+ ],
+ "reading": "sha256:3051c85c1254834c821abe762c6be756e43aeafd4052d03be96deb3f1fc155a8",
+ "key": {
+  "unit": "ia:Games-Magazine-January-February-1982-images/0081",
+  "extract": "sha256:8e1e58fb8116ddd3709d402324733645798fd476eb0d53134f0c5ba340ce111b",
+  "solution_id": "Games-Magazine-January-February-1982-images/81#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   79,
+   "its page says the answers are on page 68"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-27-1982-january/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "28 unreadable solution letters",
+   "low-confidence letters at r1c2 r1c3 r1c6 r1c8 r2c3 r2c7 r3c1 r3c9 r4c2 r4c3 r4c6 r4c7 r4c8 r5c2 r6c1 r6c6 r6c9 r7c1 r7c2 r7c6 r7c8 r8c5 r8c6 r8c7 r8c9 r9c1 r9c2 r9c8"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:8de54b4cfd8f61ac5d35c4a881f6dce96e50d45a5cb5a0a28edd423a712a486b"
+}

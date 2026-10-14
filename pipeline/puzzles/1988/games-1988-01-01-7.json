@@ -1,0 +1,51 @@
+{
+ "id": "games-1988-01-01-7",
+ "aliases": [
+  "games1988-01-01g",
+  "games1988-01-01-L042"
+ ],
+ "xdid": "games1988-01-01g",
+ "issue": "1988-01-01",
+ "date": "1988-01-01",
+ "grid": {
+  "unit": "ia:games-89-1988-january/0054",
+  "extract": "sha256:0559db755f5a93adaa7a41577248b3356db462c7a38ce016396ffa2f7cbc3018",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-89-1988-january/0053",
+  "extract": "sha256:f30bd82a38f5002a307ef98e643c353f2d1b0049d31a7f7c02660d6b3f5036b4"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-January-1988-images/0042",
+   "extract": "sha256:c524d8d30e46f0a12a52a3e39dfba51dff3d1e70f5c09e661deae3d40d518388"
+  }
+ ],
+ "reading": "sha256:f0618ab59108eaa8cb5fc419bbc35857c87b60f97551466da5fac422a9d4035e",
+ "key": {
+  "unit": "ia:Games-Magazine-January-1988-images/0063",
+  "extract": "sha256:baaa7fb44542ce971aa55b33c188431a9922b03fcc785b2fba340732102dccee",
+  "solution_id": "Games-Magazine-January-1988-images/63#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   71,
+   "its page says the answers are on page 54"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-January-1988-images/page/n42/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c14 r2c1 r2c9 r3c2 r3c4 r18c25"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:c6aaedad0cb0356d980167688e3822169f39732099df81d8c240c3f716882172"
+}

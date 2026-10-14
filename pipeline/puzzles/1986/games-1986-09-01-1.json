@@ -1,0 +1,52 @@
+{
+ "id": "games-1986-09-01-1",
+ "aliases": [
+  "games1986-09-01b",
+  "games1986-09-01-L030"
+ ],
+ "xdid": "games1986-09-01b",
+ "issue": "1986-09-01",
+ "date": "1986-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September-1986-images/0030",
+  "extract": "sha256:1afc8d753d121d0fc1d4f354e75ca1950e639abcdff6eb22da676810d3944f46",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games791986september/0028",
+   "extract": "sha256:663f38b73e7a8d3bc3806ac8271de560bd54e85bb844841f500a17ad0d4116eb"
+  }
+ ],
+ "reading": "sha256:6b2b85d71e0ea1682e309ae6b8ae1e03f2296a6ef6a1cd609be62158e06db057",
+ "key": {
+  "unit": "ia:Games-Magazine-September-1986-images/0066",
+  "extract": "sha256:0864afaeb57ba7f82f36192e0455c9729c89368dc6e615933da95700f6028e48",
+  "solution_id": "Games-Magazine-September-1986-images/66#1@r0c1:15x15",
+  "how": "exact (part of a merged answer grid)"
+ },
+ "answer_pages": [
+  [
+   58,
+   "its page says the answers are on page 57"
+  ],
+  [
+   59,
+   "its page says the answers are on page 58"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games791986september/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r4c5 r7c9"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:500a8b62855f1a8d29fb0e599012370cb72c4a94d9461d367c2ee47470ffed0d"
+}

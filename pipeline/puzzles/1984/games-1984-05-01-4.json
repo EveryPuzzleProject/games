@@ -1,0 +1,52 @@
+{
+ "id": "games-1984-05-01-4",
+ "aliases": [
+  "games1984-05-01b",
+  "games1984-05-01-L034"
+ ],
+ "xdid": "games1984-05-01b",
+ "issue": "1984-05-01",
+ "date": "1984-05-01",
+ "grid": {
+  "unit": "ia:games511984may/0034",
+  "extract": "sha256:c833835b79a98d6dd7f55dc6646d279b403e19e10cb1ee5b39a3d869cd588bb1",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-May-1984-images/0034",
+   "extract": "sha256:a9a7ea35fc2a09ab9bed564a5503dbd2c97fc3b027c406b0d403f58a46c575c7"
+  }
+ ],
+ "reading": "sha256:1a7e5b67de588ea73966a3c3791f44ba44064e513ae8f1c596ae744aebd82590",
+ "key": {
+  "unit": "ia:games511984may/0070",
+  "extract": "sha256:8bd5b33f667928b120913d6260eefc574666df45ca9d2f34ee4ce391cdfb2ec4",
+  "solution_id": "games511984may/70#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   67,
+   "its page says the answers are on page 62"
+  ],
+  [
+   70,
+   "its page says the answers are on page 65"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-May-1984-images/page/n34/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c1 r2c8 r13c13"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:49dc787305201172ba868fa5eca437664c6fd451c783539bf8c2a30b95b23d6e"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "games-1985-03-01-3",
+ "aliases": [
+  "games1985-03-01c",
+  "games1985-03-01-L034"
+ ],
+ "xdid": "games1985-03-01c",
+ "issue": "1985-03-01",
+ "date": "1985-03-01",
+ "grid": {
+  "unit": "ia:games611985march/0034",
+  "extract": "sha256:21a89aa3985fe7576576734fa1afe64b39229b0009eade7d6b7e7ced16bd6a4b",
+  "size": "20x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:b54c587254a0493df989aa5ab4aaebc219cddb5e34e168501961f9b1b302b88e",
+ "key": {
+  "unit": "ia:games611985march/0069",
+  "extract": "sha256:346eada1f5d04e1c394f5c684f74bb6db8fd3238e8a5372d17e5dfc98cf67275",
+  "solution_id": "games611985march/69#0",
+  "how": "exact"
+ },
+ "checks": {
+  "solution": [
+   "10 unreadable solution letters",
+   "low-confidence letters at r2c16 r3c8 r3c10 r6c13 r7c11 r18c1 r18c2 r18c3 r18c4 r18c5 r18c6 r18c7 r18c8 r18c9 r18c10 r18c11 r18c12 r18c14 r18c15 r18c16 r18c17 r20c2"
+  ],
+  "asymmetric": 54,
+  "warnings": [
+   "Grid isn't symmetric: 54 square pair(s) differ (r1c1/r20c17, r1c6/r20c12, r1c7/r20c11, r1c12/r20c6, r1c13/r20c5, r2c6/r19c12, r2c12/r19c6, r3c6/r18c12). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:bdf049435e2582e514fe45d1129dbf69a25a9a794bbf73ec5b5fec3c7ce6ef87"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "games-1985-10-01-5",
+ "aliases": [
+  "games1985-10-01e",
+  "games1985-10-01-L058"
+ ],
+ "xdid": "games1985-10-01e",
+ "issue": "1985-10-01",
+ "date": "1985-10-01",
+ "grid": {
+  "unit": "ia:games681985october/0052",
+  "extract": "sha256:d68821ec0c6b71a1ce394e8537d993abd3c1051e628dd756ff1a0bc3fdd75d6e",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games681985october/0051",
+  "extract": "sha256:2f5c34164eb433b2af1101ee73c0cea5104162c72c58dc38f639ad9ef01adac0"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-October-1985-images/0058",
+   "extract": "sha256:7685d1cc70c504f62f644d10d095fc06ec0ed0a633090f7899faa11c681c86bf"
+  }
+ ],
+ "reading": "sha256:c324ca566e6c2ec55e282945912c1ba11c22f6e0b6c7937733fe97ce6ca57ff9",
+ "key": {
+  "unit": "ia:games681985october/0072",
+  "extract": "sha256:a4badbab3e1544c19e1ead1a0353343dd618546dcecb9ecf30506c11d33b3295",
+  "solution_id": "games681985october/72#2",
+  "how": "recovered"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-October-1985-images/page/n58/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c12 r10c7 r11c4 r22c21 r23c23"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:e25014aefb295404e071d5f585bcf2edfb4dc24d841e2a36ce47cfba76276df8"
+}

@@ -1,0 +1,34 @@
+{
+ "id": "games-1999-10-01-3",
+ "aliases": [
+  "games1999-10-01c",
+  "games1999-10-01-L033"
+ ],
+ "xdid": "games1999-10-01c",
+ "issue": "1999-10-01",
+ "date": "1999-10-01",
+ "grid": {
+  "unit": "ia:games-155-1999-october/0033",
+  "extract": "sha256:869a241ca29c0f753b8ecabb633fad7dbb938fa650a1c44b0cfa0cc13656ee67",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:fa4f9d86ca17bbc6402e104600e21a8812dbb2968ded677040fe63991d300cef",
+ "key": {
+  "unit": "ia:games-155-1999-october/0051",
+  "extract": "sha256:56a326bcc1a07ae4c90d95b99f56a51637a774950dc4485ff45792de994b878e",
+  "solution_id": "games-155-1999-october/51#0",
+  "how": "exact"
+ },
+ "checks": {
+  "solution": [
+   "low-confidence letters at r5c12 r7c5 r11c10 r12c10 r14c6"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:bf243cc500b1cb91e067d62742253dbd25ccb2c1dbbf4cd1ed1f82341359d0f7"
+}

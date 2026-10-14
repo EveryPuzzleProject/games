@@ -1,0 +1,52 @@
+{
+ "id": "games-1983-06-01-2",
+ "aliases": [
+  "games1983-06-01b",
+  "games1983-06-01-L034"
+ ],
+ "xdid": "games1983-06-01b",
+ "issue": "1983-06-01",
+ "date": "1983-06-01",
+ "grid": {
+  "unit": "ia:games-40-1983-june/0034",
+  "extract": "sha256:b0bcc0c3c883947351f7164217e73586afbe82755d47bfd9d4dbc079a68ad768",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-June-1983-images/0034",
+   "extract": "sha256:8485b32c921e562f362bb4abab22dfe0768f706f2fc06758366d5de03001cd63"
+  }
+ ],
+ "reading": "sha256:d0dafddcdd12b99a3b4c38093b52457fb1628a7ff8018ab2ee8c62b1af7e4299",
+ "key": {
+  "unit": "ia:games-40-1983-june/0073",
+  "extract": "sha256:a9b1a0f6554135c2fdf7be5755dabb18fd6cca99bfd05638b999dd90342c4b37",
+  "solution_id": "games-40-1983-june/73#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   73,
+   "its page says the answers are on page 72"
+  ],
+  [
+   76,
+   "its page says the answers are on page 75"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-June-1983-images/page/n34/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c9 r10c8"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:886f5aaad27a12f12f4b78a2e19e719121b9eeab2da23740fc17a0b85298f778"
+}

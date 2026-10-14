@@ -1,0 +1,42 @@
+{
+ "id": "games-1989-01-01-4",
+ "aliases": [
+  "games1989-01-01c",
+  "games1989-01-01-L035"
+ ],
+ "xdid": "games1989-01-01c",
+ "issue": "1989-01-01",
+ "date": "1989-01-01",
+ "grid": {
+  "unit": "ia:games-95-1989-january/0033",
+  "extract": "sha256:ca53d3c59a33459684c5a3c72d7c354e65be3f6f9b93c2892b7cdd62a3c23e2d",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-Deluxe-January-1989-images/0035",
+   "extract": "sha256:b937cd2f977007683becc45c17ea8f71d5406bc8d9dd434f26d91746c3028073"
+  }
+ ],
+ "reading": "sha256:092098123584c259ee8f8f164054ca303ffc6716586a2e408ef7f8330f3997a0",
+ "key": {
+  "unit": "ia:Games-Magazine-Deluxe-January-1989-images/0047",
+  "extract": "sha256:29dab25ccc71d26f1663534e1c74f62cdb2c38b25b3f03f273ed224101ef67de",
+  "solution_id": "Games-Magazine-Deluxe-January-1989-images/47#4",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-Deluxe-January-1989-images/page/n35/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c4 r3c2 r7c1 r14c14"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:de663e7ab4fecd2270d4c1c236c362c76264f49f6dc610e3eba40b3c0aad5737"
+}

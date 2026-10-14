@@ -1,0 +1,42 @@
+{
+ "id": "games-1986-12-01-2",
+ "aliases": [
+  "games1986-12-01b",
+  "games1986-12-01-L030"
+ ],
+ "xdid": "games1986-12-01b",
+ "issue": "1986-12-01",
+ "date": "1986-12-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-December-1986-images/0030",
+  "extract": "sha256:adb7eed036b272fb1fdb840a383a1428412f0a3bded739a29d7a3b7c7cc07059",
+  "size": "13x13",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games821986december/0028",
+   "extract": "sha256:68c1098c5b439756270a3e2f53446b3c3b8b84b989000d30e2077fb2b0b15394"
+  }
+ ],
+ "reading": "sha256:71b7686b9d6fadd4ca223af4779afc0b1bdb720ea81367206f5632182bf5dcca",
+ "key": {
+  "unit": "ia:games821986december/0060",
+  "extract": "sha256:bbb0bc625b8420378378f58f98b75d27008ac3e88a704b9217b04342a33c87ea",
+  "solution_id": "games821986december/60#4",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games821986december/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c2 r9c4"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:2c1bed0a8d649810c30984810a8467f5b55f7cf883142d3d6d39cde02fb28753"
+}

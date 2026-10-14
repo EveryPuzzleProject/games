@@ -1,0 +1,52 @@
+{
+ "id": "games-1981-09-01-1",
+ "aliases": [
+  "games1981-09-01",
+  "games1981-09-01-L032"
+ ],
+ "xdid": "games1981-09-01",
+ "issue": "1981-09-01",
+ "date": "1981-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September-October-1981-images/0032",
+  "extract": "sha256:9e395452457b94b4081f87598d0c7059ed9582fa442cc698378b62cc266d4a7b",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-25-1981-september/0032",
+   "extract": "sha256:f73723be95a2b5e230f28f9c145581ab148b8f627f75490b0cff2fbfd94765a8"
+  }
+ ],
+ "reading": "sha256:6d1b45ad62e73b629f688fe9d7a6ee4d2e9a3f94fe8c24d2c9a58a069d9432d4",
+ "key": {
+  "unit": "ia:games-25-1981-september/0075",
+  "extract": "sha256:27de7051efd38c1f801ba9ee8d8e36bde1b6873c128e989a1ef2821c81cfbe6a",
+  "solution_id": "games-25-1981-september/75#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   75,
+   "its page says the answers are on page 74"
+  ],
+  [
+   77,
+   "its page says the answers are on page 76"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-25-1981-september/page/n32/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r9c6 r14c8"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:44dacd377da8991512190a501551fd9586ff0601377c0c99ab99337cc0e4e67a"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "games-1988-07-01-8",
+ "aliases": [
+  "games1988-07-01c",
+  "games1988-07-01-L035"
+ ],
+ "xdid": "games1988-07-01c",
+ "issue": "1988-07-01",
+ "date": "1988-07-01",
+ "grid": {
+  "unit": "ia:games-92-1988-july/0033",
+  "extract": "sha256:c9a7d27fb0cfd2e92b217fe7fe05d63922593a76be29f66335cbc08fe1ea7a64",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-Deluxe-July-1988-images/0035",
+   "extract": "sha256:977a3751a4346d78a6e3b9b241a43a1399fc72f09573f8ae99e88c4a05c16c9a"
+  }
+ ],
+ "reading": "sha256:0d57a38dcb0fef7a0e174d4ad7bf64295ba9c5b12bcafff2f91c2ccd36e8d3c2",
+ "key": {
+  "unit": "ia:Games-Magazine-Deluxe-July-1988-images/0048",
+  "extract": "sha256:ffb3bcb100001bc9361cbd759261e455c8cc0bdf0adefa7af15382689c391ba3",
+  "solution_id": "Games-Magazine-Deluxe-July-1988-images/48#2",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-Deluxe-July-1988-images/page/n35/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r3c2 r7c3 r10c9 r11c6 r11c7 r14c8 r15c15 r16c11 r17c16"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:af148bbf3473c6e792be429b24bb53ada3447f2086fb2d4220daad38498cd273"
+}

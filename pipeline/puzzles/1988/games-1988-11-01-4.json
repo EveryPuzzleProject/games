@@ -1,0 +1,48 @@
+{
+ "id": "games-1988-11-01-4",
+ "aliases": [
+  "games1988-11-01",
+  "games1988-11-01-L032"
+ ],
+ "xdid": "games1988-11-01",
+ "issue": "1988-11-01",
+ "date": "1988-11-01",
+ "grid": {
+  "unit": "ia:games-94-1988-novembers/0028",
+  "extract": "sha256:1f31c25330c93a6af1e5dea0a87e26f8d738c22973ddcba26915feaada61677a",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-Deluxe-November-1988-images/0032",
+   "extract": "sha256:e6afc90e254b204c23953449858849e31f949d0e5aee3ec59e847639c52aae6e"
+  }
+ ],
+ "reading": "sha256:527eeed08c484f7a8588105115c17b75834b7364b837cfb6577c0c4ab698cd1f",
+ "key": {
+  "unit": "ia:games-94-1988-novembers/0075",
+  "extract": "sha256:692b5111b67d1c66b9164b33984772519639d132c394ff39f26b0303709af5b0",
+  "solution_id": "games-94-1988-novembers/75#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   75,
+   "its page says the answers are on page 58"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-Deluxe-November-1988-images/page/n32/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r15c6"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:78b8f3a177578fc943c764b9a85d198bd4e30633d0a70c27dba328ef3c997e10"
+}

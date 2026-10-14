@@ -1,0 +1,48 @@
+{
+ "id": "games-1980-03-01-4",
+ "aliases": [
+  "games1980-03-01",
+  "games1980-03-01-L032"
+ ],
+ "xdid": "games1980-03-01",
+ "issue": "1980-03-01",
+ "date": "1980-03-01",
+ "grid": {
+  "unit": "ia:games-16-1980-march/0030",
+  "extract": "sha256:afe67618bc1a8804756ccd69c545c878141194b454179e230977116b43168cd0",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-March-April-1980-images/0032",
+   "extract": "sha256:bdeadf81434101e4cd8252aea7d669a689add90c883e0cffec0fc465ec50fe18"
+  }
+ ],
+ "reading": "sha256:176461dd7392c1dfb93d552b81c69745a6a2f7951d6a6c811505bfc021bae722",
+ "key": {
+  "unit": "ia:games-16-1980-march/0071",
+  "extract": "sha256:d74fb1ffe947ac622e513ea750388412a769c16ad81c8890308448ee65fc8867",
+  "solution_id": "games-16-1980-march/71#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   71,
+   "its page says the answers are on page 70"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-March-April-1980-images/page/n32/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r4c4 r4c10 r10c6 r11c10"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:c76affa7f71c81d1abfa26d778dacee4cce2b041400931fa37426b2a78d3f8d5"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "games-1978-11-01-4",
+ "aliases": [
+  "games1978-11-01c",
+  "games1978-11-01-L036"
+ ],
+ "xdid": "games1978-11-01c",
+ "issue": "1978-11-01",
+ "date": "1978-11-01",
+ "grid": {
+  "unit": "ia:games-8-1978-november/0032",
+  "extract": "sha256:c8e7d21ca048f2b62726a9fa7f633e3e6cf466e87e66b18ea0a3f61a34346504",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-November-December-1978-images/0036",
+   "extract": "sha256:4b5274f75d0a67cd07f4dc814628aec2fc98c24768dcf4353b54f51b93e9084b"
+  }
+ ],
+ "reading": "sha256:5cdcf7f90f47587984ca9e2736e41b0cf2f2f55996c365859d6fde74cda5f903",
+ "key": {
+  "unit": "ia:games-8-1978-november/0069",
+  "extract": "sha256:8cec2d6a745611eb363b50b1b4b340b867adc338b6bb03d96a0ec9790826d4d4",
+  "solution_id": "games-8-1978-november/69#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   69,
+   "its page says the answers are on page 68"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-November-December-1978-images/page/n36/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c9 r3c3 r7c5 r7c8 r8c5 r9c2 r9c13 r13c9 r14c6 r16c10 r18c19 r20c9"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:a09bcedda3bfbee39feedb170c80447b0add7c5cb57a89d6aeab4e2d87aa5d2c"
+}

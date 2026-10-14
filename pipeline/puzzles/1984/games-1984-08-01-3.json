@@ -1,0 +1,42 @@
+{
+ "id": "games-1984-08-01-3",
+ "aliases": [
+  "games1984-08-01c",
+  "games1984-08-01-L036"
+ ],
+ "xdid": "games1984-08-01c",
+ "issue": "1984-08-01",
+ "date": "1984-08-01",
+ "grid": {
+  "unit": "ia:games-54-1984-august/0034",
+  "extract": "sha256:81779bbb1ad91b6b83151794cff6e84d04d1ec5558a8dd7f10d0415b7b12d4b5",
+  "size": "19x19",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-August-1984-images/0036",
+   "extract": "sha256:e6e4b521cc1a2ffb327d4e32a44188afc51bd4401a4cbfd8f1684ad540dad0fa"
+  }
+ ],
+ "reading": "sha256:45070219acfa879691b43a81b2c44a36cce69a8fc9347ee03459dad8806eac96",
+ "key": {
+  "unit": "ia:games-54-1984-august/0069",
+  "extract": "sha256:ad90e3181e3ffb829c1246b4572e24badb11abe1b914db3f77d837a5a8fd462f",
+  "solution_id": "games-54-1984-august/69#2",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-August-1984-images/page/n36/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c17 r4c7 r6c4"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:30eaed9a878c320d7254a342e069f0c783f9b1799e2c33072a798223ffafa63a"
+}

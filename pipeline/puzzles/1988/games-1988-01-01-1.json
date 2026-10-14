@@ -1,0 +1,42 @@
+{
+ "id": "games-1988-01-01-1",
+ "aliases": [
+  "games1988-01-01b",
+  "games1988-01-01-L032"
+ ],
+ "xdid": "games1988-01-01b",
+ "issue": "1988-01-01",
+ "date": "1988-01-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-January-1988-images/0032",
+  "extract": "sha256:9e494324f5f3d5e83a4f006e4f05bcd4667806c8ae6b082c0eef48004b1ab828",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-89-1988-january/0028",
+   "extract": "sha256:d688db39364550938c36b164c23dc0872826fc979f1e6a278fe537217b60588a"
+  }
+ ],
+ "reading": "sha256:fb13bd31b39de820de714c310874f97508c17470daea1e3611615fa11fb3f530",
+ "key": {
+  "unit": "ia:games-89-1988-january/0071",
+  "extract": "sha256:7cc7b364e5bb7ae9c6a21c4483361daa7be292306570433450906bf1c7e6f32d",
+  "solution_id": "games-89-1988-january/71#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-89-1988-january/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c2 r5c2 r13c3 r14c3"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:96d94a75a37950e13b621044d992113ce4615df697259aee394b61d077104469"
+}

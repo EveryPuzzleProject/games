@@ -1,0 +1,42 @@
+{
+ "id": "games-1987-10-01-6",
+ "aliases": [
+  "games1987-10-01e",
+  "games1987-10-01-L039"
+ ],
+ "xdid": "games1987-10-01e",
+ "issue": "1987-10-01",
+ "date": "1987-10-01",
+ "grid": {
+  "unit": "ia:games-88-1987-october/0037",
+  "extract": "sha256:651fa130f55f08ff7450df49ba5c8f9d5019b72bb7f58d57ef89e15c6403136a",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-October_November-1987-images/0039",
+   "extract": "sha256:f88eef6ad2e8be327f29546ac08abc276e745da2d045abca1abfb411b7c09f22"
+  }
+ ],
+ "reading": "sha256:bba3489ea9863765663583c5a443e4333bc7a466c32ee4a9cdbaca867baa9be2",
+ "key": {
+  "unit": "ia:games-88-1987-october/0059",
+  "extract": "sha256:8dbcbd07afed4adbc138799f2c7051a2002eabb0ab7c860fe41d5ec696c29c9d",
+  "solution_id": "games-88-1987-october/59#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-October_November-1987-images/page/n39/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c8 r3c5"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:9232a37542af7bf7acac5b64b51d7eeda7fdd33b8333f8a52e4a3354017cbe01"
+}

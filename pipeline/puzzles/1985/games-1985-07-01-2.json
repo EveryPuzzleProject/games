@@ -1,0 +1,42 @@
+{
+ "id": "games-1985-07-01-2",
+ "aliases": [
+  "games1985-07-01b",
+  "games1985-07-01-L034"
+ ],
+ "xdid": "games1985-07-01b",
+ "issue": "1985-07-01",
+ "date": "1985-07-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-July-1985-images/0034",
+  "extract": "sha256:345d512921604c50869ff6b14cbf67cec02dc0d80a8f220d840339ef07b0088a",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-65-1985-july/0030",
+   "extract": "sha256:77767bf634f15cd28dafcb7c8b24ba62bb52db57187b3ab662ad05f83aba2f71"
+  }
+ ],
+ "reading": "sha256:2d624700c41b2542655c2f2ab3b9cdd8610191aff89ef4f9833a9a522847e8af",
+ "key": {
+  "unit": "ia:Games-Magazine-July-1985-images/0069",
+  "extract": "sha256:d533923802817cd4b1d7a717799cd4dbc647630838523c283ef8075404d4b9d2",
+  "solution_id": "Games-Magazine-July-1985-images/69#1",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-65-1985-july/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r5c11 r6c3 r6c6 r14c4"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:1dbe2eaa8ea1c92b5bc2cbf2e74eb05e4b6bd040d7aee0b092a9535692815435"
+}

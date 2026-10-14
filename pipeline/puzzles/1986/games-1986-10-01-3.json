@@ -1,0 +1,42 @@
+{
+ "id": "games-1986-10-01-3",
+ "aliases": [
+  "games1986-10-01c",
+  "games1986-10-01-L032"
+ ],
+ "xdid": "games1986-10-01c",
+ "issue": "1986-10-01",
+ "date": "1986-10-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-October-1986-images/0032",
+  "extract": "sha256:a984b3222a500120c524ae2d8da5539250ae26f831b6f6ab4daf5ad106d22441",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games801986october/0030",
+   "extract": "sha256:eca294841eadb30552def367b3d9cb2f23673c9ef73dbef363d9b5a87aa51bbb"
+  }
+ ],
+ "reading": "sha256:3c2ef5b3d00225555170e5fda25830c978a25548bc07168d24f33bd785aa118b",
+ "key": {
+  "unit": "ia:Games-Magazine-October-1986-images/0066",
+  "extract": "sha256:6b0f92edba2139bcc83222f8a77714fa51ce6e6e02cc21cc892e79c7469f6937",
+  "solution_id": "Games-Magazine-October-1986-images/66#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games801986october/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r3c9 r5c9 r7c3 r9c6 r9c12 r10c11 r11c15 r11c16 r15c9 r15c13 r18c12"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:40cc98a29a9ec25fc39a18e951e612f30cc1b4321770d80a33bac4cbeb05bb6b"
+}

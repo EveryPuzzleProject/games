@@ -1,0 +1,1469 @@
+{
+ "ia:Games-Magazine-August-1993-images/0026": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3108794761f1c60c61e56291bc34367e5b6efb9f1c59a413f134c2a5c2e1f44d",
+    "ocr": "sha256:95878ca2bd56cc83b86ccf6a593f28773d4f64f170546c45fa9aab9737b25504"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0026.analysis.v4.pkl",
+   "output": "sha256:232a09ad4e832b7a86b78abf7d3f881c081a9c076e9fc7e534ec763b7fc7e358",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:3108794761f1c60c61e56291bc34367e5b6efb9f1c59a413f134c2a5c2e1f44d",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3108794761f1c60c61e56291bc34367e5b6efb9f1c59a413f134c2a5c2e1f44d"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0026.ocr.json",
+   "output": "sha256:95878ca2bd56cc83b86ccf6a593f28773d4f64f170546c45fa9aab9737b25504",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0026#key-9bb4418d45df": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3108794761f1c60c61e56291bc34367e5b6efb9f1c59a413f134c2a5c2e1f44d"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0026.key-9bb4418d45df.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0026#key-9df0e4687b86": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3108794761f1c60c61e56291bc34367e5b6efb9f1c59a413f134c2a5c2e1f44d"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0026.key-9df0e4687b86.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0026#key-b86fdf8b0d04": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3108794761f1c60c61e56291bc34367e5b6efb9f1c59a413f134c2a5c2e1f44d"
+   },
+   "made": "2026-10-14T19:33:53+00:00",
+   "note": "adopted leaf0026.key-b86fdf8b0d04.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0026#key-c164b29fd94b": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3108794761f1c60c61e56291bc34367e5b6efb9f1c59a413f134c2a5c2e1f44d"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0026.key-c164b29fd94b.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0026#key-f50bd50b6dd7": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3108794761f1c60c61e56291bc34367e5b6efb9f1c59a413f134c2a5c2e1f44d"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0026.key-f50bd50b6dd7.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0032": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e45c95cd36855067d10faa551a7f67a2690dc8b6b5d7bbff728fc93d6eec09bb",
+    "ocr": "sha256:891de0b5cb895a0aeee490c43e6e6660d50457b1812ee5c6e7f560e5abf3791f"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0032.analysis.v4.pkl",
+   "output": "sha256:179d105551309beb788ed0bed53a88e4199205fe8891f56509def7bf6f205baa",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:e45c95cd36855067d10faa551a7f67a2690dc8b6b5d7bbff728fc93d6eec09bb",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e45c95cd36855067d10faa551a7f67a2690dc8b6b5d7bbff728fc93d6eec09bb"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0032.ocr.json",
+   "output": "sha256:891de0b5cb895a0aeee490c43e6e6660d50457b1812ee5c6e7f560e5abf3791f",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0032#key-9bb4418d45df": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e45c95cd36855067d10faa551a7f67a2690dc8b6b5d7bbff728fc93d6eec09bb"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0032.key-9bb4418d45df.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0032#key-9df0e4687b86": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e45c95cd36855067d10faa551a7f67a2690dc8b6b5d7bbff728fc93d6eec09bb"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0032.key-9df0e4687b86.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0032#key-b86fdf8b0d04": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e45c95cd36855067d10faa551a7f67a2690dc8b6b5d7bbff728fc93d6eec09bb"
+   },
+   "made": "2026-10-14T19:33:53+00:00",
+   "note": "adopted leaf0032.key-b86fdf8b0d04.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0032#key-c164b29fd94b": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e45c95cd36855067d10faa551a7f67a2690dc8b6b5d7bbff728fc93d6eec09bb"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0032.key-c164b29fd94b.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0032#key-f50bd50b6dd7": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e45c95cd36855067d10faa551a7f67a2690dc8b6b5d7bbff728fc93d6eec09bb"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0032.key-f50bd50b6dd7.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0034": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:16d01e1e079c1ccc706c7dd82b46a627994b58aade1af4fce633d80e0b8c01bf",
+    "ocr": "sha256:c0123ea4f3daad13ce52662464022928f427f9ae16c1f8308de4dc64098dfdfd"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0034.analysis.v4.pkl",
+   "output": "sha256:429a32537f2259546b83abb2b13ddea5276607e59273431a2c855a63a415655d",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:16d01e1e079c1ccc706c7dd82b46a627994b58aade1af4fce633d80e0b8c01bf",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:16d01e1e079c1ccc706c7dd82b46a627994b58aade1af4fce633d80e0b8c01bf"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0034.ocr.json",
+   "output": "sha256:c0123ea4f3daad13ce52662464022928f427f9ae16c1f8308de4dc64098dfdfd",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0034#key-9bb4418d45df": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:16d01e1e079c1ccc706c7dd82b46a627994b58aade1af4fce633d80e0b8c01bf"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0034.key-9bb4418d45df.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0034#key-9df0e4687b86": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:16d01e1e079c1ccc706c7dd82b46a627994b58aade1af4fce633d80e0b8c01bf"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0034.key-9df0e4687b86.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0034#key-b86fdf8b0d04": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:16d01e1e079c1ccc706c7dd82b46a627994b58aade1af4fce633d80e0b8c01bf"
+   },
+   "made": "2026-10-14T19:33:53+00:00",
+   "note": "adopted leaf0034.key-b86fdf8b0d04.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0034#key-c164b29fd94b": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:16d01e1e079c1ccc706c7dd82b46a627994b58aade1af4fce633d80e0b8c01bf"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0034.key-c164b29fd94b.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0034#key-f50bd50b6dd7": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:16d01e1e079c1ccc706c7dd82b46a627994b58aade1af4fce633d80e0b8c01bf"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0034.key-f50bd50b6dd7.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0036": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:03409a492250e63a0769b778a7eda17e5d7a792270b8c10a2819a915c4d1111d"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0036.analysis.v4.pkl",
+   "output": "sha256:87924ad8a3d26843572808e3479156e3be00388e030ec583a8835107d7bf26c4",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:03409a492250e63a0769b778a7eda17e5d7a792270b8c10a2819a915c4d1111d",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0037": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d11d085828a0f50ab88f4494a6d84828ba9abcbd713265390aca3fd5cd62a2ef",
+    "ocr": "sha256:f28188fefd69c46c8f0402414444afa4ad3098ce69bd8d25742fe02a0c7a6ee3"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0037.analysis.v4.pkl",
+   "output": "sha256:0c407a5d96d1d0f66bc7c04d67318fe9b0969be81a898bf17ce8c89290a1a569",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:d11d085828a0f50ab88f4494a6d84828ba9abcbd713265390aca3fd5cd62a2ef",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d11d085828a0f50ab88f4494a6d84828ba9abcbd713265390aca3fd5cd62a2ef"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0037.ocr.json",
+   "output": "sha256:f28188fefd69c46c8f0402414444afa4ad3098ce69bd8d25742fe02a0c7a6ee3",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0037#key-9bb4418d45df": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d11d085828a0f50ab88f4494a6d84828ba9abcbd713265390aca3fd5cd62a2ef"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0037.key-9bb4418d45df.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0037#key-9df0e4687b86": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d11d085828a0f50ab88f4494a6d84828ba9abcbd713265390aca3fd5cd62a2ef"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0037.key-9df0e4687b86.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0037#key-b86fdf8b0d04": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d11d085828a0f50ab88f4494a6d84828ba9abcbd713265390aca3fd5cd62a2ef"
+   },
+   "made": "2026-10-14T19:33:53+00:00",
+   "note": "adopted leaf0037.key-b86fdf8b0d04.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0037#key-c164b29fd94b": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d11d085828a0f50ab88f4494a6d84828ba9abcbd713265390aca3fd5cd62a2ef"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0037.key-c164b29fd94b.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0037#key-f50bd50b6dd7": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d11d085828a0f50ab88f4494a6d84828ba9abcbd713265390aca3fd5cd62a2ef"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0037.key-f50bd50b6dd7.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0038": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2b95fc2a4fd2b2d306805bef421340247bdbe744c63a02ce65e45bcb0c6abba5",
+    "ocr": "sha256:f4795a8a49c5f761dbbcdee6dd5dec72c64c0204dd41915d4fdaa3ea3ff8056c"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0038.analysis.v4.pkl",
+   "output": "sha256:0a985c4072d2822a14f145d6157bb04721cf06c86c6107075e116762ee06c950",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:2b95fc2a4fd2b2d306805bef421340247bdbe744c63a02ce65e45bcb0c6abba5",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2b95fc2a4fd2b2d306805bef421340247bdbe744c63a02ce65e45bcb0c6abba5"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0038.ocr.json",
+   "output": "sha256:f4795a8a49c5f761dbbcdee6dd5dec72c64c0204dd41915d4fdaa3ea3ff8056c",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0038#key-9bb4418d45df": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2b95fc2a4fd2b2d306805bef421340247bdbe744c63a02ce65e45bcb0c6abba5"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0038.key-9bb4418d45df.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0038#key-9df0e4687b86": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2b95fc2a4fd2b2d306805bef421340247bdbe744c63a02ce65e45bcb0c6abba5"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0038.key-9df0e4687b86.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0038#key-b86fdf8b0d04": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2b95fc2a4fd2b2d306805bef421340247bdbe744c63a02ce65e45bcb0c6abba5"
+   },
+   "made": "2026-10-14T19:33:53+00:00",
+   "note": "adopted leaf0038.key-b86fdf8b0d04.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0038#key-c164b29fd94b": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2b95fc2a4fd2b2d306805bef421340247bdbe744c63a02ce65e45bcb0c6abba5"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0038.key-c164b29fd94b.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0038#key-f50bd50b6dd7": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2b95fc2a4fd2b2d306805bef421340247bdbe744c63a02ce65e45bcb0c6abba5"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0038.key-f50bd50b6dd7.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0040": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:09102a7a14d79cc07cca5230393b1ca993510ae4161f88dbbde37162d1ba4789"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0040.analysis.v4.pkl",
+   "output": "sha256:9cbc17e223af135cae5839e96b0542a4dd07af0b373a92e8b1e96920fd3cde85",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:09102a7a14d79cc07cca5230393b1ca993510ae4161f88dbbde37162d1ba4789",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0041": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:fe2c0da76484829b6a2d6ccec818c23420919ebfe049bd92ba3c7bf12007ef08"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0041.analysis.v4.pkl",
+   "output": "sha256:27c85efe78e8e85c72eab45f89f48da40dd3e1fba0816495de6ccacc4ddc4484",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:fe2c0da76484829b6a2d6ccec818c23420919ebfe049bd92ba3c7bf12007ef08",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0042": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f895f6f678df7c4eb7200d60bdcf9ea98d841995551767fd14afbb07c7eb7fd0",
+    "ocr": "sha256:15293b4996158f408247d55d38c0ce5a1dd297db5f8f8df0c9571ab61599c8eb"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0042.analysis.v4.pkl",
+   "output": "sha256:337e907f9e3be18f43fc4f31fbb718dec38565e993a03b256869ba2340adf75c",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:f895f6f678df7c4eb7200d60bdcf9ea98d841995551767fd14afbb07c7eb7fd0",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f895f6f678df7c4eb7200d60bdcf9ea98d841995551767fd14afbb07c7eb7fd0"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0042.ocr.json",
+   "output": "sha256:15293b4996158f408247d55d38c0ce5a1dd297db5f8f8df0c9571ab61599c8eb",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0042#key-9bb4418d45df": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f895f6f678df7c4eb7200d60bdcf9ea98d841995551767fd14afbb07c7eb7fd0"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0042.key-9bb4418d45df.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0042#key-9df0e4687b86": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f895f6f678df7c4eb7200d60bdcf9ea98d841995551767fd14afbb07c7eb7fd0"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0042.key-9df0e4687b86.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0042#key-b86fdf8b0d04": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f895f6f678df7c4eb7200d60bdcf9ea98d841995551767fd14afbb07c7eb7fd0"
+   },
+   "made": "2026-10-14T19:33:53+00:00",
+   "note": "adopted leaf0042.key-b86fdf8b0d04.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0042#key-c164b29fd94b": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f895f6f678df7c4eb7200d60bdcf9ea98d841995551767fd14afbb07c7eb7fd0"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0042.key-c164b29fd94b.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0042#key-f50bd50b6dd7": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f895f6f678df7c4eb7200d60bdcf9ea98d841995551767fd14afbb07c7eb7fd0"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0042.key-f50bd50b6dd7.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0043": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5a4018483cace069a5fbf420c7f696e5c7c34491429b46caa771c7b363b34222"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0043.analysis.v4.pkl",
+   "output": "sha256:0b2e7ead668512280a8a8bbc0368831fbe89e854c5be4ed8cb674ecd18808829",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:5a4018483cace069a5fbf420c7f696e5c7c34491429b46caa771c7b363b34222",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0043#key-9bb4418d45df": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5a4018483cace069a5fbf420c7f696e5c7c34491429b46caa771c7b363b34222"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0043.key-9bb4418d45df.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0043#key-9df0e4687b86": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5a4018483cace069a5fbf420c7f696e5c7c34491429b46caa771c7b363b34222"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0043.key-9df0e4687b86.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0043#key-b86fdf8b0d04": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5a4018483cace069a5fbf420c7f696e5c7c34491429b46caa771c7b363b34222"
+   },
+   "made": "2026-10-14T19:33:53+00:00",
+   "note": "adopted leaf0043.key-b86fdf8b0d04.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0043#key-c164b29fd94ba": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5a4018483cace069a5fbf420c7f696e5c7c34491429b46caa771c7b363b34222"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0043.key-c164b29fd94b.v2a.pkl",
+   "output": "sha256:ff4b9b899753c3c21e8f221827a35601ebd17c56e863a6b26d6141ff9c504392",
+   "settings": {
+    "only_pointed": true
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0043#key-f50bd50b6dd7": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:5a4018483cace069a5fbf420c7f696e5c7c34491429b46caa771c7b363b34222"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0043.key-f50bd50b6dd7.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0044": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:84760b2233fc859465d792892e2de1e8197a4de7f75b24b5155967bad6193e33",
+    "ocr": "sha256:85be8ba1408271396703592065c24ddfc7146c5e0cf671a7fa516f770a00c088"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0044.analysis.v4.pkl",
+   "output": "sha256:54786cd2980f225e74d3e3c24fe1af13ad17edb29b47e4ea932a9dc16acd4f4c",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:84760b2233fc859465d792892e2de1e8197a4de7f75b24b5155967bad6193e33",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:84760b2233fc859465d792892e2de1e8197a4de7f75b24b5155967bad6193e33"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0044.ocr.json",
+   "output": "sha256:85be8ba1408271396703592065c24ddfc7146c5e0cf671a7fa516f770a00c088",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0044#key-9bb4418d45df": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:84760b2233fc859465d792892e2de1e8197a4de7f75b24b5155967bad6193e33"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0044.key-9bb4418d45df.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0044#key-9df0e4687b86": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:84760b2233fc859465d792892e2de1e8197a4de7f75b24b5155967bad6193e33"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0044.key-9df0e4687b86.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0044#key-b86fdf8b0d04": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:84760b2233fc859465d792892e2de1e8197a4de7f75b24b5155967bad6193e33"
+   },
+   "made": "2026-10-14T19:33:53+00:00",
+   "note": "adopted leaf0044.key-b86fdf8b0d04.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0044#key-c164b29fd94b": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:84760b2233fc859465d792892e2de1e8197a4de7f75b24b5155967bad6193e33"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0044.key-c164b29fd94b.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0044#key-f50bd50b6dd7": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:84760b2233fc859465d792892e2de1e8197a4de7f75b24b5155967bad6193e33"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0044.key-f50bd50b6dd7.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0045": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e1f9b69f60a4b2b7c3ca48cea7ee30609c1520d934fe9d2e4167f6c23c7e3e22",
+    "ocr": "sha256:5225e555ad06fe6c466d5ec9b4b2f06ec064df2d8e615cef223fb1bed9e5bfdb"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0045.analysis.v4.pkl",
+   "output": "sha256:6ad0a9b78183b780df9509e83a845ddfa27e5485eee29916d051bdd5d0696619",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:e1f9b69f60a4b2b7c3ca48cea7ee30609c1520d934fe9d2e4167f6c23c7e3e22",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e1f9b69f60a4b2b7c3ca48cea7ee30609c1520d934fe9d2e4167f6c23c7e3e22"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0045.ocr.json",
+   "output": "sha256:5225e555ad06fe6c466d5ec9b4b2f06ec064df2d8e615cef223fb1bed9e5bfdb",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0045#key-9bb4418d45df": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e1f9b69f60a4b2b7c3ca48cea7ee30609c1520d934fe9d2e4167f6c23c7e3e22"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0045.key-9bb4418d45df.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0045#key-9df0e4687b86": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e1f9b69f60a4b2b7c3ca48cea7ee30609c1520d934fe9d2e4167f6c23c7e3e22"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0045.key-9df0e4687b86.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0045#key-b86fdf8b0d04": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e1f9b69f60a4b2b7c3ca48cea7ee30609c1520d934fe9d2e4167f6c23c7e3e22"
+   },
+   "made": "2026-10-14T19:33:53+00:00",
+   "note": "adopted leaf0045.key-b86fdf8b0d04.v2.pkl",
+   "output": "sha256:1e2d192ca78cf0758fe54385a51c96fb10fc6919c2a603b43bd1c0dd8374f355",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0045#key-c164b29fd94b": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e1f9b69f60a4b2b7c3ca48cea7ee30609c1520d934fe9d2e4167f6c23c7e3e22"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0045.key-c164b29fd94b.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0045#key-f50bd50b6dd7": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e1f9b69f60a4b2b7c3ca48cea7ee30609c1520d934fe9d2e4167f6c23c7e3e22"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0045.key-f50bd50b6dd7.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0046": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3eb962cab29b17a71d26ffe1b04fb9fe4c68bccfc6dcce26f526a9f6fdee44d7"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0046.analysis.v4.pkl",
+   "output": "sha256:829c3b8551561780a21d862a22e87e5f4f78f9f34eaeeea9febc7c6f64a55645",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:3eb962cab29b17a71d26ffe1b04fb9fe4c68bccfc6dcce26f526a9f6fdee44d7",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0046#key-9bb4418d45df": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3eb962cab29b17a71d26ffe1b04fb9fe4c68bccfc6dcce26f526a9f6fdee44d7"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0046.key-9bb4418d45df.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0046#key-9df0e4687b86": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3eb962cab29b17a71d26ffe1b04fb9fe4c68bccfc6dcce26f526a9f6fdee44d7"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0046.key-9df0e4687b86.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0046#key-b86fdf8b0d04": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3eb962cab29b17a71d26ffe1b04fb9fe4c68bccfc6dcce26f526a9f6fdee44d7"
+   },
+   "made": "2026-10-14T19:33:53+00:00",
+   "note": "adopted leaf0046.key-b86fdf8b0d04.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0046#key-c164b29fd94b": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3eb962cab29b17a71d26ffe1b04fb9fe4c68bccfc6dcce26f526a9f6fdee44d7"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0046.key-c164b29fd94b.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0046#key-f50bd50b6dd7": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:3eb962cab29b17a71d26ffe1b04fb9fe4c68bccfc6dcce26f526a9f6fdee44d7"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0046.key-f50bd50b6dd7.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0047": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:b654befaeef1e4609b5102a777e54b5d5e8d6760e2605daaf01d8a6b7835ea38"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0047.analysis.v4.pkl",
+   "output": "sha256:0b0a20acb4b5544baeae68a65694568f587a043e42b92d65d67e26f3448240a9",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:b654befaeef1e4609b5102a777e54b5d5e8d6760e2605daaf01d8a6b7835ea38",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0048": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e22b1ac1beabc36c588fcc2c00775169e21f718f330abc515ef2e50c11bd08b0"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0048.analysis.v4.pkl",
+   "output": "sha256:2bf2b39e1551b7783f1a9fda2f7dc3fe168a74787ea1723502de7370062c15c1",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:e22b1ac1beabc36c588fcc2c00775169e21f718f330abc515ef2e50c11bd08b0",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0049": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:19091dac80f8035a6dec2ee6372fb00e28db21ca7ee64dffb7152f46cf7ed936"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0049.analysis.v4.pkl",
+   "output": "sha256:083ba1c10667343bd4038310535f3dc4d40364ed2b36870d758b549ae3589873",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:19091dac80f8035a6dec2ee6372fb00e28db21ca7ee64dffb7152f46cf7ed936",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0049#key-9bb4418d45df": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:19091dac80f8035a6dec2ee6372fb00e28db21ca7ee64dffb7152f46cf7ed936"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0049.key-9bb4418d45df.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0049#key-9df0e4687b86": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:19091dac80f8035a6dec2ee6372fb00e28db21ca7ee64dffb7152f46cf7ed936"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0049.key-9df0e4687b86.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0049#key-b86fdf8b0d04": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:19091dac80f8035a6dec2ee6372fb00e28db21ca7ee64dffb7152f46cf7ed936"
+   },
+   "made": "2026-10-14T19:33:53+00:00",
+   "note": "adopted leaf0049.key-b86fdf8b0d04.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0049#key-c164b29fd94b": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:19091dac80f8035a6dec2ee6372fb00e28db21ca7ee64dffb7152f46cf7ed936"
+   },
+   "made": "2026-10-14T19:33:52+00:00",
+   "note": "adopted leaf0049.key-c164b29fd94b.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0049#key-f50bd50b6dd7": {
+  "keysearch": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:19091dac80f8035a6dec2ee6372fb00e28db21ca7ee64dffb7152f46cf7ed936"
+   },
+   "made": "2026-10-14T19:33:51+00:00",
+   "note": "adopted leaf0049.key-f50bd50b6dd7.v2.pkl",
+   "output": "sha256:20f0e7c677012bbbfc9e4aa9210633279238c66b6f1b0aa2c92e3844bca86564",
+   "settings": {
+    "only_pointed": false
+   },
+   "stage": "keysearch",
+   "version": "keysearch/2"
+  }
+ },
+ "ia:Games-Magazine-August-1993-images/0050": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a5f8c91db4bcf19092f8d79e5424fd47b57ff371fd1f33871ae5182b811b0679"
+   },
+   "made": "2026-10-14T19:27:27+00:00",
+   "note": "adopted leaf0050.analysis.v4.pkl",
+   "output": "sha256:e7b9e0df8ec790d2bb344f31c9fa79bdec9958fcdd6a9fd5f55e56e160e59550",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/4"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-14T19:27:27+00:00",
+   "output": "sha256:a5f8c91db4bcf19092f8d79e5424fd47b57ff371fd1f33871ae5182b811b0679",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "id": "games-1978-07-01-1",
+ "aliases": [
+  "games1978-07-01c",
+  "games1978-07-01-L030"
+ ],
+ "xdid": "games1978-07-01c",
+ "issue": "1978-07-01",
+ "date": "1978-07-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-July_August-1978-images/0030",
+  "extract": "sha256:575ec95057c676225d86e0b6ced1c4f91d588ad8d7a513c9763b3f375ca274ac",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-6-1978-july/0030",
+   "extract": "sha256:ddd72862d618834b88223dce1df9842e8bd389e4c101a3a87f5e3426d1fe68dc"
+  }
+ ],
+ "reading": "sha256:80f49574bb3f06dcc25bc4830e4d6038e4a6ec54dc1fe88966d53a565e0f4c55",
+ "key": {
+  "unit": "ia:Games-Magazine-July_August-1978-images/0065",
+  "extract": "sha256:16c994a30f7df5a897f1cf20beeb427f674cb76f80121f9f822241582395d380",
+  "solution_id": "Games-Magazine-July_August-1978-images/65#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   65,
+   "its page says the answers are on page 64"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-6-1978-july/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c18 r4c9 r5c6 r5c18 r6c14 r7c11 r11c6 r11c19 r14c8 r14c21 r18c3 r18c9 r19c7 r19c8 r20c12"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:52cbe03c4e5c7b40d5f997a85cfd0be4b383d6bc24583b2ed24614aea3d2b147"
+}

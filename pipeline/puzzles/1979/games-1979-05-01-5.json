@@ -1,0 +1,53 @@
+{
+ "id": "games-1979-05-01-5",
+ "aliases": [
+  "games1979-05-01e",
+  "games1979-05-01-L042"
+ ],
+ "xdid": "games1979-05-01e",
+ "issue": "1979-05-01",
+ "date": "1979-05-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-May-June-1979-images/0042",
+  "extract": "sha256:cd7c6f4d33058e1041a938602db71c69a7b72700b73f2cfb05abfdc6cabfb5b0",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-May-June-1979-images/0041",
+  "extract": "sha256:6cf88295691148b377dfc566d14ba1b754aa4be0a33fb782d49027301c6db5cb"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-11-1979-may/0040",
+   "extract": "sha256:c7c5387a5d7c4b1d5a60ce587c7886f5682c4bd9e953aff412772aaf3aa05951"
+  }
+ ],
+ "reading": "sha256:051a701710870ed80a552c5ef246d6400282915031e1ea3db18ff3db57702526",
+ "key": {
+  "unit": "ia:games-11-1979-may/0065",
+  "extract": "sha256:4268a2f5e699b18a8684a6f543f8093c56263557f3ecf48f46f78b1d13fad116",
+  "solution_id": "games-11-1979-may/65#0",
+  "how": "near:4"
+ },
+ "answer_pages": [
+  [
+   69,
+   "its page says the answers are on page 64"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-11-1979-may/page/n40/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r11c6 r23c6 r24c6 r25c6",
+   "2 unreadable solution letters",
+   "low-confidence letters at r2c11 r3c7 r3c12 r3c22 r5c23 r10c8 r11c6 r14c9 r14c22 r15c22 r16c21 r17c21 r20c20 r23c6 r24c6 r25c6"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:7c4f3105c7153718289f53c898adf82744c5f1e5a774e66d00a33e5aaf475e38"
+}

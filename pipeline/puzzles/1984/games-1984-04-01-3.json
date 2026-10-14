@@ -1,0 +1,42 @@
+{
+ "id": "games-1984-04-01-3",
+ "aliases": [
+  "games1984-04-01",
+  "games1984-04-01-L030"
+ ],
+ "xdid": "games1984-04-01",
+ "issue": "1984-04-01",
+ "date": "1984-04-01",
+ "grid": {
+  "unit": "ia:games-50-1984-april/0028",
+  "extract": "sha256:1023079dd836dd7deeefc34b50a9f524b7c284973af1ef7246b2958711f8cb78",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-April-1984-images/0030",
+   "extract": "sha256:f1252f0ff54f897dc2be72248b04baa31a23a85b7b189d6729fe4850ff5c7973"
+  }
+ ],
+ "reading": "sha256:1c014594d357b0ba910bae1704a0b0deaa900789867b729fab86b036e944ef33",
+ "key": {
+  "unit": "ia:Games-Magazine-April-1984-images/0081",
+  "extract": "sha256:dabb0587cc8b4db014c9ced29573c170e49312af9adfa860a6cf46bd67fbe4a4",
+  "solution_id": "Games-Magazine-April-1984-images/81#1",
+  "how": "recovered"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-April-1984-images/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r12c2 r13c9 r13c14 r15c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:6fbae34a2008645cc8ef746faf81db0e702e6febd12def72ac22e62f74634a2a"
+}

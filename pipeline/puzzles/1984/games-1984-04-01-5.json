@@ -1,0 +1,48 @@
+{
+ "id": "games-1984-04-01-5",
+ "aliases": [
+  "games1984-04-01c",
+  "games1984-04-01-L036"
+ ],
+ "xdid": "games1984-04-01c",
+ "issue": "1984-04-01",
+ "date": "1984-04-01",
+ "grid": {
+  "unit": "ia:games-50-1984-april/0032",
+  "extract": "sha256:9df85f7c2ec969c6720ef43c0cfaa576a15a776289baa5cf84d2aad16fa7e428",
+  "size": "19x19",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-April-1984-images/0036",
+   "extract": "sha256:36e33cd019db66a4a38e84b076d489ab9e730d6921a7aeaba7bb6beed5dff80a"
+  }
+ ],
+ "reading": "sha256:0b1bb428c95e61bc26cf7a21d5a29fc1646b3ae9f14917b2bd34b246121cb736",
+ "key": {
+  "unit": "ia:games-50-1984-april/0071",
+  "extract": "sha256:069335fef55003fd5097f997639078162b2ea670caf44ad7bf1b7fee0aa27bff",
+  "solution_id": "games-50-1984-april/71#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   71,
+   "its page says the answers are on page 70"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-April-1984-images/page/n36/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r8c14"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:6592775bea5e97366608db3d25cf220b956cafb94f4a3d60240ff53c37cb7c11"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "games-1980-09-01-2",
+ "aliases": [
+  "games1980-09-01b",
+  "games1980-09-01-L032"
+ ],
+ "xdid": "games1980-09-01b",
+ "issue": "1980-09-01",
+ "date": "1980-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September-October-1980-images/0032",
+  "extract": "sha256:a01a1b3e7d57c8e45bfb79682016ec503ee1e5decddded3e2991c2123f463a42",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-19-1980-september/0030",
+   "extract": "sha256:621221abe6eda06ff308cdabdeb7c39dd72c87b5afb56d9ead19c0a73a2e7820"
+  }
+ ],
+ "reading": "sha256:fde5aa9e46602447b8dc4612f55ddaa830a7cc382b3197657a2c976d6f5330a2",
+ "key": {
+  "unit": "ia:Games-Magazine-September-October-1980-images/0074",
+  "extract": "sha256:9d072d8ea98278722785d83d73c27c2a19ca90fabac1f575d7b573e22f271b84",
+  "solution_id": "Games-Magazine-September-October-1980-images/74#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   71,
+   "its page says the answers are on page 66"
+  ],
+  [
+   74,
+   "its page says the answers are on page 69"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-19-1980-september/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r4c13 r7c14 r8c13 r12c7"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:c5c8cb956cf33ec7d4bf273deb5eb95a8ebbd5fd1b46054083219a5889d197e9"
+}

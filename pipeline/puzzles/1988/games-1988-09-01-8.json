@@ -1,0 +1,48 @@
+{
+ "id": "games-1988-09-01-8",
+ "aliases": [
+  "games1988-09-01g",
+  "games1988-09-01-L036"
+ ],
+ "xdid": "games1988-09-01g",
+ "issue": "1988-09-01",
+ "date": "1988-09-01",
+ "grid": {
+  "unit": "ia:games-93-1988-september/0048",
+  "extract": "sha256:6cc063667be56ad42e8136989bb9b298ef393373c9c548fb5c7c4b3e4c3a4aec",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-September-1988-images/0036",
+   "extract": "sha256:bda18b9e28e905cc8c963ddd3110a72be2fefae869881e485a4bb8bc21b407f0"
+  }
+ ],
+ "reading": "sha256:4e9471323dbb4ca573ae6117a6a6329d4d00b319d8dcc5215dc4226a70b18e73",
+ "key": {
+  "unit": "ia:Games-Magazine-September-1988-images/0067",
+  "extract": "sha256:8182d96d68801868c07a1c3fe0f799962016f4e5e1b608492515cf3ad6d3bcec",
+  "solution_id": "Games-Magazine-September-1988-images/67#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   75,
+   "its page says the answers are on page 58"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-September-1988-images/page/n36/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r3c10 r4c2 r6c15 r10c15 r13c5 r14c21"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:8a826d12e2272e9c7e4b24899f35d1e3e9d6439f1abb6539390b725b6d07b403"
+}

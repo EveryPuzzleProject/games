@@ -1,0 +1,42 @@
+{
+ "id": "games-1985-01-01-3",
+ "aliases": [
+  "games1985-01-01c",
+  "games1985-01-01-L034"
+ ],
+ "xdid": "games1985-01-01c",
+ "issue": "1985-01-01",
+ "date": "1985-01-01",
+ "grid": {
+  "unit": "ia:games591985january/0032",
+  "extract": "sha256:fec11296830ae54235e3521d5894835d669d3503759dfac451e61ef2f3dc971d",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-January-1985-images/0034",
+   "extract": "sha256:507a84b50fb4a77cb8a05bcaf20d93a56145e23da42617c6f27b900f298c926f"
+  }
+ ],
+ "reading": "sha256:e16299aee9049e3b0dd5fbfbd63b0b4e103f1f2b18ff7d31eeebd3f9cac82838",
+ "key": {
+  "unit": "ia:games591985january/0065",
+  "extract": "sha256:4b507ab11397ef7d1235f59ee600af48a191fa48e26a52b87daf596f360a06e6",
+  "solution_id": "games591985january/65#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-January-1985-images/page/n34/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r7c20 r8c13 r10c4 r13c5 r16c9 r17c5 r20c11 r21c16"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:4e611650751c23df68352c7621a5289430821dfee687bec3447821bbe970a065"
+}

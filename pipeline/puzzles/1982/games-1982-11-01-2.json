@@ -1,0 +1,45 @@
+{
+ "id": "games-1982-11-01-2",
+ "aliases": [
+  "games1982-11-01c",
+  "games1982-11-01-L078"
+ ],
+ "xdid": "games1982-11-01c",
+ "issue": "1982-11-01",
+ "date": "1982-11-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-November-1982-images/0078",
+  "extract": "sha256:23b7cfde54b5ae16a4c972dffc2937654c4c3b26e363e66b33272536c5cdd3a7",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-November-1982-images/0077",
+  "extract": "sha256:882104be5c6d8bda9349e67c10c33c14fde8425b94b85433f6fd146018d9ec12"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-33-1982-november/0060",
+   "extract": "sha256:b260702d9cfe90e097d0175db666ac0551419bfb81216235acf4372736483c9c"
+  }
+ ],
+ "reading": "sha256:2711a00223885698d3483c9cc1f01417fd5ceae429352f77243d89ec47661576",
+ "key": {
+  "unit": "ia:Games-Magazine-November-1982-images/0111",
+  "extract": "sha256:db35bfadbacbd6a23e94d4b7aca2a5de89cb37fea2f154e52fe78234948f3294",
+  "solution_id": "Games-Magazine-November-1982-images/111#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-33-1982-november/page/n60/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c16 r2c22 r9c23 r12c22 r13c13 r15c3"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:6285c707dbf0a7ff59e2d711e0d89647a00b3ac3443a9fddaba525c8a3c2ef00"
+}

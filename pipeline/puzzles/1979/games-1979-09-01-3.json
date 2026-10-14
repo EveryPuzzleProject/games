@@ -1,0 +1,48 @@
+{
+ "id": "games-1979-09-01-3",
+ "aliases": [
+  "games1979-09-01c",
+  "games1979-09-01-L041"
+ ],
+ "xdid": "games1979-09-01c",
+ "issue": "1979-09-01",
+ "date": "1979-09-01",
+ "grid": {
+  "unit": "ia:games-13-1979-september/0037",
+  "extract": "sha256:e46d0dd2501e1c378e52920139307af8bff003e69a6928ee5ebae7c915b6fbb7",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-September-October-1979-images/0041",
+   "extract": "sha256:caa8efbb98c20b5634705d92683ad57c110383d17f3f95747ae2f3886899d752"
+  }
+ ],
+ "reading": "sha256:ced16aae869ffc3cdf785aad3113fea27ba6e14b9a8b9b11548fc3239dd633a5",
+ "key": {
+  "unit": "ia:games-13-1979-september/0087",
+  "extract": "sha256:07ef64efad9d9a08ea123cb9d900f0417f47523273df383052dff4b7910f4a65",
+  "solution_id": "games-13-1979-september/87#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   87,
+   "its page says the answers are on page 74"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-September-October-1979-images/page/n41/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c1 r3c3 r4c6 r4c8 r9c4 r12c4 r12c7 r14c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:a407df10d7849f49313a49cff9e5096a7a9c9c5112624df87331768de8e6b416"
+}

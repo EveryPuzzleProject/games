@@ -1,0 +1,44 @@
+{
+ "id": "games-1984-09-01-2",
+ "aliases": [
+  "games1984-09-01b",
+  "games1984-09-01-L036"
+ ],
+ "xdid": "games1984-09-01b",
+ "issue": "1984-09-01",
+ "date": "1984-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September-1984-images/0036",
+  "extract": "sha256:d51e63f0b5c589321f771121f77bd429e9cb753edac1166d6e7882142cb247f9",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-55-1984-september/0036",
+   "extract": "sha256:2526c226d8bd1b3094495a01498775239d44d4f65f0ba4d216e764514238a158"
+  }
+ ],
+ "reading": "sha256:9575a0dd2602fb9e3275a0d838fda34eb320d319cfc139f62e1f4b56ceb642df",
+ "key": {
+  "unit": "ia:Games-Magazine-September-1984-images/0074",
+  "extract": "sha256:2f2fd2cf3ac319d103c0be40f0252ad0101babd83759fcf6b37731c1502a42d8",
+  "solution_id": "Games-Magazine-September-1984-images/74#1",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-55-1984-september/page/n36/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c8 r3c19"
+  ],
+  "asymmetric": 2,
+  "warnings": [
+   "Grid isn't symmetric: 2 square pair(s) differ (r10c16/r12c6, r10c17/r12c5). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:21a1790366eac30fdd6d03223dd121320d4add59fffeb5812724dcb7f5d815c4"
+}

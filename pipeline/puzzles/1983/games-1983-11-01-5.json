@@ -1,0 +1,51 @@
+{
+ "id": "games-1983-11-01-5",
+ "aliases": [
+  "games1983-11-01e",
+  "games1983-11-01-L056"
+ ],
+ "xdid": "games1983-11-01e",
+ "issue": "1983-11-01",
+ "date": "1983-11-01",
+ "grid": {
+  "unit": "ia:games-45-1983-november/0056",
+  "extract": "sha256:efbc7a3c4a987342fd7f77c21d6ffa6bb7b6e4e9497bb5bbe1e363ca566f539b",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-45-1983-november/0055",
+  "extract": "sha256:f7d81b3916c53bc87bc56c0baf2f4a601c1a195c72816d8dc96679327bc1eda9"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-November-1983-images/0056",
+   "extract": "sha256:0f2b026f8608e5c544fa3f2f5ea56fc5aa01070278b50df1c69b5edbc2cce81f"
+  }
+ ],
+ "reading": "sha256:d2521e0ac216a31942855898e03b94bbdac21ee5e176641e335116b1ba4010a5",
+ "key": {
+  "unit": "ia:games-45-1983-november/0079",
+  "extract": "sha256:9dde380b9dd2d349db1327c0b5c77774bc54d3383ea3bceede56fad49cfebba3",
+  "solution_id": "games-45-1983-november/79#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   79,
+   "its page says the answers are on page 78"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-November-1983-images/page/n56/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c1 r2c21 r8c11 r14c1 r14c16 r14c21 r15c15 r25c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:aa8f64808b7c19906936ae6517c3234aa368641161f4a16e0dea34ac66283bc4"
+}

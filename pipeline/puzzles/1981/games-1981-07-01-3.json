@@ -1,0 +1,51 @@
+{
+ "id": "games-1981-07-01-3",
+ "aliases": [
+  "games1981-07-01e",
+  "games1981-07-01-L044"
+ ],
+ "xdid": "games1981-07-01e",
+ "issue": "1981-07-01",
+ "date": "1981-07-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-July-August-1981-images/0044",
+  "extract": "sha256:0dba8f50a6174f34e2190beb2083a3f1a695c79cc9ee898cc06f05b8fb2c4aee",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-July-August-1981-images/0043",
+  "extract": "sha256:c12172d7c03b90c568afd9a508de5f277fe9d47e1ceb14b7b294c98aa525c568"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-24-1981-July/0044",
+   "extract": "sha256:db937369283921b37103df471a3e558f5bc85bbb4820ca02b5322da71c4bcdee"
+  }
+ ],
+ "reading": "sha256:df2979f1d00898bee130bb77829b965dd726c108fb8ef30c167e2dde5064db85",
+ "key": {
+  "unit": "ia:Games-Magazine-July-August-1981-images/0063",
+  "extract": "sha256:f74d4169ec9d8595cc1554f92edc0186fd1302ce5ffbeaf927ad5f1e70960c8d",
+  "solution_id": "Games-Magazine-July-August-1981-images/63#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   63,
+   "its page says the answers are on page 62"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-24-1981-July/page/n44/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c1 r8c24 r9c12 r9c22 r11c17 r14c1 r15c17 r15c25 r21c19"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:8b58be6cc9b7ebae093fff78f7a85c3bace04ddbad03498d52663524f0eab0d3"
+}

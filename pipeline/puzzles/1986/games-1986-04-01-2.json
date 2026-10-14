@@ -1,0 +1,52 @@
+{
+ "id": "games-1986-04-01-2",
+ "aliases": [
+  "games1986-04-01b",
+  "games1986-04-01-L036"
+ ],
+ "xdid": "games1986-04-01b",
+ "issue": "1986-04-01",
+ "date": "1986-04-01",
+ "grid": {
+  "unit": "ia:games-74-1986-april/0030",
+  "extract": "sha256:6e1eadf57ee5e4ebdda95fcdb1b80b863328140f13b841b6c0708e16c2fc3afe",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-April-1986-images/0036",
+   "extract": "sha256:7374a7de31e3719eac5fc1b849a37af1692bb528d37b411c3eb07ad985e92cb7"
+  }
+ ],
+ "reading": "sha256:5222c3333d7e09b9168db68529af9acb64cb22ff2d1a555b73a484e3063a0018",
+ "key": {
+  "unit": "ia:games-74-1986-april/0059",
+  "extract": "sha256:a83f116930d2aad5208fd8ccdd64ff8ca3e9573c086467101f9c64ba41fbf534",
+  "solution_id": "games-74-1986-april/59#0@r0c0:15x15",
+  "how": "exact (part of a merged answer grid)"
+ },
+ "answer_pages": [
+  [
+   59,
+   "its page says the answers are on page 58"
+  ],
+  [
+   63,
+   "its page says the answers are on page 62"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-April-1986-images/page/n36/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r5c8 r11c10 r12c8 r14c6 r15c14"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:51dba933132371faed993d3a340dbd3f9cf30ef40224f1e2971fc14ef38c17f3"
+}

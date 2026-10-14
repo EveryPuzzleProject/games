@@ -1,0 +1,43 @@
+{
+ "id": "games-1992-02-01-2",
+ "aliases": [
+  "games1992-02-01b",
+  "games1992-02-01-L038"
+ ],
+ "xdid": "games1992-02-01b",
+ "issue": "1992-02-01",
+ "date": "1992-02-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-February-1992-images/0038",
+  "extract": "sha256:7f602db5e79082c3a9de6e37a631ec9c8b4e0e66334b5b81bc1204de66957006",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-February-1992-images/0037",
+  "extract": "sha256:fc7fb93d409275c1a563aee2602123498d47af8441e405619f9a7cd2605602a4"
+ },
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:bb5522e85ea9a987f1719ab5e673af7e4b9cc166c590cc84a98250fd2c4b89b6",
+ "key": {
+  "unit": "ia:Games-Magazine-February-1992-images/0041",
+  "extract": "sha256:4578278079f7955c467a7d410a6171042e9579b3d0ab1dfb09458fa3167d1542",
+  "solution_id": "Games-Magazine-February-1992-images/41#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   41,
+   "its page says the answers are on page 40"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c10 r2c3 r2c7 r2c19 r3c12 r4c10 r6c5 r10c14 r13c5 r15c7 r22c23 r23c12 r23c14"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:dc55f48c6ff9ea0e016989c21081f8357ecb17a4232975e51262ea38502bd902"
+}

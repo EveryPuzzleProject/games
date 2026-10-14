@@ -1,0 +1,48 @@
+{
+ "id": "games-1982-05-01-4",
+ "aliases": [
+  "games1982-05-01",
+  "games1982-05-01-L034"
+ ],
+ "xdid": "games1982-05-01",
+ "issue": "1982-05-01",
+ "date": "1982-05-01",
+ "grid": {
+  "unit": "ia:games-29-1982-may/0030",
+  "extract": "sha256:c8343413ac8c5470513cddcfccf93c158cdc5329f0d801f4dc97520601bb7f36",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-May-June-1982-images/0034",
+   "extract": "sha256:64a016c8813718d62ed6d9caa524c6982142182eeba3b2d53ee1793f23210171"
+  }
+ ],
+ "reading": "sha256:85f4fb86f9cebeeaf6c41099589190e81f653098f259b315a47ec1a93579d2a5",
+ "key": {
+  "unit": "ia:games-29-1982-may/0071",
+  "extract": "sha256:68bee2b8a4d32dae6a7107ad2f5baf1f1d2894985fe7d8cce825e22bea525e7e",
+  "solution_id": "games-29-1982-may/71#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   71,
+   "its page says the answers are on page 70"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-May-June-1982-images/page/n34/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r4c7 r8c1"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:0dcc3b5f13d24d3dd4c87ed684068324da8674c9423819ee6fd8d573f0e38b59"
+}

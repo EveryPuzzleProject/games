@@ -1,0 +1,42 @@
+{
+ "id": "games-1984-07-01-2",
+ "aliases": [
+  "games1984-07-01b",
+  "games1984-07-01-L040"
+ ],
+ "xdid": "games1984-07-01b",
+ "issue": "1984-07-01",
+ "date": "1984-07-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-July-1984-images/0040",
+  "extract": "sha256:41e3b75745c0474ae09fd20a9aeccc7fac3f97092df18b725078844416c130c0",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-53-1984-july/0040",
+   "extract": "sha256:311c5bc4627aeccff01a389553710ba1de847737b1068895331c392351d61eaa"
+  }
+ ],
+ "reading": "sha256:465f4fe091939f9974595e27278239cef9ee6f673aa8d11d20d555c6932ceafb",
+ "key": {
+  "unit": "ia:games-53-1984-july/0069",
+  "extract": "sha256:d613e7077d10ff488cae1fa4dc45fc1aab81ecaf7a777edc2c8f8a703806f243",
+  "solution_id": "games-53-1984-july/69#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-53-1984-july/page/n40/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r4c9 r8c8 r10c3 r13c10 r13c15 r19c3"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:976d7765b917bd8aee73b2a889e818d0d5c3f711bdfb66dec0bea77586ea8528"
+}

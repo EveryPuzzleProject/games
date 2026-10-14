@@ -1,0 +1,39 @@
+{
+ "id": "games-1983-09-01-2",
+ "aliases": [
+  "games1983-09-01e",
+  "games1983-09-01-L052"
+ ],
+ "xdid": "games1983-09-01e",
+ "issue": "1983-09-01",
+ "date": "1983-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September-1983-images/0052",
+  "extract": "sha256:7b8f0c71535081c1c2ee53142801671bedd35ab8aee0605efe1b3af1acb284bc",
+  "size": "21x19",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-September-1983-images/0051",
+  "extract": "sha256:4f676d6a14624fbd67bd62a8c02cbe50a21accb00e88f403246696c4acb71f84"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-43-1983-september/0046",
+   "extract": "sha256:35ad3d99f84c61aee38b3572221430eee8e46c16c5fac1bae10b5f797fad6372"
+  }
+ ],
+ "reading": "sha256:56bca4617462f31db6b20b4dde9e2724a4114ce2347fab6f0b6c5c77560ab5cd",
+ "alternates": [
+  "https://archive.org/details/games-43-1983-september/page/n46/mode/1up"
+ ],
+ "checks": {
+  "solution": [],
+  "asymmetric": 58,
+  "warnings": [
+   "Grid isn't symmetric: 58 square pair(s) differ (r1c1/r21c19, r1c6/r21c14, r1c13/r21c7, r2c6/r20c14, r2c13/r20c7, r3c1/r19c19, r3c6/r19c14, r4c4/r18c16). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:18ea899bd054665db6974881fa935fea45421381478fc8f8f7718ebc00cc088e"
+}

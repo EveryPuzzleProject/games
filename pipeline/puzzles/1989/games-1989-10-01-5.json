@@ -1,0 +1,42 @@
+{
+ "id": "games-1989-10-01-5",
+ "aliases": [
+  "games1989-10-01c",
+  "games1989-10-01-L035"
+ ],
+ "xdid": "games1989-10-01c",
+ "issue": "1989-10-01",
+ "date": "1989-10-01",
+ "grid": {
+  "unit": "ia:games-100-1989-october/0033",
+  "extract": "sha256:22cd6a77f60152f774d6b612b370856e0813962a30ff6e887400b76a62da7c46",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-Deluxe-October_November-1989-images/0035",
+   "extract": "sha256:669504f1faf3f400bcab08bb6780168bbd913aae70616aed59294af65a2fa40a"
+  }
+ ],
+ "reading": "sha256:ba8b43a7c65e5bfc0de723cc40ab7775acba0b196329a148e8e0df591fa2699d",
+ "key": {
+  "unit": "ia:games-100-1989-october/0061",
+  "extract": "sha256:39289164e159488ce96ff57b60a727b5ecdfb9f72d031e40cab3f376d67de891",
+  "solution_id": "games-100-1989-october/61#2",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-Deluxe-October_November-1989-images/page/n35/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r15c17 r16c10"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:dd7f2507d0e99f1cb4d198863a3508256b36077dca414c9200e2c74ad9753590"
+}

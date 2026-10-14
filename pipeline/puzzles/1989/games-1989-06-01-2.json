@@ -1,0 +1,30 @@
+{
+ "id": "games-1989-06-01-2",
+ "aliases": [
+  "games1989-06-01-L081"
+ ],
+ "xdid": "games1989-06-01-L081",
+ "issue": "1989-06-01",
+ "date": "1989-06-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-Deluxe-June_July-1989-images/0081",
+  "extract": "sha256:684601244f98fc0e9dff28a847f1ff45106d508e6d95865a2c5f957f4a48d7cd",
+  "size": "5x6",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-Deluxe-June_July-1989-images/0080",
+  "extract": "sha256:8fd724a388d9f1d4cdc21eaaca2ba36324864d4a06f3098579e83a716d6dbec7"
+ },
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:37b0ca6daf388c8472bf2c9cfdc702e4f53839bc555974eb3c0de6e540910991",
+ "checks": {
+  "solution": [],
+  "asymmetric": 5,
+  "warnings": [
+   "Grid isn't symmetric: 5 square pair(s) differ (r1c6/r5c1, r2c1/r4c6, r2c4/r4c3, r3c1/r3c6, r3c2/r3c5). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:bda22f5d3ee9e6fc6e45fa24885cb9bdccba75030d2b219240f8801c3ac950e5"
+}

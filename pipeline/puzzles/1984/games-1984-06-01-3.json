@@ -1,0 +1,43 @@
+{
+ "id": "games-1984-06-01-3",
+ "aliases": [
+  "games1984-06-01b",
+  "games1984-06-01-L034"
+ ],
+ "xdid": "games1984-06-01b",
+ "issue": "1984-06-01",
+ "date": "1984-06-01",
+ "grid": {
+  "unit": "ia:games-52-1984-june/0032",
+  "extract": "sha256:a3fe44e0457769f500b9a3c21000773b8a2a047d27eee1d3ec15946b7fd3080f",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-June-1984-images/0034",
+   "extract": "sha256:f9d723f29c6ef9ce51fcccab39541306bc39e2715f23a552dce1a3a8d9361f79"
+  }
+ ],
+ "reading": "sha256:100acd2faba0bd07a27b247cf110393c1e313659c2ac0bc69bd00e3917645eb2",
+ "key": {
+  "unit": "ia:Games-Magazine-June-1984-images/0070",
+  "extract": "sha256:b65bfb78b52d0966d16919f46575c46a99863d2c6384ef2d36e829b892662c6f",
+  "solution_id": "Games-Magazine-June-1984-images/70#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-June-1984-images/page/n34/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "5 unreadable solution letters",
+   "low-confidence letters at r1c4 r3c3 r4c5 r4c13 r5c12 r13c1 r14c13 r15c6 r15c12"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:2f12d1fcf202e79351dfaa6b36a5f67c9df46048ff1afecba01bd0653f5b9193"
+}

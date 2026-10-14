@@ -1,0 +1,42 @@
+{
+ "id": "games-1985-12-01-4",
+ "aliases": [
+  "games1985-12-01e",
+  "games1985-12-01-L050"
+ ],
+ "xdid": "games1985-12-01e",
+ "issue": "1985-12-01",
+ "date": "1985-12-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-December-1985-images/0050",
+  "extract": "sha256:3e2a60dfbbc5ab0d489a756d058209a18bce3e017121cb24498dcb4c20726c57",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games701985december/0044",
+   "extract": "sha256:fb2e9aada27cec898ea528fab0ce8608cb3feef16fce07268ae55f0b047ac04d"
+  }
+ ],
+ "reading": "sha256:3f9a976e81c31d55a29adabc5bba4abbfd329acd3c73dbbe8912c6638766c3a6",
+ "key": {
+  "unit": "ia:Games-Magazine-December-1985-images/0076",
+  "extract": "sha256:25ecaaeb4248bfb29c8d341876651832f8ac3dd14736faf2e0dfb1095bcf1e37",
+  "solution_id": "Games-Magazine-December-1985-images/76#1",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games701985december/page/n44/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c7 r3c7 r5c5 r6c4 r7c14 r9c2 r10c3 r15c9"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:7c99b966a3d3eb78e3a9b7690b90e4dc25b882a9b630a97b919e9d8876aae35d"
+}

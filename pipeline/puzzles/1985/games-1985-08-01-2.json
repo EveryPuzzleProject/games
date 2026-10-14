@@ -1,0 +1,45 @@
+{
+ "id": "games-1985-08-01-2",
+ "aliases": [
+  "games1985-08-01d",
+  "games1985-08-01-L046"
+ ],
+ "xdid": "games1985-08-01d",
+ "issue": "1985-08-01",
+ "date": "1985-08-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-August-1985-images/0046",
+  "extract": "sha256:013573d97cd961d4ca5e6a3fa6efa8918d4a6439176c801d969e48cf4eb8a76f",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-August-1985-images/0045",
+  "extract": "sha256:036c4d45390d3ed0e3068e37ff02ce3a2671b1c32bd447e35fc9d543d69f0bc5"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games661985august/0040",
+   "extract": "sha256:cefe5c74592f82c311fcb370c32aa6ca61321515b8593b13051ff1267ba11de2"
+  }
+ ],
+ "reading": "sha256:288e38ceb4a87513d85181689ce8fa9712f434b6b9a23e3fe0ad1fe9b5f0df84",
+ "key": {
+  "unit": "ia:Games-Magazine-August-1985-images/0073",
+  "extract": "sha256:7395ba3f34468403f0923da050dfd4da4c25e7fc61498acd2ea11e746ddcc0b3",
+  "solution_id": "Games-Magazine-August-1985-images/73#1",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games661985august/page/n40/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c13 r19c13"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:ad80506b1beddb5343e22be2083a60e2ef1e0195a512baa3b673cd211c3b2c55"
+}

@@ -1,0 +1,50 @@
+{
+ "id": "games-1986-08-01-3",
+ "aliases": [
+  "games1986-08-01c",
+  "games1986-08-01-L046"
+ ],
+ "xdid": "games1986-08-01c",
+ "issue": "1986-08-01",
+ "date": "1986-08-01",
+ "grid": {
+  "unit": "ia:games-78-1986-august/0038",
+  "extract": "sha256:9b2db5e53e1fec1a7230a2b329e5b77d6d259460ede9e7bfbb47bcbcbf9a3c2c",
+  "size": "14x16",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-August-1986-images/0046",
+   "extract": "sha256:a1449e3821ecaef63cb0c7f56338f1446095dc97784ff8c085891c638f3dab8f"
+  }
+ ],
+ "reading": "sha256:323856c0721c54c4e45b7c1e54c2a363f23176dc52c38a784982e5bd85371049",
+ "key": {
+  "unit": "ia:games-78-1986-august/0063",
+  "extract": "sha256:1fdd4a55f923d5bd048913e38cd14ff369953101eefff92c428887f890ab8ddb",
+  "solution_id": "games-78-1986-august/63#0@r0c16:14x16",
+  "how": "near:3 (on the page the puzzle names) (part of a merged answer grid)"
+ },
+ "answer_pages": [
+  [
+   63,
+   "its page says the answers are on page 62"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-August-1986-images/page/n46/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r1c1 r1c6 r5c1",
+   "6 unreadable solution letters",
+   "low-confidence letters at r1c1 r1c2 r1c4 r1c6 r2c1 r2c3 r2c4 r2c15 r3c3 r3c4 r3c7 r4c2 r4c3 r5c2 r10c2 r13c1 r14c8"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:8f414c20b70307d7b5f1b4d817c531134b67f60fd3db56278789eab7d7ccc2cb"
+}

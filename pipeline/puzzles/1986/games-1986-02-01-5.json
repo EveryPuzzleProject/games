@@ -1,0 +1,51 @@
+{
+ "id": "games-1986-02-01-5",
+ "aliases": [
+  "games1986-02-01c",
+  "games1986-02-01-L036"
+ ],
+ "xdid": "games1986-02-01c",
+ "issue": "1986-02-01",
+ "date": "1986-02-01",
+ "grid": {
+  "unit": "ia:games-72-1986-february/0032",
+  "extract": "sha256:51d8b07845a8a213f760072a4992bfd7bab1230ad9d307fc59494e4a070b666c",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-February-1986-images/0036",
+   "extract": "sha256:46c8fcb5e481f5deaf84e0da63a972cc8287c632583be37fb62bc22959781c29"
+  }
+ ],
+ "reading": "sha256:9709e07d071c19c52c5f6918283913ba5cbf815ed66c99fbd0acc2965cede75a",
+ "key": {
+  "unit": "ia:Games-Magazine-February-1986-images/0075",
+  "extract": "sha256:d20773d7b2132e29bb9f1bec267e794bdaab176e5c97218315576755ed7e4426",
+  "solution_id": "Games-Magazine-February-1986-images/75#0",
+  "how": "near:2"
+ },
+ "answer_pages": [
+  [
+   63,
+   "its page says the answers are on page 62"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-February-1986-images/page/n36/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "puzzle and solution grids differ at r6c1 r16c13",
+   "low-confidence letters at r1c5 r2c8 r2c11 r3c9 r4c7 r6c13 r7c5 r7c13 r8c13 r12c10 r13c4 r13c11 r16c13"
+  ],
+  "asymmetric": 2,
+  "warnings": [
+   "Grid isn't symmetric: 2 square pair(s) differ (r2c5/r16c13, r6c1/r12c17). Check those black squares against the scan, or confirm the design is asymmetric."
+  ]
+ },
+ "xd": "sha256:c69ef6107e8fc72130511f146d58aeb79d12321318227ebfcd3b167055e9be70"
+}

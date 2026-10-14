@@ -1,0 +1,48 @@
+{
+ "id": "games-1986-09-01-2",
+ "aliases": [
+  "games1986-09-01c",
+  "games1986-09-01-L032"
+ ],
+ "xdid": "games1986-09-01c",
+ "issue": "1986-09-01",
+ "date": "1986-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September-1986-images/0032",
+  "extract": "sha256:25fa8469ed2989ea9d7984ea5f65565f9110803bd12b77878d230f4456b35c77",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games791986september/0030",
+   "extract": "sha256:4a99cb967bd57088a635a58f5e7df88255c8c7289f51c6135bd2ccd621aaa792"
+  }
+ ],
+ "reading": "sha256:d5c31dd396de4744238ac598ad45b56d4370f3bba450b692b4bd440a7a08cd6d",
+ "key": {
+  "unit": "ia:Games-Magazine-September-1986-images/0066",
+  "extract": "sha256:0864afaeb57ba7f82f36192e0455c9729c89368dc6e615933da95700f6028e48",
+  "solution_id": "Games-Magazine-September-1986-images/66#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   58,
+   "its page says the answers are on page 57"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games791986september/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c2 r1c9 r2c16 r4c6 r4c12 r4c14 r6c8 r6c18 r7c16 r8c2 r9c9 r9c18 r11c4 r21c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:e6a8c5a49860305762e4590a83ee6b146b2dab834bdec38de33d522c14f74a94"
+}

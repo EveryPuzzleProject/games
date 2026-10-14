@@ -1,0 +1,40 @@
+{
+ "id": "games-1979-11-01-3",
+ "aliases": [
+  "games1979-11-01b",
+  "games1979-11-01-L049"
+ ],
+ "xdid": "games1979-11-01b",
+ "issue": "1979-11-01",
+ "date": "1979-11-01",
+ "grid": {
+  "unit": "ia:games-14-1979-november/0049",
+  "extract": "sha256:8d0a7f076be88bf6c1e0cc40146cf21cb0c1f595a97a53cfbe856d52d364d4a5",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:a708c639455058eab7fea4266c682331a6236be5c9bcaf304e70a73ecf659ac6",
+ "key": {
+  "unit": "ia:games-14-1979-november/0107",
+  "extract": "sha256:a0c11c8aaeed5e5289277fdf28b9036bc4c436e33cabd65722947527d5d118bc",
+  "solution_id": "games-14-1979-november/107#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   107,
+   "its page says the answers are on page 106"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c7 r4c8 r4c10 r5c7 r11c6"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:7ce702cbc51381dfc029daf3f93fec041d64c4c3b2e3c628ea32b0f7f4c97ea8"
+}

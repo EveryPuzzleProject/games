@@ -1,0 +1,42 @@
+{
+ "id": "games-1986-03-01-1",
+ "aliases": [
+  "games1986-03-01",
+  "games1986-03-01-L030"
+ ],
+ "xdid": "games1986-03-01",
+ "issue": "1986-03-01",
+ "date": "1986-03-01",
+ "grid": {
+  "unit": "ia:games731986march/0028",
+  "extract": "sha256:1bea487680d6a2049511db26cb14924b863aedea79b99e2e2a1dcf06f927c830",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-March-1986-images/0030",
+   "extract": "sha256:a5545c73ae2d334d89d20db4fe3ced1386a5e1ad260e3f55b89ed3e9bf5556c1"
+  }
+ ],
+ "reading": "sha256:4e780e3b9a3ca5453c66780453894fe247a4d0518490acd613d0965c588631b9",
+ "key": {
+  "unit": "ia:games731986march/0062",
+  "extract": "sha256:8e84acd9105ab51c4b03cb0b4f2580a60edb8956780794b746d7a30c15edaaf3",
+  "solution_id": "games731986march/62#1",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-March-1986-images/page/n30/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c7 r2c8 r6c2"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:ae94e8972f02e988ea2798cdf091c42821aec527f3388feaff5cfd06d4ef1f03"
+}

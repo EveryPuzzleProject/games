@@ -1,0 +1,48 @@
+{
+ "id": "games-1983-04-01-5",
+ "aliases": [
+  "games1983-04-01d",
+  "games1983-04-01-L048"
+ ],
+ "xdid": "games1983-04-01d",
+ "issue": "1983-04-01",
+ "date": "1983-04-01",
+ "grid": {
+  "unit": "ia:games-38-1983-april/0040",
+  "extract": "sha256:1edd37faa4b8a95713ee64a6efb1885ce93a253926374d7336e71fb1e41ab28e",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-April-1983-images/0048",
+   "extract": "sha256:6b8ee9d35c1cf0841e6e664cdc137341c87040b6704aa01f06e62b684dc2eda5"
+  }
+ ],
+ "reading": "sha256:783a55d7dad1e0fcba332f9ea4e001e9b52cd25fe8541cb55dbc3ccfd4fa0b5e",
+ "key": {
+  "unit": "ia:games-38-1983-april/0067",
+  "extract": "sha256:fe7ef6b791371aadbd1235e4f24f773d64feafe2649aa1aaaff7db7e946a5bb1",
+  "solution_id": "games-38-1983-april/67#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   67,
+   "its page says the answers are on page 66"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-April-1983-images/page/n48/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r11c7 r15c21"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:facfca2131291afbd9bbe037060fe0ccad2164dc6a51c3fe904ad2d93d8355b5"
+}

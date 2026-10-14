@@ -1,0 +1,43 @@
+{
+ "id": "games-1991-12-01-4",
+ "aliases": [
+  "games1991-12-01d",
+  "games1991-12-01-L042"
+ ],
+ "xdid": "games1991-12-01d",
+ "issue": "1991-12-01",
+ "date": "1991-12-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-December-1991-images/0042",
+  "extract": "sha256:8890891ed4d90861eb407caffd502f409716714fc6ba431c417f434364e14ced",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-December-1991-images/0041",
+  "extract": "sha256:c105e0ea75acb835b148e692f7423fbb11a84efa8fc5eaba8ce8b593187f6610"
+ },
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:d1c70aa275e23c8336e8bf41577ae923a3f31f66276c1964ce7c4a5ec6c9cb4d",
+ "key": {
+  "unit": "ia:Games-Magazine-December-1991-images/0046",
+  "extract": "sha256:9ab5300b11edb92821d25bd437529fe2782b2576664790d2caf9f19893e6768f",
+  "solution_id": "Games-Magazine-December-1991-images/46#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   46,
+   "its page says the answers are on page 45"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c18 r9c11 r9c17 r12c6 r14c4 r14c14 r20c9 r24c20 r25c3"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:a338c403a25ac48052111f5e52bdac66976f694627e8ea7ac0a8c148fccbff79"
+}

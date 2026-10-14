@@ -1,0 +1,51 @@
+{
+ "id": "games-1978-09-01-4",
+ "aliases": [
+  "games1978-09-01d",
+  "games1978-09-01-L042"
+ ],
+ "xdid": "games1978-09-01d",
+ "issue": "1978-09-01",
+ "date": "1978-09-01",
+ "grid": {
+  "unit": "ia:games-7-1978-september/0040",
+  "extract": "sha256:17c27641db6a4e753c3ee6646db764320e05dc3938ff5f2de7e0e7ba4d82288d",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-7-1978-september/0039",
+  "extract": "sha256:42b07eade17191d73565969033444a4f47fd599533bf9e9621b7ed9066f637b4"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-September-October-1978-images/0042",
+   "extract": "sha256:a26529a8cc28565e30366f00f741a2d6496da4dc3141a6af34179c4284583dd8"
+  }
+ ],
+ "reading": "sha256:31857c94c5a18bd615c293850e555b09817f0dbe4dc0839b2bdfb64c077b40d8",
+ "key": {
+  "unit": "ia:games-7-1978-september/0063",
+  "extract": "sha256:a31aabb8bb7d70e009af3281202971df37ea620ecb1002a9e8369010772af811",
+  "solution_id": "games-7-1978-september/63#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   63,
+   "its page says the answers are on page 62"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-September-October-1978-images/page/n42/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c21 r2c8 r3c15 r4c8 r5c5 r6c6 r8c18 r8c23 r11c5 r13c19 r15c20 r15c23 r16c19 r17c11 r17c18 r18c16 r19c14 r19c24 r22c18 r22c24 r23c16 r25c10"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:380df567fbb44599088ae19b8e9971c32c9421c7646a94393218b8f9a99446a9"
+}

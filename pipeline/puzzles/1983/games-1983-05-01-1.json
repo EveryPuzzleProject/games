@@ -1,0 +1,56 @@
+{
+ "id": "games-1983-05-01-1",
+ "aliases": [
+  "games1983-05-01c",
+  "games1983-05-01-L034"
+ ],
+ "xdid": "games1983-05-01c",
+ "issue": "1983-05-01",
+ "date": "1983-05-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-May-1983-images/0034",
+  "extract": "sha256:a4efa26ececce38ee8e04b7283d55f993f3a56e0c663512cbbdb876f85caef07",
+  "size": "13x13",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-May-1983-images/0034",
+   "extract": "sha256:a4efa26ececce38ee8e04b7283d55f993f3a56e0c663512cbbdb876f85caef07"
+  },
+  {
+   "unit": "ia:games-39-1983-may/0036",
+   "extract": "sha256:6d33dd3877036572dba5123828c800d8275f507d8be07a289e5c65e5c418c2f7"
+  },
+  {
+   "unit": "ia:games-39-1983-may/0036",
+   "extract": "sha256:6d33dd3877036572dba5123828c800d8275f507d8be07a289e5c65e5c418c2f7"
+  }
+ ],
+ "reading": "sha256:b1f492e5e49ee100aba82991f39aae43649d8ba6bccad91a7792871f220ebff0",
+ "fix": "sha256:b513adcf8ba834acad74f6b97560031e23385c0c427522d571c7b49a1eb6ab02",
+ "key": {
+  "unit": "ia:Games-Magazine-May-1983-images/0069",
+  "extract": "sha256:2df020f1d2710c8e4a114b6a037d5d968a80b62488586a5067cce80eeb8b39b5",
+  "solution_id": "Games-Magazine-May-1983-images/69#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-May-1983-images/page/n34/mode/1up",
+  "https://archive.org/details/games-39-1983-may/page/n36/mode/1up",
+  "https://archive.org/details/games-39-1983-may/page/n36/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c1 r4c6 r8c4 r11c5 r12c10"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "This copy of the puzzle was filled in by a reader (handwriting in the grid).",
+   "Note: Printed as 'Siamese Twins': two grids for the price of one, each clue number followed by two different clues; the solver decides which grid each answer belongs in."
+  ]
+ },
+ "xd": "sha256:f0343e1f994836cfa13719bf8fdc7dd144ad2c957cc616f8a05a5b2aecbad57e"
+}

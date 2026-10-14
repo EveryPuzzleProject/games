@@ -1,0 +1,64 @@
+{
+ "id": "games-1989-01-01-2",
+ "aliases": [
+  "games1989-01-01",
+  "games1989-01-01-L028"
+ ],
+ "xdid": "games1989-01-01",
+ "issue": "1989-01-01",
+ "date": "1989-01-01",
+ "grid": {
+  "unit": "ia:games-95-1989-january/0026",
+  "extract": "sha256:178d0a72627cf1488accf258771312ea9140feadb9399a867aad8317d6ebf82b",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-Deluxe-January-1989-images/0028",
+   "extract": "sha256:ce91540bc05d86592a4376a5f6837279b3736cfa9c63b0e445659ed72692cba3"
+  }
+ ],
+ "reading": "sha256:bcc50a9bb6a6a1360ef42c468c07744ec00f623ce1478aef265affb6e408b03c",
+ "key": {
+  "unit": "ia:games-95-1989-january/0071",
+  "extract": "sha256:28d3250039a514c8965404e63e3f3e82e53bb6361064e7aaebb3c82318f74a2d",
+  "solution_id": "games-95-1989-january/71#1",
+  "how": "recovered"
+ },
+ "answer_pages": [
+  [
+   42,
+   "its page says the answers are on page 54"
+  ],
+  [
+   48,
+   "its page says the answers are on page 60"
+  ],
+  [
+   52,
+   "its page says the answers are on page 60"
+  ],
+  [
+   71,
+   "its page says the answers are on page 54"
+  ],
+  [
+   77,
+   "its page says the answers are on page 60"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-Deluxe-January-1989-images/page/n28/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c2 r1c15 r10c1 r10c2 r12c3 r13c1 r13c3 r13c6 r14c2 r14c6 r15c4 r15c6"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:3300c2c5d314803ee58182ea2e61f1bf97896873904de4256aa03dac6e0ff406"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "games-1981-11-01-4",
+ "aliases": [
+  "games1981-11-01b",
+  "games1981-11-01-L038"
+ ],
+ "xdid": "games1981-11-01b",
+ "issue": "1981-11-01",
+ "date": "1981-11-01",
+ "grid": {
+  "unit": "ia:games-26-1981-november/0038",
+  "extract": "sha256:39669de065b9eb5a84dcfe4cc97fb1d3291377b1bf585224a833b99b583790e7",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-November-December-1981-images/0038",
+   "extract": "sha256:cdcecdca55a3d2ac60d4ae10442c9d9022ba12f2e330a5ecd1158a325d889228"
+  }
+ ],
+ "reading": "sha256:a99835280622687d77de9af15f1ab98a6f204a6ec1a5bb3bfcc70e5189db3767",
+ "key": {
+  "unit": "ia:games-26-1981-november/0093",
+  "extract": "sha256:4f0aaf45a0837989f89ee1ba5a4537187f2a4ed5d61ff429436b7997ffca4973",
+  "solution_id": "games-26-1981-november/93#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   93,
+   "its page says the answers are on page 92"
+  ],
+  [
+   97,
+   "its page says the answers are on page 96"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-November-December-1981-images/page/n38/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r3c7"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:8237e9c70adc3099c4380c20932b32e0ec23839f41235d819874dbf0c1e74fed"
+}

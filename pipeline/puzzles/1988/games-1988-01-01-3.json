@@ -1,0 +1,34 @@
+{
+ "id": "games-1988-01-01-3",
+ "aliases": [
+  "games1988-01-01c",
+  "games1988-01-01-L033"
+ ],
+ "xdid": "games1988-01-01c",
+ "issue": "1988-01-01",
+ "date": "1988-01-01",
+ "grid": {
+  "unit": "ia:games-89-1988-january/0033",
+  "extract": "sha256:e10770b94bef743f532b0e8489a35982b9dc5941310bf579ff1c969250c548ea",
+  "size": "17x17",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:176e7b47d4994b4b67868168f61b46c12c978bd23c39ea3fd2fbf644090effbd",
+ "key": {
+  "unit": "ia:games-89-1988-january/0046",
+  "extract": "sha256:32626b3c2017b0c2b677b3bee49606b89ce92ef195927979f0f494d86207d4bb",
+  "solution_id": "games-89-1988-january/46#1",
+  "how": "exact"
+ },
+ "checks": {
+  "solution": [
+   "low-confidence letters at r4c9 r8c5 r11c17 r13c7 r14c13 r16c10 r17c4"
+  ],
+  "asymmetric": 0,
+  "warnings": []
+ },
+ "xd": "sha256:f60ca86cfc2bc7b874df668e594e9b93580ef91263a3396de7ce54040b5d3aa1"
+}
