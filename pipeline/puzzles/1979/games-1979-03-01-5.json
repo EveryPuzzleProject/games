@@ -1,0 +1,44 @@
+{
+ "id": "games-1979-03-01-5",
+ "aliases": [
+  "games1979-03-01-L040-2"
+ ],
+ "xdid": "games1979-03-01-L040-2",
+ "issue": "1979-03-01",
+ "date": "1979-03-01",
+ "grid": {
+  "unit": "ia:games-10-1979-march/0040",
+  "extract": "sha256:8d6454941bcdc84dab5c3b5409040be6a89057908ab3a005bb72f0b26ab7d817",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-10-1979-march/0039",
+  "extract": "sha256:2da6b130721369d4f197dcd93f66fd6f3bb16fc5152eb5cec998039e431b1c29"
+ },
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:d9fcd634dfb40394ef3e8015b9f1d30f906d000e2b306a19d585e9f55efc32d6",
+ "key": {
+  "unit": "ia:games-10-1979-march/0064",
+  "extract": "sha256:a5aa5cbf20bdeb25ba2faac36f5918ebc0afae03fcea6684b67964a96e4e00b2",
+  "solution_id": "games-10-1979-march/64#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   64,
+   "headed with the puzzle's page, (Page 39)"
+  ]
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c3 r3c19 r4c9 r5c11 r5c15 r5c17 r6c18 r7c13 r8c14 r9c2 r11c3 r12c13 r12c23 r17c23 r23c3 r23c12"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Rescued: its clues lined up for only 66% of slots, but the answer key games-10-1979-march/64#0 matches its grid exactly; check every clue"
+  ]
+ },
+ "xd": "sha256:380e541205e6ee628e90915f1bd7b92da8c225bcb0f5cabc82ac27f4758fb9ad"
+}

@@ -22,13 +22,21 @@
   }
  ],
  "reading": "sha256:6c539f4b43b4794b13dd1b1316a66afd4f5c0ce1ccd9d1199129b22701c8d9e8",
+ "key": {
+  "unit": "ia:Games-Magazine-September-1982-images/0096",
+  "extract": "sha256:71609bb2ef68552e49ef8edeba5c874afc4aaa832eacb1e26da9fcb9fe37448d",
+  "solution_id": "Games-Magazine-September-1982-images/96#0",
+  "how": "exact"
+ },
  "alternates": [
   "https://archive.org/details/Games-Magazine-September-1982-images/page/n48/mode/1up"
  ],
  "checks": {
-  "solution": [],
+  "solution": [
+   "low-confidence letters at r10c2 r13c6 r14c1"
+  ],
   "asymmetric": 0,
   "warnings": []
  },
- "xd": "sha256:499a1ec3142f30f2042ae2abdfb097d3c3b3dfabb13a6a34d440bf9e7886fa9c"
+ "xd": "sha256:66aabd63d49b905a1031881c366ec941b9764205c24213125b489999c72d85a5"
 }

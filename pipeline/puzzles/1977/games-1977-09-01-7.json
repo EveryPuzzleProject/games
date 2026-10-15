@@ -1,0 +1,46 @@
+{
+ "id": "games-1977-09-01-7",
+ "aliases": [
+  "games1977-09-01-L040"
+ ],
+ "xdid": "games1977-09-01-L040",
+ "issue": "1977-09-01",
+ "date": "1977-09-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-September_October-1977-images/0040",
+  "extract": "sha256:d03a85a942c7972a3c5065d34ceb56b80a1eeec1d0eeebd24784fd2bc45a4acf",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-September_October-1977-images/0038",
+  "extract": "sha256:6a48ef3dd88e310988af31f30c8b2f45e1bf1146e0f083bf0e09f7f5d7d8ccc5"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-1-1977-september/0040",
+   "extract": "sha256:17be32b63ae0c8efbdfb4c7266e8ec9914d8de02fc78a3c24f7f34654c151b9e"
+  }
+ ],
+ "reading": "sha256:58f66bc8d0590118e81c27251fed58f5a44d718afc438ee988573d3d24e983ee",
+ "key": {
+  "unit": "ia:Games-Magazine-September_October-1977-images/0063",
+  "extract": "sha256:7c02ae1dfe7529d58963af93cd367a39cdeb100b39934a6da7ca6975cdb17c54",
+  "solution_id": "Games-Magazine-September_October-1977-images/63#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-1-1977-september/page/n40/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c10 r1c24 r7c12 r10c7 r10c25 r11c10 r13c21 r16c3 r16c11 r18c3 r18c25 r20c14 r20c25 r21c12 r23c5 r23c14 r24c4 r25c2"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Rescued: its clues lined up for only 54% of slots, but the answer key Games-Magazine-September_October-1977-images/63#0 matches its grid exactly; check every clue"
+  ]
+ },
+ "xd": "sha256:6e0d3ad266a26e92efbe75eceb0535ef4c2a33a9e26a160e74d83808b308c3b4"
+}

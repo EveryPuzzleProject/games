@@ -1,0 +1,49 @@
+{
+ "id": "games-1979-03-01-4",
+ "aliases": [
+  "games1979-03-01-L040"
+ ],
+ "xdid": "games1979-03-01-L040",
+ "issue": "1979-03-01",
+ "date": "1979-03-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-March-April-1979-images/0040",
+  "extract": "sha256:5103e25e3baa103d076f6fb298f16c45df90c14281412cd5a399c16286d9dd71",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-10-1979-march/0036",
+   "extract": "sha256:180620663adfb2b14f4395317feae3e171ca9309c05c75c0d231c7e1bb4c08e3"
+  }
+ ],
+ "reading": "sha256:0b953eef2f1bc62e6414699a3cff5f5bb58322a363a7f63fe1228b6113ee5b75",
+ "key": {
+  "unit": "ia:Games-Magazine-March-April-1979-images/0072",
+  "extract": "sha256:db9fbed9c350a5a587d6981d04b376d7fe2099c91f0bafb71e5f2ba878eedd14",
+  "solution_id": "Games-Magazine-March-April-1979-images/72#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   72,
+   "its page says the answers are on page 63"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-10-1979-march/page/n36/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c3 r2c9 r3c12 r5c16 r7c2 r8c1 r9c20 r11c2 r12c17 r14c19 r17c19 r19c2 r19c3 r19c8 r20c1 r21c20"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Rescued: its clues lined up for only 54% of slots, but the answer key Games-Magazine-March-April-1979-images/72#1 matches its grid exactly; check every clue"
+  ]
+ },
+ "xd": "sha256:2e8cef4124478bf5e9c8c61c0e6bd029c0c4efd0b3771d96ea1b1a0f65fbb771"
+}

@@ -2,7 +2,8 @@
  "id": "games-1982-03-01-1",
  "aliases": [
   "games1982-03-01",
-  "games1982-03-01-L030"
+  "games1982-03-01-L030",
+  "games1982-03-01-L032"
  ],
  "xdid": "games1982-03-01",
  "issue": "1982-03-01",
@@ -15,8 +16,13 @@
  },
  "clues": null,
  "continued": null,
- "copies": [],
- "reading": "sha256:c42eb7ad9f546a5a49f82d32a1bd6552b50c991fbef02f5be47932f7a647adfb",
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-March-April-1982-images/0032",
+   "extract": "sha256:9dbe440ccd79fc93daa9ef4149a0c0b096704a1fefcde3e550a7297534f42ffb"
+  }
+ ],
+ "reading": "sha256:2e4e87980a604072cf9c001cfbe2b4d2b097b10eb4af1e481c99ffe7dfac46ee",
  "key": {
   "unit": "ia:games-28-1982-march/0073",
   "extract": "sha256:94ba3ebc34bc66e3c8401ac7e1a32cf3727aebc600d69d8ce8c8de5791c9bef3",
@@ -33,6 +39,9 @@
    "its page says the answers are on page 72"
   ]
  ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-March-April-1982-images/page/n32/mode/1up"
+ ],
  "checks": {
   "solution": [
    "low-confidence letters at r2c4 r4c2 r6c2 r9c6 r9c12 r12c11 r13c2 r13c6 r14c9"
@@ -40,5 +49,5 @@
   "asymmetric": 0,
   "warnings": []
  },
- "xd": "sha256:0dd14e7cfb06f1846fb0c5dc3af0f7acde5195d478d19cbdefc273c83882ab43"
+ "xd": "sha256:5bc04a1ebf71723bac13876d533ffeda52a7edd71ae9dfef1ab91e239ee0a907"
 }

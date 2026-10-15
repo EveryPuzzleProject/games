@@ -1,0 +1,56 @@
+{
+ "id": "games-1978-11-01-5",
+ "aliases": [
+  "games1978-11-01-L033"
+ ],
+ "xdid": "games1978-11-01-L033",
+ "issue": "1978-11-01",
+ "date": "1978-11-01",
+ "grid": {
+  "unit": "ia:games-8-1978-november/0029",
+  "extract": "sha256:b8fd2b1a341420d6a6787c52b2bdf3001d7ee333218da03588ddc4a8becf4106",
+  "size": "15x15",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-8-1978-november/0027",
+  "extract": "sha256:0c0033f86d2a9fad127e47366cbe03a8e2a83f3595c1d895a89dfb189b7074be"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-November-December-1978-images/0033",
+   "extract": "sha256:b2747bf2f5f24e14c07cd6751e49b6428f85b53e08927aea9630a9c792fac5b6"
+  }
+ ],
+ "reading": "sha256:66a6294d7107909e302d3024891312bead17bbc8fd6a98c4626fc24e6bde3860",
+ "key": {
+  "unit": "ia:games-8-1978-november/0068",
+  "extract": "sha256:86c6e9a5b6ae272c7cdcc015134590a2222edc5b1766a662e2bf412fed65a27e",
+  "solution_id": "games-8-1978-november/68#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   66,
+   "its page says the answers are on page 65"
+  ],
+  [
+   68,
+   "its page says the answers are on page 67"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-November-December-1978-images/page/n33/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c2 r2c8 r8c2 r9c6 r11c5 r11c10 r15c8"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Rescued: its clues lined up for only 9% of slots, but the answer key games-8-1978-november/68#0 matches its grid exactly; check every clue"
+  ]
+ },
+ "xd": "sha256:731dc55d0351615a34ea8280aea9a971116c401967b613af0932dd4a23c28e20"
+}

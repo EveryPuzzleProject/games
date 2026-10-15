@@ -679,6 +679,46 @@
    "version": "image/1"
   }
  },
+ "ia:games-23-1981-may/0033": {
+  "extract": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:fee6be7559d977808b7a453256983756160b959eb321f4078ee8e520a3f0dd79",
+    "layout": "sha256:9f64bed43b7854946be2f74540eb3053c1617508c6cf7df1a8e29bfed88e460c"
+   },
+   "made": "2026-10-15T19:35:16+00:00",
+   "output": "sha256:15d258f250fccc814ea239864a56ea5eee134efb7eefb5b0292fa1d386f10324",
+   "settings": {
+    "sure_swaps": []
+   },
+   "stage": "extract",
+   "version": "extract/5"
+  },
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-15T19:35:16+00:00",
+   "output": "sha256:fee6be7559d977808b7a453256983756160b959eb321f4078ee8e520a3f0dd79",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "layout": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:fee6be7559d977808b7a453256983756160b959eb321f4078ee8e520a3f0dd79"
+   },
+   "made": "2026-10-15T19:35:16+00:00",
+   "output": "sha256:9f64bed43b7854946be2f74540eb3053c1617508c6cf7df1a8e29bfed88e460c",
+   "settings": {
+    "max_grids": 12
+   },
+   "stage": "layout",
+   "version": "layout/1"
+  }
+ },
  "ia:games-23-1981-may/0042": {
   "extract": {
    "code": "xword-ocr 0.1.0",
@@ -747,6 +787,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8b0be4bb40712dd46db635b9b4afb2e4e46f86af35238e12875d443f1933b431"
+   },
+   "made": "2026-10-15T19:35:41+00:00",
+   "note": "adopted leaf0043.ocr.json",
+   "output": "sha256:1111c7740f69f1af5fe2515213e13383aa709cb2aaca1c9336afcb94a879f178",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-23-1981-may/0044": {
@@ -903,6 +958,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c5a95e25a09b7366dc7c99bf3e6cc386ba9332123f42633a8a6ae9fd073bf1f3"
+   },
+   "made": "2026-10-15T19:35:31+00:00",
+   "note": "adopted leaf0047.ocr.json",
+   "output": "sha256:885a740c0ad631045f70eea9eb790017efb53866ff5719165f4843d81f6f39f4",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-23-1981-may/0048": {
@@ -973,6 +1043,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:25a36234366f3c2df244a8a6f6d520ddca2b613f4dc2c424c4e2611a45cb150a"
+   },
+   "made": "2026-10-15T19:35:21+00:00",
+   "note": "adopted leaf0049.ocr.json",
+   "output": "sha256:f642b995506f20f2d6bd1e31fee5df44138556827f7ebddc6827e2e4691818a2",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-23-1981-may/0066": {
@@ -1000,6 +1085,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:86b5de2e7de06334c209ce63ca3228b809b1474fbb670a6098db5289ef8985f1"
+   },
+   "made": "2026-10-15T19:35:37+00:00",
+   "note": "adopted leaf0066.ocr.json",
+   "output": "sha256:a838d281f146cb7fcbd82ef2804fe23f8bc382ce3d122e992ac204520f73f05e",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-23-1981-may/0067": {
@@ -1070,6 +1170,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2f74891aa41e979a2f603d9201ca28754522b4521fc389be8c8000f63535a04f"
+   },
+   "made": "2026-10-15T19:35:39+00:00",
+   "note": "adopted leaf0068.ocr.json",
+   "output": "sha256:0124b11350e8626b4dff8eba28c09acc32c5eb4a8b76e1b861c49414ee2053a2",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-23-1981-may/0069": {
@@ -1097,6 +1212,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:8bb8c8db97b82af8f11c9b92cb6360e08dc331fad0ecc7de4a41f1c8a8722515"
+   },
+   "made": "2026-10-15T19:35:40+00:00",
+   "note": "adopted leaf0069.ocr.json",
+   "output": "sha256:4b9f47ecc248ea8afb529d9436dbb9e9b6bc6ccc39f9adcf89ca0200238d281e",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-23-1981-may/0070": {
@@ -1124,6 +1254,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:2e04c3db67b0fc4462107e035c19985e71c6c9eb81dfffffc8e159409af64975"
+   },
+   "made": "2026-10-15T19:35:29+00:00",
+   "note": "adopted leaf0070.ocr.json",
+   "output": "sha256:14e88fbe6b09c360a7f6bdbd6fb320553dd9841c98bbc38b9fa6f31795c6a429",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-23-1981-may/0071": {
@@ -1237,6 +1382,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:e21232b3edd3c05e0167d0bc7fa99b9a2f49d9b0fc6fa26f900b5f7c1343952d"
+   },
+   "made": "2026-10-15T19:35:43+00:00",
+   "note": "adopted leaf0073.ocr.json",
+   "output": "sha256:39a84dabcf8d62c1e78acc49892f94b63006d068f984ca8561e9bf6089785c34",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  }
 }

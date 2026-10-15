@@ -510,6 +510,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ead4f3b2bfef1951d6a7f4790c77f03ab548216d545cf485b2be94a6d00164ec"
+   },
+   "made": "2026-10-15T19:37:14+00:00",
+   "note": "adopted leaf0023.ocr.json",
+   "output": "sha256:b5eb68f9993d3b19f22af7ec83d3f5fbc01b673c4bbd8c38d9832c47639764e4",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-24-1981-July/0024": {
@@ -838,6 +853,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:d96c3f256eeb1be465a9ae3e2464fbebe3789e8ab947994e2e92d8859f1fd90f"
+   },
+   "made": "2026-10-15T19:37:15+00:00",
+   "note": "adopted leaf0039.ocr.json",
+   "output": "sha256:edfa99e01323a66118d86e279db471202e80a8852f086d7444eeeeec4bceeca4",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-24-1981-July/0040": {
@@ -951,6 +981,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:b65087216a2f6ec1a7f6c31c4b318467c093e8c09b0f4ef96b7a71f9ab337dfc"
+   },
+   "made": "2026-10-15T19:37:05+00:00",
+   "note": "adopted leaf0042.ocr.json",
+   "output": "sha256:b68bb7345316d7d619af5665748bef5780a0bed93d80e8c5f4286032ee76b2d1",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-24-1981-July/0043": {
@@ -1064,6 +1109,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c20709a533a6edfe4bf18a004636b798d10ff80e5251f25c0c13204f71e6f34e"
+   },
+   "made": "2026-10-15T19:37:00+00:00",
+   "note": "adopted leaf0045.ocr.json",
+   "output": "sha256:db3d999f55f21eaef01d92cc0322c4c269378179b57ceb5a1cf923e98e6fe52e",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-24-1981-July/0062": {

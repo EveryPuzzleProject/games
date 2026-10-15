@@ -1,0 +1,44 @@
+{
+ "id": "games-1982-03-01-4",
+ "aliases": [
+  "games1982-03-01-L052"
+ ],
+ "xdid": "games1982-03-01-L052",
+ "issue": "1982-03-01",
+ "date": "1982-03-01",
+ "grid": {
+  "unit": "ia:games-28-1982-march/0046",
+  "extract": "sha256:cb9bbb191c9531c42debc62fd9781ca476a1b724e2d93a5e575d68f6810f9a6b",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:games-28-1982-march/0045",
+  "extract": "sha256:a54a34d0e9ff7957d04f2c75b1ae2ff58e20c5ebc26310b7ffe6000db6348144"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-March-April-1982-images/0052",
+   "extract": "sha256:039c1f18bc36f4147efa24770e31e549c5866a930ed972648d76269c413252a3"
+  }
+ ],
+ "reading": "sha256:1024b908e4a81954359e30bcc062be7a4cdc16407fe7d046a4f829e04262efbe",
+ "key": {
+  "unit": "ia:Games-Magazine-July-August-1982-images/0081",
+  "extract": "sha256:38793f8d87cd954c899d7a9e28aabdb6fb6d1afa59270167434bff5cdd4b7246",
+  "solution_id": "Games-Magazine-July-August-1982-images/81#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-March-April-1982-images/page/n52/mode/1up"
+ ],
+ "checks": {
+  "solution": [],
+  "asymmetric": 0,
+  "warnings": [
+   "Rescued: its clues lined up for only 52% of slots, but the answer key Games-Magazine-July-August-1982-images/81#0 matches its grid exactly; check every clue"
+  ]
+ },
+ "xd": "sha256:ce5b7def60658d031061825be0b91c2fcf4a0e5b9c66a0913bea21f65bf3b934"
+}

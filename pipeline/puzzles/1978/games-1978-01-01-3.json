@@ -1,0 +1,43 @@
+{
+ "id": "games-1978-01-01-3",
+ "aliases": [
+  "games1978-01-01-L040"
+ ],
+ "xdid": "games1978-01-01-L040",
+ "issue": "1978-01-01",
+ "date": "1978-01-01",
+ "grid": {
+  "unit": "ia:games-3-1978-january/0040",
+  "extract": "sha256:e0d1cd687df1dc0f8f6880c63442893d9df9b37f4564922961d50f6bbc7b7d3f",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-January_February-1978-images/0040",
+   "extract": "sha256:61158fdd4316a09ccb6a3c414075db7a2a3b29e5626b9b2ed2d797c4883ecc20"
+  }
+ ],
+ "reading": "sha256:bf87b256f03e7212416326e123d8efe1772746be98b54289a29e30dbc027c15b",
+ "key": {
+  "unit": "ia:games-3-1978-january/0063",
+  "extract": "sha256:bf3ccbd06024588638f271a57b60a8c5238a1ee3931d48e62e172abbaf441652",
+  "solution_id": "games-3-1978-january/63#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-January_February-1978-images/page/n40/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c8 r2c15 r4c2 r4c3 r4c9 r7c4 r7c15 r13c15 r14c4 r14c5 r14c14 r14c17 r16c3 r17c10 r18c9 r18c14 r22c16 r23c1 r23c15"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Rescued: its clues lined up for only 51% of slots, but the answer key games-3-1978-january/63#0 matches its grid exactly; check every clue"
+  ]
+ },
+ "xd": "sha256:e1386a1c1a399d00d9d7130a3ca535500d2df9eef1636ef66fe63aa5755f9fcf"
+}

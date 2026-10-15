@@ -1,0 +1,49 @@
+{
+ "id": "games-1982-01-01-6",
+ "aliases": [
+  "games1982-01-01-L046"
+ ],
+ "xdid": "games1982-01-01-L046",
+ "issue": "1982-01-01",
+ "date": "1982-01-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-January-February-1982-images/0046",
+  "extract": "sha256:5e3cf53664921e64c45570b9e1a402a3c887594794f7c5c326eaa5b5376c6b4b",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-27-1982-january/0040",
+   "extract": "sha256:116da7ddbeca90793f17e31e3ae488621889a6115dab8c83f3277311c9ed5da6"
+  }
+ ],
+ "reading": "sha256:033e25331e5f6dda65ed2e91c974911cf02eafeadf9d03e208a02c0c34fbea71",
+ "key": {
+  "unit": "ia:Games-Magazine-January-February-1982-images/0083",
+  "extract": "sha256:0bdc5b21151dc5a23dea7af859b19a5a6d5756496c3d9d26c5ea8fa71d3d9549",
+  "solution_id": "Games-Magazine-January-February-1982-images/83#0",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   81,
+   "its page says the answers are on page 70"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/games-27-1982-january/page/n40/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c6 r1c20 r4c4 r4c8 r4c14 r5c7 r6c6 r7c10 r9c2 r9c6 r10c8 r10c12 r14c11 r15c17 r16c20 r20c13 r20c15"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Rescued: its clues lined up for only 56% of slots, but the answer key Games-Magazine-January-February-1982-images/83#0 matches its grid exactly; check every clue"
+  ]
+ },
+ "xd": "sha256:add09c1e6f085083b854d027a11394e9c186c6e0c313d1b47fb26e8ab528cfb5"
+}

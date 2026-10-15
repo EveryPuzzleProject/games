@@ -1,0 +1,43 @@
+{
+ "id": "games-1982-11-01-6",
+ "aliases": [
+  "games1982-11-01-L068"
+ ],
+ "xdid": "games1982-11-01-L068",
+ "issue": "1982-11-01",
+ "date": "1982-11-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-November-1982-images/0068",
+  "extract": "sha256:9f8d37a2017323a9dbe52185d6500fbcf40c3a2700012609bbe93f289367ef5f",
+  "size": "21x21",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:games-33-1982-november/0054",
+   "extract": "sha256:0a67633cf7416ff3580dc6674bd6bff4b977c4471da6f6fdbf216001ffa29b49"
+  }
+ ],
+ "reading": "sha256:0a2a7545fbe8d76c2f95c3df17ad7a3831f0e94c87b3603d44566dfb9b8c8dc7",
+ "key": {
+  "unit": "ia:Games-Magazine-November-1982-images/0109",
+  "extract": "sha256:4f184fa49041080e41690c221db395628ed2cd54aae49405abd5f1d421fedd55",
+  "solution_id": "Games-Magazine-November-1982-images/109#0",
+  "how": "exact"
+ },
+ "alternates": [
+  "https://archive.org/details/games-33-1982-november/page/n54/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r2c14 r4c2 r6c11 r11c8 r12c11 r13c18 r14c7 r14c15 r15c6 r19c9 r20c2"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Rescued: its clues lined up for only 74% of slots, but the answer key Games-Magazine-November-1982-images/109#0 matches its grid exactly; check every clue"
+  ]
+ },
+ "xd": "sha256:bce8cc74811c041062b9a72cf67f13947c2135aa00fe8b7f308c7e68c1923945"
+}

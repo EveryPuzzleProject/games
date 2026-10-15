@@ -1,0 +1,61 @@
+{
+ "id": "games-1980-11-01-5",
+ "aliases": [
+  "games1980-11-01-L068"
+ ],
+ "xdid": "games1980-11-01-L068",
+ "issue": "1980-11-01",
+ "date": "1980-11-01",
+ "grid": {
+  "unit": "ia:Games-Magazine-November-December-1980-images/0068",
+  "extract": "sha256:8655f64aff178567aa16ce2cd8f2c9a746ff32e1eac33a38e0634fb560ccf5f5",
+  "size": "11x11",
+  "nth": 0
+ },
+ "clues": {
+  "unit": "ia:Games-Magazine-November-December-1980-images/0070",
+  "extract": "sha256:d2632f983a8e5c74e64fe5ca2fb7f212e7c12ca6fad6eb853613562c29ea3b95"
+ },
+ "continued": null,
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-November-December-1980-images/0068",
+   "extract": "sha256:8655f64aff178567aa16ce2cd8f2c9a746ff32e1eac33a38e0634fb560ccf5f5"
+  },
+  {
+   "unit": "ia:games-20-1980-november/0062",
+   "extract": "sha256:87a0e824f119974fdc531aa7275c70f1897e0940b9918e9ebb9a69db52d95982"
+  }
+ ],
+ "reading": "sha256:f52c069af28310c0dcd8530979a91c64f4b80932b701f5986b80ec9fd20ca103",
+ "key": {
+  "unit": "ia:Games-Magazine-November-December-1980-images/0105",
+  "extract": "sha256:8d8412d7b8e405d29152fe704fab68c34ce18b4d3e7c0b0fae7721cf4b593823",
+  "solution_id": "Games-Magazine-November-December-1980-images/105#1",
+  "how": "exact"
+ },
+ "answer_pages": [
+  [
+   104,
+   "its page says the answers are on page 95"
+  ],
+  [
+   105,
+   "its page says the answers are on page 96"
+  ]
+ ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-November-December-1980-images/page/n68/mode/1up",
+  "https://archive.org/details/games-20-1980-november/page/n62/mode/1up"
+ ],
+ "checks": {
+  "solution": [
+   "low-confidence letters at r1c10"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Rescued: its clues lined up for only 6% of slots, but the answer key Games-Magazine-November-December-1980-images/105#1 matches its grid exactly; check every clue"
+  ]
+ },
+ "xd": "sha256:2df372449ca8f1aaba9e1b88a3ed20919ec26a883407e96c65c3d743a6d248aa"
+}
