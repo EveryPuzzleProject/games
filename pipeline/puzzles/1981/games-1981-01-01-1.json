@@ -15,8 +15,13 @@
  },
  "clues": null,
  "continued": null,
- "copies": [],
- "reading": "sha256:28c391171351eecaf6f02e1cadbcdbc7fbb9e3597a181be26b08a69c2bc69367",
+ "copies": [
+  {
+   "unit": "ia:games-21-1981-january/0033",
+   "extract": "sha256:6f49b9d3be52d125bc485f4b14621311a73f3e2682b5d95b270fcabfd0d14523"
+  }
+ ],
+ "reading": "sha256:3729319288db72a0affcc7dda8153c8b0dda62bd9537a29eebfe77618e8986d8",
  "key": {
   "unit": "ia:Games-Magazine-January-February-1981-images/0070",
   "extract": "sha256:83edaacee0253b40d004942f7dc458d9fca0415d57ebaeeec1a552eb59015af4",
@@ -29,6 +34,9 @@
    "its page says the answers are on page 69"
   ]
  ],
+ "alternates": [
+  "https://archive.org/details/games-21-1981-january/page/n33/mode/1up"
+ ],
  "checks": {
   "solution": [
    "low-confidence letters at r6c2 r8c6 r8c10 r9c14 r12c3 r12c13"
@@ -36,5 +44,5 @@
   "asymmetric": 0,
   "warnings": []
  },
- "xd": "sha256:37159ee429465039d16c72e1c9b6f5c4f17e0680399ea93ee408e0075bf97f38"
+ "xd": "sha256:21589bf8aef0b16fcc98d2c07a1067539913de37666d12248cb14e430a64555f"
 }

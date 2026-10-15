@@ -15,8 +15,13 @@
  },
  "clues": null,
  "continued": null,
- "copies": [],
- "reading": "sha256:fc2885dbe01d594a57cb2cb175ce8b7ac9e6b6e9f391f31b98ed83579433aaa5",
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-July-August-1981-images/0026",
+   "extract": "sha256:78ecf372cda815fec4ed66dcafc82df8b7bc271daadacae5d11f2901bb338c39"
+  }
+ ],
+ "reading": "sha256:f8ddffd65f9e82245f5279962a7ad4421c1ab13d3b3f533074edc70b94119ac3",
  "key": {
   "unit": "ia:Games-Magazine-July-August-1981-images/0063",
   "extract": "sha256:f74d4169ec9d8595cc1554f92edc0186fd1302ce5ffbeaf927ad5f1e70960c8d",
@@ -29,6 +34,9 @@
    "its page says the answers are on page 62"
   ]
  ],
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-July-August-1981-images/page/n26/mode/1up"
+ ],
  "checks": {
   "solution": [
    "low-confidence letters at r2c9 r3c8 r4c2 r4c7 r7c4 r10c8 r12c15 r13c15"
@@ -36,5 +44,5 @@
   "asymmetric": 0,
   "warnings": []
  },
- "xd": "sha256:b520ae51b821b42f533cefa850d197eafc09989e123723cfd9cec1cea1069287"
+ "xd": "sha256:38652d897f17e9bd2155f6f56d0d1208f9dbfa1ee201230284c2d201433cc26d"
 }

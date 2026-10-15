@@ -15,8 +15,13 @@
  },
  "clues": null,
  "continued": null,
- "copies": [],
- "reading": "sha256:288a16da8267ef022c9e206ed0dcf0c3eddf86d1fcf675ff80a6221eaf351698",
+ "copies": [
+  {
+   "unit": "ia:games-17-1980-may/0038",
+   "extract": "sha256:083432ff9ab60ecb636192fc50f2a39425fa14b797640a18198264647d1ff64a"
+  }
+ ],
+ "reading": "sha256:e10b61074a8f30012f35c7a069da723d650cc3fae0af7959c8118eb2caa227c3",
  "key": {
   "unit": "ia:Games-Magazine-May-June-1980-images/0068",
   "extract": "sha256:777f0f88071a332b5ad017e931827caa0fec15d2129b3052002f0f6a9a596ac6",
@@ -29,6 +34,9 @@
    "its page says the answers are on page 63"
   ]
  ],
+ "alternates": [
+  "https://archive.org/details/games-17-1980-may/page/n38/mode/1up"
+ ],
  "checks": {
   "solution": [
    "low-confidence letters at r7c9 r8c3 r11c2 r15c6 r16c18 r18c15 r19c2"
@@ -36,5 +44,5 @@
   "asymmetric": 0,
   "warnings": []
  },
- "xd": "sha256:ba127d9d325c43d396bcecb29946966236cc04f48a6b6579445b109b94711a5f"
+ "xd": "sha256:9bbe182d4548d9fd5200d507688d62de3569d420cef521318c3d1274093d3eec"
 }

@@ -206,7 +206,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:08+00:00",
+   "made": "2026-10-15T21:11:27+00:00",
    "output": "sha256:8568852ffdf96747843082a67f1bc12c732fbace003eb5286e9fa8baff2a95fe",
    "settings": {
     "source": "ia"
@@ -265,7 +265,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:08+00:00",
+   "made": "2026-10-15T21:11:30+00:00",
    "output": "sha256:3f264c80a9caf797a31fa12d6619ceb00362f88b8d52fcf91ba9ba33ef302ac1",
    "settings": {
     "source": "ia"
@@ -595,7 +595,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:09+00:00",
+   "made": "2026-10-15T21:11:03+00:00",
    "output": "sha256:d32410d23a117b060a63bf9aff17b950ce7b3cb758c340a64859c8eb1ae08f24",
    "settings": {
     "source": "ia"
@@ -697,7 +697,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:09+00:00",
+   "made": "2026-10-15T21:11:06+00:00",
    "output": "sha256:611d5774c3c0eccad494830b78b30bc6c1a4fa5e983c571888d913ad83fde209",
    "settings": {
     "source": "ia"
@@ -880,7 +880,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:09+00:00",
+   "made": "2026-10-15T21:11:09+00:00",
    "output": "sha256:81af36f0409ef21bf7fdb7a6845d09fd2a2429544f0894fdcfa5d8fec4126993",
    "settings": {
     "source": "ia"
@@ -955,7 +955,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:09+00:00",
+   "made": "2026-10-15T21:11:00+00:00",
    "output": "sha256:a402fadd169d115487928613761d3c3c9aad1573ff8534cfa565d0508b6e8cd4",
    "settings": {
     "source": "ia"
@@ -1030,7 +1030,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:09+00:00",
+   "made": "2026-10-15T21:11:24+00:00",
    "output": "sha256:52ac82c0c898f295ebb9cd1328be7fde0e4d8a8e01b39cd3ccc99e778d793a6c",
    "settings": {
     "source": "ia"
@@ -1111,6 +1111,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:ad8496c0647f625abb6bdfa6b477874f00ee1f04dfb4033b693bc9707ade4753"
+   },
+   "made": "2026-10-15T19:31:29+00:00",
+   "note": "adopted leaf0046.ocr.json",
+   "output": "sha256:c4d092d348c37f7584992ae4e2564dc571b28927738227101c7c28f62fb65388",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-19-1980-september/0047": {
@@ -1138,6 +1153,21 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:23def676df83821721c01fac26647569657a10773227fa2a175e9675e81180a1"
+   },
+   "made": "2026-10-15T19:31:24+00:00",
+   "note": "adopted leaf0047.ocr.json",
+   "output": "sha256:86ac8e4f8904712ca318420f2db9143f6dbe70b887edab0a71298ab49b6bf26f",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-19-1980-september/0048": {
@@ -1159,7 +1189,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:09+00:00",
+   "made": "2026-10-15T21:11:12+00:00",
    "output": "sha256:b21a50733d6659f8aa1064d23750c6c4b176137b5a3002ef3d0097a273198fb9",
    "settings": {
     "source": "ia"
@@ -1234,7 +1264,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:09+00:00",
+   "made": "2026-10-15T21:11:15+00:00",
    "output": "sha256:4196d86b4b2ae74a84d076e78852f311fd36fa089e19d68fd91515bc5a65624a",
    "settings": {
     "source": "ia"
@@ -1432,7 +1462,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:09+00:00",
+   "made": "2026-10-15T21:11:32+00:00",
    "output": "sha256:763c983eab2791767837787a058db9bade40686d17177117490e0a28c1674113",
    "settings": {
     "source": "ia"
@@ -1463,8 +1493,7 @@
    "inputs": {
     "image": "sha256:763c983eab2791767837787a058db9bade40686d17177117490e0a28c1674113"
    },
-   "made": "2026-10-14T19:32:13+00:00",
-   "note": "adopted leaf0069.key-c86a25d7791b.v2.pkl",
+   "made": "2026-10-15T21:11:32+00:00",
    "output": "sha256:95bfc1a18d6728e0c05538af65ef6b72817ebbea0c8717c0e34f08f98fd599af",
    "settings": {
     "only_pointed": false
@@ -1491,7 +1520,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:10+00:00",
+   "made": "2026-10-15T21:11:19+00:00",
    "output": "sha256:5386dab882679669303df0ee66140e28150eb05a3302bb9d829d1f3a09bd94a9",
    "settings": {
     "source": "ia"
@@ -1604,7 +1633,7 @@
   "image": {
    "code": "xword-ocr 0.1.0",
    "inputs": {},
-   "made": "2026-10-14T19:29:10+00:00",
+   "made": "2026-10-15T21:11:21+00:00",
    "output": "sha256:cc01c04871d7c4707fbe9b81fabea765d0c711572b30ae3b5028aa98f5b53cda",
    "settings": {
     "source": "ia"
