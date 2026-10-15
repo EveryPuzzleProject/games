@@ -1,0 +1,35 @@
+{
+ "id": "games-1979-01-01-4",
+ "aliases": [
+  "games1979-01-01-L040"
+ ],
+ "xdid": "games1979-01-01-L040",
+ "issue": "1979-01-01",
+ "date": "1979-01-01",
+ "grid": {
+  "unit": "ia:games-9-1979-january/0040",
+  "extract": "sha256:27dea1cac0fcdb37d1c35eb8d336775a0fb2ce7702204588fbdc001d13c7ca0c",
+  "size": "25x25",
+  "nth": 0
+ },
+ "clues": null,
+ "continued": null,
+ "copies": [],
+ "reading": "sha256:5620e839a940bce1074b165c88e54f7f706dab2cfcb8de57aaa0181ba6825f67",
+ "key": {
+  "unit": "ia:games-10-1979-march/0065",
+  "extract": "sha256:09b92a280890ae37d1258befa2af0bb935752c1b61ff99c37b8817b17fb3a642",
+  "solution_id": "games-10-1979-march/65#0",
+  "how": "exact"
+ },
+ "checks": {
+  "solution": [
+   "low-confidence letters at r3c14 r4c7 r4c9 r4c24 r9c7 r12c16 r12c18 r13c2 r13c4 r14c4 r15c6 r17c2 r18c6 r19c6 r22c9 r23c4 r23c8 r23c17 r25c24"
+  ],
+  "asymmetric": 0,
+  "warnings": [
+   "Rescued: its clues lined up for only 50% of slots, but the answer key games-10-1979-march/65#0 matches its grid exactly; check every clue"
+  ]
+ },
+ "xd": "sha256:8e35d37a2ba967a750c71972b195d5bb5a19de6821b83986dbaa93b966cadbc4"
+}

@@ -15,14 +15,22 @@
  },
  "clues": null,
  "continued": null,
- "copies": [],
- "reading": "sha256:2ae40adbf0cb4fedb6bc3ca9d49b6f86dc55dc3c3d5edba24e9ca475020357df",
+ "copies": [
+  {
+   "unit": "ia:Games-Magazine-September_October-1977-images/0032",
+   "extract": "sha256:72fba2cf2a0fb918c3b3189551abc0141445089bb6df9293889c918958236bb2"
+  }
+ ],
+ "reading": "sha256:9fe1d0724d7ee5b26b2fe56b62f68aeca44564be03fa9b7409725af8a5c407fb",
  "key": {
   "unit": "ia:games-1-1977-september/0063",
   "extract": "sha256:ae1b95c571883739615baea361a273d8e40c5df8fe0fb945a122e0e42802fadd",
   "solution_id": "games-1-1977-september/63#2",
   "how": "exact"
  },
+ "alternates": [
+  "https://archive.org/details/Games-Magazine-September_October-1977-images/page/n32/mode/1up"
+ ],
  "checks": {
   "solution": [
    "low-confidence letters at r4c11 r10c13"
@@ -30,5 +38,5 @@
   "asymmetric": 0,
   "warnings": []
  },
- "xd": "sha256:593aa863144fd22bed0a36ec6f406c4f4720f30dcedfa214785fb9a430613a5f"
+ "xd": "sha256:428b4efa293b2447f56355a05e99cdc0e819bc6b37c740f5d31ce5880a69e225"
 }

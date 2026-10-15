@@ -15,7 +15,12 @@
  },
  "clues": null,
  "continued": null,
- "copies": [],
+ "copies": [
+  {
+   "unit": "ia:games-14-1979-november/0046",
+   "extract": "sha256:643d8deaf56d7a32f7d1233c2c539616ddf8b7c99e620df2a0a9ac8e5618d7a9"
+  }
+ ],
  "reading": "sha256:0f212ae388bb1e73db7b5882da85cf4a0122879eafe7fdc6f3a4c6accde99f89",
  "key": {
   "unit": "ia:Games-Magazine-November-December-1979-images/0107",
@@ -29,6 +34,9 @@
    "its page says the answers are on page 106"
   ]
  ],
+ "alternates": [
+  "https://archive.org/details/games-14-1979-november/page/n46/mode/1up"
+ ],
  "checks": {
   "solution": [
    "low-confidence letters at r1c8 r2c2 r3c4 r4c2 r4c8 r6c2 r6c9 r9c3"
@@ -36,5 +44,5 @@
   "asymmetric": 0,
   "warnings": []
  },
- "xd": "sha256:ebff27356a213c3d294e5d24040e011b30c9c71413256104dcdcfd55e17400d7"
+ "xd": "sha256:18cb5136e202980f41a4e1380349fe59579da0fe1e13def3a0453e1947ffb152"
 }

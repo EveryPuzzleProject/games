@@ -15,7 +15,12 @@
  },
  "clues": null,
  "continued": null,
- "copies": [],
+ "copies": [
+  {
+   "unit": "ia:games-5-1978-may/0030",
+   "extract": "sha256:0354774db4fc7b20292ef9ee47f034ca1d7d958056fa56c22163a13cb3a1e083"
+  }
+ ],
  "reading": "sha256:083002ace9a7facb7fca92b8a29854fb33e2f2df744050cad857f949db1f4e27",
  "key": {
   "unit": "ia:games-5-1978-may/0063",
@@ -29,6 +34,9 @@
    "its page says the answers are on page 62"
   ]
  ],
+ "alternates": [
+  "https://archive.org/details/games-5-1978-may/page/n30/mode/1up"
+ ],
  "checks": {
   "solution": [
    "low-confidence letters at r2c16 r3c8 r4c7 r8c16 r9c15 r9c19 r10c3 r15c18 r20c12"
@@ -36,5 +44,5 @@
   "asymmetric": 0,
   "warnings": []
  },
- "xd": "sha256:5ad20f2466b7de324ed31b89bcbfdee88455df2c72d2dc55842e1138edaf610e"
+ "xd": "sha256:8d111eb88cf329011b19a816229d491a67ef965ed3e899b95571fd71986e2a07"
 }
