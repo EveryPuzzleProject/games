@@ -6,8 +6,8 @@ gxd export will use it to convert to gxd's own conventions.
 
 Each note: what GAMES does, how we transcribe it, and where it was settled.
 
-- **Fill-in blanks** are printed as a long dash in 1977–78 ("—— spree", "Bete ——") and as a
-  rule in 1979 ("Magna ____"). We keep the clue text as printed and tag each blank (the text
+- **Fill-in blanks** are printed as a long dash until about mid-1978 ("—— spree", "Bete ——")
+  and as a rule after ("Magna ____"); in July/August 1978 it varies by puzzle. We keep the clue text as printed and tag each blank (the text
   step's "blanks"); the export writes tagged blanks as "___" and other long dashes as "--".
   A dash used as punctuation is not a blank. (Alex, 2026-10-17.)
 - **Picture clues** (the Illustrated Crossword, 1977–78): a drawing in place of words. The
