@@ -4,10 +4,10 @@
   {
    "id": "ship-ok",
    "lane": "ship",
-   "title": "Triage passed: checked by the agent",
+   "title": "Looks ready: checked by the agent",
    "stage": "",
    "found": "Read all 3 xd files against the text step's changes: all look right. 1978-09 L034's 'Ma that maas' (EWE) differs from gxd's 'Ma that baas', but it is printed that way (checked by Alex on the scan, 2026-10-18): kept as printed. A gxd one-letter near miss is not evidence of a misread; most of the 45 are style.",
-   "recommend": "Ship all 3.",
+   "recommend": "Ready, all 3.",
    "action": "ship",
    "pids": [
     "games1978-03-01-L028",
@@ -67,7 +67,7 @@
    "title": "Key found in run7; the text step's 'no key' is out of date",
    "stage": "triage",
    "found": "These had no key when the text step ran; run7 found it on the page's other scan. Fixed in triage (request-key-settled): their key requests no longer count. What's left is real but small: Hot Stuff's key differs from the grid in 2 squares; Something Fishy has 7 doubted clues (cut-off quoted clues); Figure This's A36 lost its '2 wds.'; the 1977-11 illustrated crossword lost a clue's text and two drawings are cut off.",
-   "recommend": "Ship: good enough, with the doubts flagged on the proof page (as for Judge). Hot Stuff: check its 2 squares on the proof grid first.",
+   "recommend": "Ready: good enough, with the doubts flagged on the proof page (as for Judge). Hot Stuff: check its 2 squares on the proof grid first.",
    "action": "ship",
    "pids": [
     "games1977-11-01-L030",
@@ -82,7 +82,7 @@
    "title": "One or two key letters misread",
    "stage": "the key's letter reader",
    "found": "Single squares: 1978-09 L032 read I for T twice (67 Across, 55 Down); 1978-11 L032 R where S fits both words (A57/D54). The text step named the squares.",
-   "recommend": "Fix the squares on the proof page's grid (a minute each), then ship.",
+   "recommend": "Fix the squares on the proof page's grid (a minute each) then Ready.",
    "action": "proof",
    "pids": [
     "games1978-09-01-L032",
@@ -163,7 +163,7 @@
    "title": "Title and byline read as one line",
    "stage": "page OCR",
    "found": "'Crossword à l'Anglaise by Doug and Janis Heller' was one OCR line. Fixed: the byline rule now takes names joined by 'and' (headers.py and proof.html), so the title and byline split.",
-   "recommend": "Ship.",
+   "recommend": "Ready.",
    "action": "ship",
    "pids": [
     "games1979-07-01-L026b"

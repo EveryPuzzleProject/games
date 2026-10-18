@@ -78,6 +78,20 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:08f955a5053250527d10675fbd21adc4efaf8a586cdd9770bcf84c4e92bdb234"
+   },
+   "made": "2026-10-18T20:17:06+00:00",
+   "output": "sha256:e9146694078ec7bc04d020f776564ef1a77924f773e540391cad585a00e19070",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:Games-Magazine-November-December-1978-images/0006": {

@@ -78,6 +78,20 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:047c466d0dbe86854a9e3404fdfd696c2872dcea9401cbca9c9a905822b52d54"
+   },
+   "made": "2026-10-18T20:16:48+00:00",
+   "output": "sha256:e5a83386f851dea4c9583f3d9efdf0081cd6b3cbef191da54332aedeea5df0d7",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-4-1978-march/0015": {

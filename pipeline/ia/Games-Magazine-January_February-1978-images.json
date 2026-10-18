@@ -126,6 +126,33 @@
    "version": "ocr/1"
   }
  },
+ "ia:Games-Magazine-January_February-1978-images/0005": {
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-18T20:16:36+00:00",
+   "output": "sha256:aec354ed19394e68cde25bbc92068973e2c47d8490f831954473049b69c782b1",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:aec354ed19394e68cde25bbc92068973e2c47d8490f831954473049b69c782b1"
+   },
+   "made": "2026-10-18T20:16:40+00:00",
+   "output": "sha256:2847b3f8ad10dbe7b4926f8fa02a5a6d6e50ecf7bf23341997393351a15d3c41",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
  "ia:Games-Magazine-January_February-1978-images/0019": {
   "extract": {
    "code": "xword-ocr 0.1.0",

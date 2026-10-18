@@ -105,6 +105,20 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:c70787932cb16b9c2654c0d623ff2cb78cc209573ee1a4e5c63b6c5ec7380140"
+   },
+   "made": "2026-10-18T20:16:34+00:00",
+   "output": "sha256:7283b408c7f3802d128750e0ffd9e4ea85b10fd81da821407c389eeb034dcad5",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:Games-Magazine-November_December-1977-images/0007": {

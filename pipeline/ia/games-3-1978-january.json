@@ -80,6 +80,33 @@
    "version": "image/1"
   }
  },
+ "ia:games-3-1978-january/0005": {
+  "image": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {},
+   "made": "2026-10-18T20:16:40+00:00",
+   "output": "sha256:f39cbe1ab058ca7bb8c1c1cefd8db9333e1ca7868cd0d18c8f766a151b6caf87",
+   "settings": {
+    "source": "ia"
+   },
+   "stage": "image",
+   "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:f39cbe1ab058ca7bb8c1c1cefd8db9333e1ca7868cd0d18c8f766a151b6caf87"
+   },
+   "made": "2026-10-18T20:16:44+00:00",
+   "output": "sha256:f88e91ec99b87321f6f7330fca2b7642703b765b732dd4a581ed2363578c2a2f",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
+  }
+ },
  "ia:games-3-1978-january/0019": {
   "extract": {
    "code": "xword-ocr 0.1.0",

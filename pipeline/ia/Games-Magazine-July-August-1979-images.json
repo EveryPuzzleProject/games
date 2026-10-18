@@ -78,6 +78,20 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:4d99f00e00dd50a43f02a370184c8163dc0810986010e41ac4f28819d8ef5d63"
+   },
+   "made": "2026-10-18T20:17:27+00:00",
+   "output": "sha256:8c762d47099dd7ea21acdcee4a8d2cb19f8f6a564b7adc44a31ce8d378c93183",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:Games-Magazine-July-August-1979-images/0006": {
