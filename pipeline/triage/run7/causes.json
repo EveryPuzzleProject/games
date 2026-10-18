@@ -66,9 +66,9 @@
    "lane": "attention",
    "title": "Key found in run7; the text step's 'no key' is out of date",
    "stage": "triage",
-   "found": "These had no key when the text step ran; run7 found it on the page's other scan. Their 'no key' verdicts and key requests are now answered, but triage still counts them.",
-   "recommend": "Triage fix (no tokens): a key request is settled once a key matches. Then these drop to glance with their remaining doubts (cut-off quoted clues, a dropped '2 wds.'; Hot Stuff's key differs in 2 squares).",
-   "action": "tool",
+   "found": "These had no key when the text step ran; run7 found it on the page's other scan. Fixed in triage (request-key-settled): their key requests no longer count. What's left is real but small: Hot Stuff's key differs from the grid in 2 squares; Something Fishy has 7 doubted clues (cut-off quoted clues); Figure This's A36 lost its '2 wds.'; the 1977-11 illustrated crossword lost a clue's text and two drawings are cut off.",
+   "recommend": "Ship: good enough, with the doubts flagged on the proof page (as for Judge). Hot Stuff: check its 2 squares on the proof grid first.",
+   "action": "ship",
    "pids": [
     "games1977-11-01-L030",
     "games1978-01-01-L030",
@@ -162,9 +162,9 @@
    "lane": "attention",
    "title": "Title and byline read as one line",
    "stage": "page OCR",
-   "found": "'Crossword à l'Anglaise by Doug and Janis Heller': one OCR line, so no byline line exists. The byline rule only takes 'by' and up to 4 capitalised words, not 'and'.",
-   "recommend": "Tool fix: the byline rule takes 'X and Y Z' (headers.py and proof.html). Or set the title and byline on the proof page.",
-   "action": "proof",
+   "found": "'Crossword à l'Anglaise by Doug and Janis Heller' was one OCR line. Fixed: the byline rule now takes names joined by 'and' (headers.py and proof.html), so the title and byline split.",
+   "recommend": "Ship.",
+   "action": "ship",
    "pids": [
     "games1979-07-01-L026b"
    ]
