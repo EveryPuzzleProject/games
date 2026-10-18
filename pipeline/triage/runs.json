@@ -1,0 +1,12 @@
+{
+ "_about": "GAMES 1977-79's text step runs: which one is current (the batch page opens on it, the import reads it) and what each is. A run made to try one fix is a trial until its branch merges and a combined run replaces the current one.",
+ "current": "run7",
+ "runs": {
+  "run4": {"status": "old", "what": "the first full text step on v2 (before assembly linked all text)"},
+  "run6": {"status": "old", "what": "the text step re-run on the 65 puzzles whose printed lines changed with xword-ocr#18"},
+  "run7": {"status": "current", "what": "run6 rebuilt compute only: keys from a page's other scan, triage fixes; all text step answers reused"},
+  "run8": {"status": "trial", "what": "run7 + two-page clue lists and numbering (session two-page-lists); text step re-run on 18 puzzles"},
+  "run9": {"status": "trial", "what": "run7 + clue reading after a blank and on second lines (session clue-reading-blanks)"},
+  "run10": {"status": "trial", "what": "run7 + key letters on a key's edge row (session answer-page-keys-printed, branch claude/key-last-row)"}
+ }
+}
