@@ -6,7 +6,9 @@
   "run6": {"status": "old", "what": "the text step re-run on the 65 puzzles whose printed lines changed with xword-ocr#18"},
   "run7": {"status": "current", "what": "run6 rebuilt compute only: keys from a page's other scan, triage fixes; all text step answers reused"},
   "run8": {"status": "trial", "what": "run7 + two-page clue lists and numbering (session two-page-lists); text step re-run on 18 puzzles"},
-  "run9": {"status": "trial", "what": "run7 + clue reading after a blank and on second lines (session clue-reading-blanks)"},
-  "run10": {"status": "trial", "what": "run7 + key letters on a key's edge row (session answer-page-keys-printed, branch claude/key-last-row)"}
+  "run8b": {"status": "trial", "what": "run8 + a continued list's short start (1979-05 L042's Down 1-2 from leaf 40) (xword-ocr claude/dazzling-shannon-d75e00); 75 answers reused from run8, L042 needs the text step"},
+  "run9": {"status": "trial", "what": "overwritten at 17:07 by run8b's build (since moved to textstep/run8b-7779; textstep/run9-7779 no longer exists); proof/run9 and triage/run9 are the earlier run9's; not the clue-reading trial"},
+  "run9-reading": {"status": "trial", "what": "run7 + clue reading after a blank and on second lines, sheets crop the clues worth a look (xword-ocr claude/festive-mestorf-01debb); 30 puzzles need the text step"},
+  "run10": {"status": "trial", "what": "run7 + key letters re-read (letters.glyph_crop: strokes on a key's edge row and stems joined to a heavy border no longer erased as rules; all 303 answer grids re-read); triage checks a key-misread verdict's named answers; all answers reused from run6 (branch claude/key-last-row)"}
  }
 }
