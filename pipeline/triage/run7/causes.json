@@ -29,9 +29,9 @@
    "id": "key-cut",
    "lane": "attention",
    "title": "Key letters misread on the answer page",
-   "stage": "answer-page grid detection",
-   "found": "Several keys are printed touching, and the grid finder reads them as one lattice (1977-11 leaf 63: one 26x32 grid). The key is cut out of it and its last row is cut in half: LANED read LAIFD. The text step names the right answers in its verdict.",
-   "recommend": "Hold. Tool fix: split touching keys on answer pages (the proposed follow-up session), then re-run compute only.",
+   "stage": "the key's letter reader",
+   "found": "Letters on a key's edge row (usually the last) lose their stems: OpenCV's opening counted past the image edge as ink (LANED read LAIFD). Traced by the key-reading session (branch claude/key-last-row); my first guess, keys printed touching, was wrong. The text step names the right answers in its verdict.",
+   "recommend": "Not ready yet. The fix is in letters.glyph_crop (Judge eval: 7 better, 0 worse); key letters are being re-read compute only, then this group re-runs (run10).",
    "action": "tool",
    "pids": [
     "games1977-09-01-L028",
