@@ -45,6 +45,10 @@
   "run13-easy": {
    "status": "trial",
    "what": "run12-lineend + a second clue set as xd clue metadata (A1 ^Easy: ...), named by its printed heading; the two-clue-sets flag only for a real second set, 28 -> 11 puzzles, the 11 Ornery (xword-ocr claude/clever-agnesi-3f1b16, blitz claude/easy-clue-meta). Compute only: 65 answers reused from run12; the 11 Ornery carry run12's answers (Hard clues corrected), their ^Easy lines as OCR'd until the text step runs on them (textstep/run13-easy/interim.json). 1979-03 L040b's second set is ^Alt: no printed heading names it. Triage as run12: 13 ship, 45 glance, 18 needs attention."
+  },
+  "run14-feature": {
+   "status": "trial",
+   "what": "run13-easy + a Feature header (a sub-series: The World's Most Ornery Crossword Puzzle, Warmup Puzzle, Crossword a l'Anglaise, Illustrated Crossword) with its printed line as evidence, on the proof and batch pages; kept in the working xd as our own Feature header, the gxd header decided at export. Assembly links each clue set's heading and a list read twice's page text. Compute only: 65 answers reused; the 11 Ornery carry run12's answers (textstep/run14-feature/interim.json): 9 have their Feature, the 2 from 1977 print no Ornery name. Triage as run12: 13 ship, 45 glance, 18 needs attention."
   }
  }
 }
