@@ -1,6 +1,6 @@
 {
  "_about": "GAMES 1977-79's text step runs: which one is current (the batch page opens on it, the import reads it) and what each is. A run made to try one fix is a trial until its branch merges and a combined run replaces the current one.",
- "current": "run11",
+ "current": "run12-lineend",
  "runs": {
   "run4": {
    "status": "old",
@@ -35,8 +35,12 @@
    "what": "run7 + key letters re-read (letters.glyph_crop: strokes on a key's edge row and stems joined to a heavy border no longer erased as rules; all 303 answer grids re-read); triage checks a key-misread verdict's named answers; all answers reused from run6 (branch claude/key-last-row)"
   },
   "run11": {
-   "status": "current",
+   "status": "old",
    "what": "the combined run: run7 + all four fixes merged (keys re-read, two-page lists, a continued list's short start, clue reading after blanks; xword-ocr claude/cranky-cannon-3ebcdb d0e9ee0). 47 answers reused from run8, the text step on 30 (xword-text, about 261k Fable tokens). Triage: 10 looks ready, 46 glance, 20 needs attention, 1 more dropped (1979-05 L039, a Line-ups game sheet). Every packet records its region boxes and key outline."
+  },
+  "run12-lineend": {
+   "status": "current",
+   "what": "run11 + fill-in blanks at a clue line's end and before a comma put back from the page image (xword-ocr#29, claude/line-end-blank). Text step on 29 puzzles (xword-text, about 260k Fable tokens); the rest reused from run11. Triage: 13 looks ready, 45 glance, 18 needs attention (76 puzzles; the 5 drops stand). Proof packets include the answer key's page."
   }
  }
 }
