@@ -41,6 +41,10 @@
   "run12-lineend": {
    "status": "current",
    "what": "run11 + fill-in blanks at a clue line's end and before a comma put back from the page image (xword-ocr#29, claude/line-end-blank). Text step on 29 puzzles (xword-text, about 260k Fable tokens); the rest reused from run11. Triage: 13 looks ready, 45 glance, 18 needs attention (76 puzzles; the 5 drops stand). Proof packets include the answer key's page."
+  },
+  "run13-easy": {
+   "status": "trial",
+   "what": "run12-lineend + a second clue set as xd clue metadata (A1 ^Easy: ...), named by its printed heading; the two-clue-sets flag only for a real second set, 28 -> 11 puzzles, the 11 Ornery (xword-ocr claude/clever-agnesi-3f1b16, blitz claude/easy-clue-meta). Compute only: 65 answers reused from run12; the 11 Ornery carry run12's answers (Hard clues corrected), their ^Easy lines as OCR'd until the text step runs on them (textstep/run13-easy/interim.json). 1979-03 L040b's second set is ^Alt: no printed heading names it. Triage as run12: 13 ship, 45 glance, 18 needs attention."
   }
  }
 }
