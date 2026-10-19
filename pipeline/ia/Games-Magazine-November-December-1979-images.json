@@ -109,6 +109,20 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a9065c06f04da45bd5ed79707c5f9c797640e4b88253ab88c7a2972b96552c2f"
+   },
+   "made": "2026-10-18T20:17:38+00:00",
+   "output": "sha256:d93669f6ca44bf6466f201961f55050e6a2f0f3e432cce58f6d1e339a5a53729",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:Games-Magazine-November-December-1979-images/0006": {

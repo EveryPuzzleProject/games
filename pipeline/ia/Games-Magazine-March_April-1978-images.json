@@ -78,6 +78,20 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:223a2533d31004e3ca73e96a6b545d4f549eb3cf23fbee128b2dffb821e6413e"
+   },
+   "made": "2026-10-18T20:16:46+00:00",
+   "output": "sha256:b9442b7ca7d585e9eb1fa4a5f659f0aa4f1d5c4bb32cef2ecada61b0207a4cea",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:Games-Magazine-March_April-1978-images/0015": {

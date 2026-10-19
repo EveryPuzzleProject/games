@@ -109,6 +109,20 @@
    },
    "stage": "image",
    "version": "image/1"
+  },
+  "ocr": {
+   "code": "xword-ocr 0.1.0",
+   "inputs": {
+    "image": "sha256:a9672137ed7f64052b16d77b10de811082f1f6c6c8667638b446d4d75c86df21"
+   },
+   "made": "2026-10-18T20:17:41+00:00",
+   "output": "sha256:6e462b9a7372a1051c64b9a305e03a49be543def16b15bade24246114a00cba3",
+   "settings": {
+    "engine": "rapidocr",
+    "upscale_below": 2400
+   },
+   "stage": "ocr",
+   "version": "ocr/1"
   }
  },
  "ia:games-14-1979-november/0006": {
