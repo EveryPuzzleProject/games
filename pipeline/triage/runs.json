@@ -52,7 +52,7 @@
   },
   "run15-restart": {
    "status": "trial",
-   "what": "run14-feature, made restartable from review (xword-ocr claude/nervous-wiles-d685a2): three dispositions (not ready / ready / reviewed), each not-ready puzzle naming its missing part and the stage to restart from; the text step's findings as records (4 old verdicts converted, no model); the restart loop (1978-01 L030b sent back to parts: leaf 30 read with its recorded boxes, its Down list found, then the text step on it alone: about 24k Fable tokens; now ready). 22 not ready, 52 ready, 2 reviewed. Details: the shared notes, restartable-review.md."
+   "what": "run14-feature, made restartable from review (xword-ocr claude/nervous-wiles-d685a2): three dispositions (not ready / ready / reviewed), each not-ready puzzle naming its missing part and the stage to restart from; the text step's findings as records (4 old verdicts converted, no model); the restart loop (1978-01 L030b sent back to parts: leaf 30 read with its recorded boxes, its Down list found, then the text step on it alone: about 24k Fable tokens; now ready). Then the remedy agent (Sonnet, xword-ocr remedy + docs/remedy-runbook.md) on the 22 not ready: 9 fixed (8 parts confirmed not printed, 2 reasons settled for the proof page), 3 waiting for a harvest request, 10 for you; 13 looks; about 130k cache writes, 1.9M cache reads, no Fable. Now 13 not ready, 61 ready, 2 reviewed. Details: the shared notes, restartable-review.md."
   }
  }
 }
