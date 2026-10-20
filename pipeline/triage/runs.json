@@ -1,6 +1,6 @@
 {
  "_about": "GAMES 1977-79's text step runs: which one is current (the batch page opens on it, the import reads it) and what each is. A run made to try one fix is a trial until its branch merges and a combined run replaces the current one.",
- "current": "run12-lineend",
+ "current": "run14-feature",
  "runs": {
   "run4": {
    "status": "old",
@@ -39,7 +39,7 @@
    "what": "the combined run: run7 + all four fixes merged (keys re-read, two-page lists, a continued list's short start, clue reading after blanks; xword-ocr claude/cranky-cannon-3ebcdb d0e9ee0). 47 answers reused from run8, the text step on 30 (xword-text, about 261k Fable tokens). Triage: 10 looks ready, 46 glance, 20 needs attention, 1 more dropped (1979-05 L039, a Line-ups game sheet). Every packet records its region boxes and key outline."
   },
   "run12-lineend": {
-   "status": "current",
+   "status": "old",
    "what": "run11 + fill-in blanks at a clue line's end and before a comma put back from the page image (xword-ocr#29, claude/line-end-blank). Text step on 29 puzzles (xword-text, about 260k Fable tokens); the rest reused from run11. Triage: 13 looks ready, 45 glance, 18 needs attention (76 puzzles; the 5 drops stand). Proof packets include the answer key's page."
   },
   "run13-easy": {
@@ -47,7 +47,7 @@
    "what": "run12-lineend + a second clue set as xd clue metadata (A1 ^Easy: ...), named by its printed heading; the two-clue-sets flag only for a real second set, 28 -> 11 puzzles, the 11 Ornery (xword-ocr claude/clever-agnesi-3f1b16, blitz claude/easy-clue-meta). Compute only: 65 answers reused from run12; the 11 Ornery carry run12's answers (Hard clues corrected), their ^Easy lines as OCR'd until the text step runs on them (textstep/run13-easy/interim.json). 1979-03 L040b's second set is ^Alt: no printed heading names it. Triage as run12: 13 ship, 45 glance, 18 needs attention."
   },
   "run14-feature": {
-   "status": "trial",
+   "status": "current",
    "what": "run13-easy + a Feature header (a sub-series: The World's Most Ornery Crossword Puzzle, Warmup Puzzle, Crossword a l'Anglaise, Illustrated Crossword) with its printed line as evidence, on the proof and batch pages; kept in the working xd as our own Feature header, the gxd header decided at export. Assembly links each clue set's heading and a list read twice's page text. Text step on the 11 Ornery (xword-text, 3 agents, about 247k Fable tokens), their ^Easy lines and Feature lines included; 65 answers reused from run13-easy. Feature on 17 puzzles, 9 of 11 Ornery (1977's print no Ornery name). Triage: 13 ship, 43 glance, 20 needs attention (1978-07 L040: 6 unsure; 1979-11 L072: key letters flagged misread, asks for the title's page)."
   }
  }
