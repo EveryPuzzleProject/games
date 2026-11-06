@@ -11,6 +11,8 @@ A *GAMES* page usually holds several puzzles side by side: crosswords next to
 word games, quizzes and logic puzzles. The answers are at the back of each
 issue, in the "Answer Drawer". The scans come from the Internet Archive.
 
+**Status page: https://everypuzzleproject.org/games/**
+
 - 492 crosswords found, 1977–1999. The scans are thinner after 1989.
 - **1977 through 1979 are open for review now** (release `games-1977-1979`).
 - Each issue's 25×25 giant (for example "The World's Most Ornery Crossword",
@@ -35,6 +37,7 @@ issue, in the "Answer Drawer". The scans come from the Internet Archive.
 | `reviews/<puzzle>/` | Reviews sent as pull requests: the OCR reading (`ocr.json`) and the review (`review.json`). |
 | `xd/` | The current .xd of every reviewed puzzle (from the OCR plus `fixes/`). |
 | `fixes/fixes.toml` | Hand fixes to the harvest: page hints, typed grids. The corrections ledger (`fixes/corrections.jsonl`) starts with the first import. |
+| `tools/render.py` | Builds the status page (`site/index.html`) from `puzzles.tsv`; CI runs it and publishes the page on every push to main. |
 | Releases | Review packets (scan crops + OCR), one `.tar.gz` per puzzle. |
 
 Page images live in the private `games-scans`. The tools are
