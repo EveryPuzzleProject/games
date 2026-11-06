@@ -119,43 +119,49 @@ def main() -> None:
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>GAMES crosswords</title>
 <meta name="description" content="Every Puzzle Project: indexing and restoring the crosswords in GAMES magazine, 1977 on.">
+<link rel="stylesheet" href="https://everypuzzleproject.org/site.css">
 <style>
-:root {{ --bg:#fbfaf7; --fg:#1d1d1b; --muted:#6b6a65; --line:#e3e0d8; --card:#fff; --accent:#8a1c1c; --later:#dcd8ce; }}
-@media (prefers-color-scheme: dark) {{ :root:not([data-theme="light"]) {{ --bg:#161614; --fg:#ecebe6; --muted:#a3a19a; --line:#34332f; --card:#1f1f1c; --accent:#e07a6a; --later:#45443f; }} }}
-:root[data-theme="dark"] {{ --bg:#161614; --fg:#ecebe6; --muted:#a3a19a; --line:#34332f; --card:#1f1f1c; --accent:#e07a6a; --later:#45443f; }}
+h1, h2 {{ font-family:inherit; font-weight:bold; line-height:inherit }} .epp-header .wrap {{ max-width:960px }}
+:root {{ --pg-bg:#fbfaf7; --fg:#1d1d1b; --pg-muted:#6b6a65; --pg-line:#e3e0d8; --card:#fff; --pg-accent:#8a1c1c; --later:#dcd8ce; }}
+@media (prefers-color-scheme: dark) {{ :root:not([data-theme="light"]) {{ --pg-bg:#161614; --fg:#ecebe6; --pg-muted:#a3a19a; --pg-line:#34332f; --card:#1f1f1c; --pg-accent:#e07a6a; --later:#45443f; }} }}
+:root[data-theme="dark"] {{ --pg-bg:#161614; --fg:#ecebe6; --pg-muted:#a3a19a; --pg-line:#34332f; --card:#1f1f1c; --pg-accent:#e07a6a; --later:#45443f; }}
 * {{ box-sizing:border-box }}
-body {{ margin:0; background:var(--bg); color:var(--fg); font:16px/1.55 Georgia, "Times New Roman", serif }}
+body {{ margin:0; background:var(--pg-bg); color:var(--fg); font:16px/1.55 Georgia, "Times New Roman", serif }}
 main {{ max-width:960px; margin:0 auto; padding:24px 16px 64px }}
-nav.top {{ font:14px system-ui, sans-serif; display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap }}
 h1 {{ font-size:2.2rem; margin:20px 0 4px }} h1 i {{ font-style:italic }}
 h2 {{ margin:40px 0 10px; font-size:1.35rem; border-bottom:2px solid var(--fg); padding-bottom:4px }}
-a {{ color:var(--accent) }} .muted {{ color:var(--muted) }} .lede {{ font-size:1.1rem; max-width:44em }}
+a {{ color:var(--pg-accent) }} .muted {{ color:var(--pg-muted) }} .lede {{ font-size:1.1rem; max-width:44em }}
 .sans {{ font-family:system-ui, sans-serif }}
-.big {{ font:700 48px/1 Georgia, serif; margin:18px 0 0 }} .big small {{ font:500 16px system-ui, sans-serif; color:var(--muted); margin-left:6px }}
-.bar {{ display:flex; gap:2px; height:16px; border-radius:8px; overflow:hidden; background:var(--line); margin:14px 0 10px }}
+.big {{ font:700 48px/1 Georgia, serif; margin:18px 0 0 }} .big small {{ font:500 16px system-ui, sans-serif; color:var(--pg-muted); margin-left:6px }}
+.bar {{ display:flex; gap:2px; height:16px; border-radius:8px; overflow:hidden; background:var(--pg-line); margin:14px 0 10px }}
 .bar span {{ display:block; height:100% }}
-.legend {{ display:flex; flex-wrap:wrap; gap:6px 18px; font:14px system-ui, sans-serif; color:var(--muted) }}
+.legend {{ display:flex; flex-wrap:wrap; gap:6px 18px; font:14px system-ui, sans-serif; color:var(--pg-muted) }}
 .legend b {{ color:var(--fg); font-weight:600 }}
 .sw {{ display:inline-block; width:12px; height:12px; border-radius:3px; margin-right:6px; vertical-align:-1px }}
 {states_css}
 .st-open {{ box-shadow:inset 0 0 0 1px #3b6fb6 }}
-.st-missing {{ border:1.5px dashed var(--muted) }}
-.bar .st-missing {{ border:0; background:repeating-linear-gradient(135deg, var(--muted) 0 2px, transparent 2px 6px); opacity:.6 }}
+.st-missing {{ border:1.5px dashed var(--pg-muted) }}
+.bar .st-missing {{ border:0; background:repeating-linear-gradient(135deg, var(--pg-muted) 0 2px, transparent 2px 6px); opacity:.6 }}
 .years {{ display:grid; grid-template-columns:92px 1fr; gap:8px 12px; align-items:start; margin-top:12px }}
-.yr {{ font:600 15px Georgia, serif; white-space:nowrap }} .yr small {{ display:block; font:12px system-ui, sans-serif; color:var(--muted); font-weight:400 }}
+.yr {{ font:600 15px Georgia, serif; white-space:nowrap }} .yr small {{ display:block; font:12px system-ui, sans-serif; color:var(--pg-muted); font-weight:400 }}
 .tiles {{ display:flex; flex-wrap:wrap; gap:3px }}
 .tile {{ display:block; width:15px; height:15px; border-radius:3px }}
 a.tile:hover, a.tile:focus {{ outline:2px solid var(--fg); outline-offset:1px }}
-.wanted details {{ border-top:1px solid var(--line); padding:8px 0; font-family:system-ui, sans-serif }}
-.wanted summary {{ cursor:pointer; font-weight:600 }} .wanted summary span {{ color:var(--muted); font-weight:400 }}
+.wanted details {{ border-top:1px solid var(--pg-line); padding:8px 0; font-family:system-ui, sans-serif }}
+.wanted summary {{ cursor:pointer; font-weight:600 }} .wanted summary span {{ color:var(--pg-muted); font-weight:400 }}
 .wanted ul {{ margin:6px 0 0; columns:2 220px }}
-.cta {{ background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); padding:14px 20px }}
+.cta {{ background:var(--card); border:1px solid var(--pg-line); border-left:4px solid var(--pg-accent); padding:14px 20px }}
 .cta ul {{ margin:0; padding-left:20px }} .cta li + li {{ margin-top:8px }}
-code {{ font-size:.9em; background:var(--line); padding:1px 4px; border-radius:3px }}
-footer {{ margin-top:48px; font:13px system-ui, sans-serif; color:var(--muted) }}
+code {{ font-size:.9em; background:var(--pg-line); padding:1px 4px; border-radius:3px }}
+footer {{ margin-top:48px; font:13px system-ui, sans-serif; color:var(--pg-muted) }}
 @media (max-width:560px) {{ .years {{ grid-template-columns:1fr; gap:2px 0 }} .tiles {{ margin-bottom:10px }} h1 {{ font-size:1.8rem }} .big {{ font-size:40px }} }}
-</style></head><body><main>
-<nav class="top"><a href="{HOME}">← Every Puzzle Project</a><a href="{REPO}">EveryPuzzleProject/games on GitHub</a></nav>
+</style></head><body>
+<header class="epp-header"><div class="wrap">
+  <a href="https://everypuzzleproject.org/">Every Puzzle Project</a>
+  <span class="epp-page">GAMES</span>
+  <nav><a href="https://github.com/EveryPuzzleProject/games">Repo</a></nav>
+</div></header>
+<main>
 
 <h1><i>GAMES</i>, 1977 on</h1>
 <p class="lede"><i>GAMES</i>, the American puzzle magazine, first appeared in September 1977, and from 1979 its puzzle pages,
