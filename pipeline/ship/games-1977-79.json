@@ -4,32 +4,36 @@
  "run": "run15-restart",
  "packets": "games-7779/proof/run15-restart",
  "rule": {
-  "ai_ready": "off",
+  "ai_ready": "both",
   "hold_codes": [
    "clue-typed"
   ],
   "ignore": [
    "walkthrough test"
+  ],
+  "owner": [
+   "oops6498"
   ]
  },
- "at": "2026-11-10T18:19:34+00:00",
+ "at": "2026-11-10T19:46:38+00:00",
  "counts": {
   "puzzles": 76,
-  "shipped": 11,
+  "shipped": 35,
   "shippable": 0,
-  "held": 61,
+  "held": 37,
   "out": 4,
   "held_by": {
    "proof-stale": 1,
-   "not-ready": 29,
-   "edits-unapplied": 2,
-   "no-ready": 24,
+   "incomplete": 5,
+   "owner-hold": 1,
+   "edits-unapplied": 4,
+   "not-ready": 21,
+   "no-ready": 1,
    "needs-work": 3,
-   "packet-stale": 1,
-   "incomplete": 1
+   "packet-stale": 1
   },
   "ships_with": {
-   "off": 15,
+   "off": 22,
    "both": 23,
    "either": 1
   }
@@ -71,15 +75,16 @@
    "title": "Flights of Fancy",
    "date": "1977-09-01",
    "status": "held",
-   "reason": "not-ready",
-   "rule": "",
-   "ships_with": "",
-   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): grid: The answer-key crop shows the 8 unread squares clearly: r2c11 B, r2c13 L, r2c14 A (NEBULA), r3c12 L, r3c14 T (AUTOMATICPILOT), r10c13 L (FUELING), r13c14 E (CENOBITES), r18c14 E (KITED). Fill them from the key?; grid: r3c21 reads I in the grid (A23 OTTERI / D16 ASIUME); the key crop shows S (OTTERS, ASSUME). Change r3c21 to S?; grid: r5c13 reads A in the grid (A32 CANSE); the key crop shows E (CENSE, matches gxd and 'Spread perfume'). Change r5c13 to E?; grid: r15c14 reads V in the grid (A82 CALLOV); the key crop shows W (CALLOW). Change r15c14 to W?; grid: r17c14 reads Z in the grid (A9",
+   "reason": "incomplete",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "Ready, but incomplete: 8 square(s) unsolved",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -102,15 +107,16 @@
    "title": "",
    "date": "1977-09-01",
    "status": "held",
-   "reason": "not-ready",
-   "rule": "",
-   "ships_with": "",
-   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): clue:D40: The crop shows no clue printed for 40 Down: the Down list goes 38, the 39 witches drawing (cut off at the right), then 42. Is 40's clue part of the 39 drawing (e.g. weather beside the witches) or not printed at all?; clue:D53: The crop cuts off the 53 Down drawing; what shows is a printed capital L and the start of a script l (ELS). Describe it as '[picture: the letter L, printed and in script]'?; ev:title: The xd has no Title; the only heading is the kind label 'Illustrated Crossword' (a feature name, not a puzzle name). Leave the puzzle untitled?",
+   "reason": "incomplete",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "Ready, but incomplete: clues with no text: D40 D53",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -162,15 +168,16 @@
    "title": "Pioneering Spirit",
    "date": "1977-09-01",
    "status": "held",
-   "reason": "not-ready",
+   "reason": "owner-hold",
    "rule": "",
    "ships_with": "",
-   "why": "said Not ready by a helper; Claude (AI proof reviewer, claude-opus-5-5): clue:D50: D50 reads 'Saint- France's West Point' ~ CYR; the answer and gxd both point to a dropped blank (Saint-___, France's West Point), but there is no crop to see how it was printed. Change it to 'Saint-——, France's West Point'?",
+   "why": "the owner said Not ready on the proof page",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "notready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -192,15 +199,16 @@
    "title": "Murphy's Law",
    "date": "1977-09-01",
    "status": "held",
-   "reason": "not-ready",
-   "rule": "",
-   "ships_with": "",
-   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): grid: R17C17 is F in the xd but the printed key reads E (entry crop: ERRABLE). The crossing D62 'Fast clip' confirms GOODPACE. Change F to E?",
+   "reason": "edits-unapplied",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "proof-page edits the import can't apply yet: keep:B5, label:B5",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -227,14 +235,15 @@
    "date": "1977-09-01",
    "status": "shipped",
    "reason": "",
-   "rule": "people",
+   "rule": "owner",
    "ships_with": "off",
-   "why": "in xd/ as games1977-09-01g: Ready by a helper, no Not ready",
+   "why": "in xd/ as games1977-09-01g: Ready by the owner, no Not ready",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -257,14 +266,15 @@
    "date": "1977-11-01",
    "status": "shipped",
    "reason": "",
-   "rule": "people",
+   "rule": "owner",
    "ships_with": "off",
-   "why": "in xd/ as games1977-11-01d: Ready by a helper, no Not ready",
+   "why": "in xd/ as games1977-11-01d: Ready by the owner, no Not ready",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -287,14 +297,15 @@
    "date": "1977-11-01",
    "status": "shipped",
    "reason": "",
-   "rule": "people",
+   "rule": "owner",
    "ships_with": "off",
-   "why": "in xd/ as games1977-11-01: Ready by a helper, no Not ready",
+   "why": "in xd/ as games1977-11-01: Ready by the owner, no Not ready",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -316,15 +327,16 @@
    "title": "",
    "date": "1977-11-01",
    "status": "held",
-   "reason": "not-ready",
-   "rule": "",
-   "ships_with": "",
-   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): clue:A45: A45 (BAT) is a picture clue, but the crop cuts off at the top of the drawing (a wing-like shape only). Is it a bat (animal or baseball bat)? Its picture needs describing from a full crop.; clue:D44: D44 (NUT) has D43's continuation 'case on a chain' as its text; the crop shows only D43's two lines, not D44's drawing. D44 is presumably a picture clue: what does it show?",
+   "reason": "incomplete",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "Ready, but incomplete: clues with no text: A45",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -348,14 +360,15 @@
    "date": "1977-11-01",
    "status": "held",
    "reason": "edits-unapplied",
-   "rule": "people",
+   "rule": "owner",
    "ships_with": "off",
    "why": "proof-page edits the import can't apply yet: ev:title",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -377,19 +390,20 @@
   },
   {
    "pid": "games1977-11-01-L040",
-   "xdid": "",
+   "xdid": "games1977-11-01e",
    "title": "",
    "date": "1977-11-01",
-   "status": "held",
-   "reason": "not-ready",
-   "rule": "",
-   "ships_with": "",
-   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): clue:D141: D141's crop shows Down 1-5, not D141, so the clue can't be checked. The xd reads 'no less than ;' with the blank apparently lost; the quote is 'no less than I seem', so the printed clue likely has '——' before the semicolon. Can a person check it on the page?",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1977-11-01e: Ready by the owner, over a Not ready by Claude (AI proof reviewer, claude-opus-5-5) given after it",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -407,19 +421,20 @@
   },
   {
    "pid": "games1978-01-01-L026",
-   "xdid": "",
+   "xdid": "games1978-01-01d",
    "title": "Crossword à l'Anglaise",
    "date": "1978-01-01",
-   "status": "held",
-   "reason": "not-ready",
-   "rule": "",
-   "ships_with": "",
-   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): meta:note: The notes carry a block headed 'Another list that fits the grid, Across', which is the Across answers with their wordplay explained (Hems (mesh), Cruel (lucre)...). It looks like the answer page's explanations that assembly took for a second clue list, not a second clue set. No crop shows where it was printed. Drop it from the notes, or keep it labelled as the answer page's explanations?",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1978-01-01d: Ready by the owner, over a Not ready by Claude (AI proof reviewer, claude-opus-5-5) given after it",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -443,14 +458,15 @@
    "date": "1978-01-01",
    "status": "held",
    "reason": "edits-unapplied",
-   "rule": "people",
+   "rule": "owner",
    "ships_with": "off",
    "why": "proof-page edits the import can't apply yet: line:B3, line:B5",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -477,14 +493,15 @@
    "date": "1978-01-01",
    "status": "shipped",
    "reason": "",
-   "rule": "people",
+   "rule": "owner",
    "ships_with": "off",
-   "why": "in xd/ as games1978-01-01b: Ready by a helper, no Not ready",
+   "why": "in xd/ as games1978-01-01b: Ready by the owner, no Not ready",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -507,14 +524,15 @@
    "date": "1978-01-01",
    "status": "shipped",
    "reason": "",
-   "rule": "people",
+   "rule": "owner",
    "ships_with": "off",
-   "why": "in xd/ as games1978-01-01c: Ready by a helper, no Not ready",
+   "why": "in xd/ as games1978-01-01c: Ready by the owner, no Not ready",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -540,15 +558,16 @@
    "title": "Easy Street",
    "date": "1978-01-01",
    "status": "held",
-   "reason": "not-ready",
-   "rule": "",
-   "ships_with": "",
-   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): meta:note: The printed intro promises a second set of Easy Clues on the following left-hand page, but the xd has only the Hard clues (no 'A1 ^Easy:' lines). Should the Easy clue set be located and assembled before this ships?",
+   "reason": "incomplete",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "Ready, but incomplete: the printed text promises a second clue set; the xd has none",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -571,14 +590,15 @@
    "date": "1978-03-01",
    "status": "shipped",
    "reason": "",
-   "rule": "people",
+   "rule": "owner",
    "ships_with": "off",
-   "why": "in xd/ as games1978-03-01c: Ready by a helper, no Not ready",
+   "why": "in xd/ as games1978-03-01c: Ready by the owner, no Not ready",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -605,14 +625,15 @@
    "date": "1978-03-01",
    "status": "shipped",
    "reason": "",
-   "rule": "people",
+   "rule": "owner",
    "ships_with": "off",
-   "why": "in xd/ as games1978-03-01: Ready by a helper, no Not ready",
+   "why": "in xd/ as games1978-03-01: Ready by the owner, no Not ready",
    "said": [
     {
-     "kind": "helper",
+     "kind": "owner",
      "answer": "ready",
-     "at": "2026-10-22"
+     "at": "2026-10-22",
+     "who": "the owner"
     },
     {
      "kind": "ai",
@@ -634,14 +655,14 @@
   },
   {
    "pid": "games1978-03-01-L032",
-   "xdid": "",
+   "xdid": "games1978-03-01d",
    "title": "Similarities",
    "date": "1978-03-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1978-03-01d: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -768,14 +789,14 @@
   },
   {
    "pid": "games1978-05-01-L028b",
-   "xdid": "",
+   "xdid": "games1978-05-01",
    "title": "Headliners",
    "date": "1978-05-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1978-05-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -797,14 +818,14 @@
   },
   {
    "pid": "games1978-05-01-L030",
-   "xdid": "",
+   "xdid": "games1978-05-01c",
    "title": "Calling Cards",
    "date": "1978-05-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1978-05-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -881,10 +902,10 @@
    "title": "Crossword à l'Anglaise",
    "date": "1978-07-01",
    "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "reason": "edits-unapplied",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "proof-page edits the import can't apply yet: line:B3",
    "said": [
     {
      "kind": "ai",
@@ -906,14 +927,14 @@
   },
   {
    "pid": "games1978-07-01-L028",
-   "xdid": "",
+   "xdid": "games1978-07-01",
    "title": "Old Glory",
    "date": "1978-07-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1978-07-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1064,14 +1085,14 @@
   },
   {
    "pid": "games1978-09-01-L030",
-   "xdid": "",
+   "xdid": "games1978-09-01",
    "title": "You're the Umpire!",
    "date": "1978-09-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1978-09-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1119,14 +1140,14 @@
   },
   {
    "pid": "games1978-09-01-L034",
-   "xdid": "",
+   "xdid": "games1978-09-01c",
    "title": "Turn of Phrase",
    "date": "1978-09-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1978-09-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1240,14 +1261,14 @@
   },
   {
    "pid": "games1978-11-01-L034",
-   "xdid": "",
+   "xdid": "games1978-11-01b",
    "title": "All Wet!",
    "date": "1978-11-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1978-11-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1269,14 +1290,14 @@
   },
   {
    "pid": "games1978-11-01-L036",
-   "xdid": "",
+   "xdid": "games1978-11-01c",
    "title": "Something Fishy",
    "date": "1978-11-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1978-11-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1298,14 +1319,14 @@
   },
   {
    "pid": "games1978-11-01-L052",
-   "xdid": "",
+   "xdid": "games1978-11-01d",
    "title": "You Name It",
    "date": "1978-11-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1978-11-01d: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1403,14 +1424,14 @@
   },
   {
    "pid": "games1979-01-01-L036",
-   "xdid": "",
+   "xdid": "games1979-01-01c",
    "title": "Pulling Rank",
    "date": "1979-01-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-01-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1507,14 +1528,14 @@
   },
   {
    "pid": "games1979-03-01-L032",
-   "xdid": "",
+   "xdid": "games1979-03-01",
    "title": "Mum's the Word",
    "date": "1979-03-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-03-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1536,14 +1557,14 @@
   },
   {
    "pid": "games1979-03-01-L034",
-   "xdid": "",
+   "xdid": "games1979-03-01c",
    "title": "Who Gets What",
    "date": "1979-03-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-03-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1604,14 +1625,14 @@
   },
   {
    "pid": "games1979-03-01-L040",
-   "xdid": "",
+   "xdid": "games1979-03-01d",
    "title": "Riddle, Riddle",
    "date": "1979-03-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-03-01d: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1710,14 +1731,14 @@
   },
   {
    "pid": "games1979-05-01-L030",
-   "xdid": "",
+   "xdid": "games1979-05-01b",
    "title": "Le Français—C'est Facile!",
    "date": "1979-05-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-05-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1739,14 +1760,14 @@
   },
   {
    "pid": "games1979-05-01-L034",
-   "xdid": "",
+   "xdid": "games1979-05-01c",
    "title": "Figure This",
    "date": "1979-05-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-05-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1768,14 +1789,14 @@
   },
   {
    "pid": "games1979-05-01-L038",
-   "xdid": "",
+   "xdid": "games1979-05-01d",
    "title": "Why Not the Best?",
    "date": "1979-05-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-05-01d: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1877,14 +1898,14 @@
   },
   {
    "pid": "games1979-07-01-L030",
-   "xdid": "",
+   "xdid": "games1979-07-01b",
    "title": "Flying",
    "date": "1979-07-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-07-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1906,14 +1927,14 @@
   },
   {
    "pid": "games1979-07-01-L033",
-   "xdid": "",
+   "xdid": "games1979-07-01c",
    "title": "Natural Consequences",
    "date": "1979-07-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-07-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1961,14 +1982,14 @@
   },
   {
    "pid": "games1979-09-01-L036",
-   "xdid": "",
+   "xdid": "games1979-09-01b",
    "title": "Leaving Word",
    "date": "1979-09-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-09-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -1990,14 +2011,14 @@
   },
   {
    "pid": "games1979-09-01-L041",
-   "xdid": "",
+   "xdid": "games1979-09-01c",
    "title": "Boxed In",
    "date": "1979-09-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-09-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -2046,14 +2067,14 @@
   },
   {
    "pid": "games1979-11-01-L046",
-   "xdid": "",
+   "xdid": "games1979-11-01",
    "title": "Diet Substitutes",
    "date": "1979-11-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-11-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "ai",
@@ -2075,14 +2096,14 @@
   },
   {
    "pid": "games1979-11-01-L049",
-   "xdid": "",
+   "xdid": "games1979-11-01b",
    "title": "Wide Open Spaces",
    "date": "1979-11-01",
-   "status": "held",
-   "reason": "no-ready",
-   "rule": "",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
    "ships_with": "both",
-   "why": "no person has said Ready (the AI proof reviewer said Ready; the ship check passes)",
+   "why": "in xd/ as games1979-11-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
    "said": [
     {
      "kind": "check",
