@@ -23,10 +23,10 @@
    "extract": "sha256:039c1f18bc36f4147efa24770e31e549c5866a930ed972648d76269c413252a3"
   }
  ],
- "reading": "sha256:1024b908e4a81954359e30bcc062be7a4cdc16407fe7d046a4f829e04262efbe",
+ "reading": "sha256:88651a6f4638c6ec8ae42319d47a62c633d4e44445cc757d41cdd20c86624981",
  "key": {
   "unit": "ia:Games-Magazine-July-August-1982-images/0081",
-  "extract": "sha256:38793f8d87cd954c899d7a9e28aabdb6fb6d1afa59270167434bff5cdd4b7246",
+  "extract": "sha256:0c9bd785fb3522f16eed5270b2cdc839c4ed22b7647db668ecd65ffc48aafa5c",
   "solution_id": "Games-Magazine-July-August-1982-images/81#0",
   "how": "exact"
  },
@@ -34,7 +34,9 @@
   "https://archive.org/details/Games-Magazine-March-April-1982-images/page/n52/mode/1up"
  ],
  "checks": {
-  "solution": [],
+  "solution": [
+   "low-confidence letters at r8c3"
+  ],
   "asymmetric": 0,
   "warnings": [
    "Rescued: its clues lined up for only 52% of slots, but the answer key Games-Magazine-July-August-1982-images/81#0 matches its grid exactly; check every clue"

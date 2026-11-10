@@ -16,16 +16,16 @@
  "clues": null,
  "continued": null,
  "copies": [],
- "reading": "sha256:891adf38892e3462691ce26af179a0e16feb75ad7b0e2abb4cabbb49f181fdcc",
+ "reading": "sha256:a70bfd205bf99892f1fce45e8d9287fa44c44c85d875b60c37fc53f57a5f0288",
  "key": {
   "unit": "ia:games-31-1982-September/0091",
-  "extract": "sha256:06c68263e966318d231a9703c0dccdcdb2f454bb91cb6f1d43b5346773c6ed2f",
+  "extract": "sha256:7569ff858837158fe204bd06cec4ffc2867521a1647c84fc9fddc4bb315768d6",
   "solution_id": "games-31-1982-September/91#0@r0c15:23x15",
   "how": "exact (part of a merged answer grid)"
  },
  "checks": {
   "solution": [
-   "low-confidence letters at r2c10 r15c3 r16c15 r17c11 r18c5 r18c6 r20c3"
+   "low-confidence letters at r2c10 r4c10 r10c9 r15c3 r16c15 r18c5 r18c6 r20c3"
   ],
   "asymmetric": 35,
   "warnings": [
@@ -34,5 +34,5 @@
    "Grid isn't symmetric: 35 square pair(s) differ (r1c5/r23c11, r2c5/r22c11, r2c6/r22c10, r3c5/r21c11, r3c6/r21c10, r4c5/r20c11, r4c6/r20c10, r4c12/r20c4). Check those black squares against the scan, or confirm the design is asymmetric."
   ]
  },
- "xd": "sha256:07c854a0047796159957968703a79f89008035d78c4a0ae2df6f557643580634"
+ "xd": "sha256:b605d0b6588845fbcb3e1bb56ff4e288d6200f5fc7f14b01e7316e82976c92cc"
 }
