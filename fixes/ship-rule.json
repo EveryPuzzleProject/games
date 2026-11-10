@@ -1,0 +1,6 @@
+{
+ "_about": "The ship rule's options for GAMES (blitz ship; blitz design/ship.md). ai_ready: off | both | either (whether an AI's Ready counts as the one Ready when no person has said it: not decided, so off). hold_codes: triage reason codes that hold a puzzle whoever said Ready. ignore: review-site accounts whose decisions don't count.",
+ "ai_ready": "off",
+ "hold_codes": ["clue-typed"],
+ "ignore": ["walkthrough test"]
+}
