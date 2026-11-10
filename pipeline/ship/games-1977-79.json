@@ -1,0 +1,2172 @@
+{
+ "_about": "blitz ship: which puzzles of the batch are shipped (in the publication repo's xd/), shippable (pass the ship rule, not written yet) or held, with the reason. Format: blitz design/ship.md.",
+ "batch": "games-1977-79",
+ "run": "run15-restart",
+ "packets": "games-7779/proof/run15-restart",
+ "rule": {
+  "ai_ready": "both",
+  "hold_codes": [
+   "clue-typed"
+  ],
+  "ignore": [
+   "walkthrough test"
+  ],
+  "owner": [
+   "oops6498"
+  ]
+ },
+ "at": "2026-11-10T19:46:38+00:00",
+ "counts": {
+  "puzzles": 76,
+  "shipped": 35,
+  "shippable": 0,
+  "held": 37,
+  "out": 4,
+  "held_by": {
+   "proof-stale": 1,
+   "incomplete": 5,
+   "owner-hold": 1,
+   "edits-unapplied": 4,
+   "not-ready": 21,
+   "no-ready": 1,
+   "needs-work": 3,
+   "packet-stale": 1
+  },
+  "ships_with": {
+   "off": 22,
+   "both": 23,
+   "either": 1
+  }
+ },
+ "puzzles": [
+  {
+   "pid": "games1977-09-01-L026",
+   "xdid": "",
+   "title": "Armchair Safari",
+   "date": "1977-09-01",
+   "status": "held",
+   "reason": "proof-stale",
+   "rule": "",
+   "ships_with": "",
+   "why": "Reviewer 2's Ready was on an earlier version of the puzzle: look again",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-18",
+     "stale": true,
+     "who": "Reviewer 2"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1977-09-01-L028",
+   "xdid": "",
+   "title": "Flights of Fancy",
+   "date": "1977-09-01",
+   "status": "held",
+   "reason": "incomplete",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "Ready, but incomplete: 8 square(s) unsolved",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "grid-unsolved",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1977-09-01-L030",
+   "xdid": "",
+   "title": "",
+   "date": "1977-09-01",
+   "status": "held",
+   "reason": "incomplete",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "Ready, but incomplete: clues with no text: D40 D53",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-empty",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1977-09-01-L032",
+   "xdid": "games1977-09-01e",
+   "title": "To The Boys of Summer",
+   "date": "1977-09-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1977-09-01e: Ready by Reviewer 2",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-18",
+     "who": "Reviewer 2"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1977-09-01-L032b",
+   "xdid": "",
+   "title": "Pioneering Spirit",
+   "date": "1977-09-01",
+   "status": "held",
+   "reason": "owner-hold",
+   "rule": "",
+   "ships_with": "",
+   "why": "the owner said Not ready on the proof page",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "notready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-hygiene"
+    ]
+   }
+  },
+  {
+   "pid": "games1977-09-01-L036",
+   "xdid": "",
+   "title": "Murphy's Law",
+   "date": "1977-09-01",
+   "status": "held",
+   "reason": "edits-unapplied",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "proof-page edits the import can't apply yet: keep:B5, label:B5",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1977-09-01-L040",
+   "xdid": "games1977-09-01g",
+   "title": "",
+   "date": "1977-09-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1977-09-01g: Ready by the owner, no Not ready",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-hygiene"
+    ]
+   }
+  },
+  {
+   "pid": "games1977-11-01-L026",
+   "xdid": "games1977-11-01d",
+   "title": "Crossword à l'Anglaise",
+   "date": "1977-11-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1977-11-01d: Ready by the owner, no Not ready",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-hygiene"
+    ]
+   }
+  },
+  {
+   "pid": "games1977-11-01-L028",
+   "xdid": "games1977-11-01",
+   "title": "Reading the Stars",
+   "date": "1977-11-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1977-11-01: Ready by the owner, no Not ready",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-hygiene"
+    ]
+   }
+  },
+  {
+   "pid": "games1977-11-01-L030",
+   "xdid": "",
+   "title": "",
+   "date": "1977-11-01",
+   "status": "held",
+   "reason": "incomplete",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "Ready, but incomplete: clues with no text: A45",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-empty",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1977-11-01-L032",
+   "xdid": "",
+   "title": "",
+   "date": "1977-11-01",
+   "status": "held",
+   "reason": "edits-unapplied",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "proof-page edits the import can't apply yet: ev:title",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1977-11-01-L040",
+   "xdid": "games1977-11-01e",
+   "title": "",
+   "date": "1977-11-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1977-11-01e: Ready by the owner, over a Not ready by Claude (AI proof reviewer, claude-opus-5-5) given after it",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-hygiene"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-01-01-L026",
+   "xdid": "games1978-01-01d",
+   "title": "Crossword à l'Anglaise",
+   "date": "1978-01-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1978-01-01d: Ready by the owner, over a Not ready by Claude (AI proof reviewer, claude-opus-5-5) given after it",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "notes-other-list",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-01-01-L028",
+   "xdid": "",
+   "title": "Fair Play",
+   "date": "1978-01-01",
+   "status": "held",
+   "reason": "edits-unapplied",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "proof-page edits the import can't apply yet: line:B3, line:B5",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-01-01-L030",
+   "xdid": "games1978-01-01b",
+   "title": "Hot Stuff",
+   "date": "1978-01-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1978-01-01b: Ready by the owner, no Not ready",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-01-01-L030b",
+   "xdid": "games1978-01-01c",
+   "title": "Three Ways to Be",
+   "date": "1978-01-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1978-01-01c: Ready by the owner, no Not ready",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-01-01-L040",
+   "xdid": "",
+   "title": "Easy Street",
+   "date": "1978-01-01",
+   "status": "held",
+   "reason": "incomplete",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "Ready, but incomplete: the printed text promises a second clue set; the xd has none",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "second-set-missing"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-03-01-L028",
+   "xdid": "games1978-03-01c",
+   "title": "Crossword à l'Anglaise",
+   "date": "1978-03-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1978-03-01c: Ready by the owner, no Not ready",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-03-01-L030",
+   "xdid": "games1978-03-01",
+   "title": "Roll the Presses",
+   "date": "1978-03-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1978-03-01: Ready by the owner, no Not ready",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "the owner"
+    },
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-03-01-L032",
+   "xdid": "games1978-03-01d",
+   "title": "Similarities",
+   "date": "1978-03-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1978-03-01d: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-03-01-L032b",
+   "xdid": "",
+   "title": "Good News",
+   "date": "1978-03-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): ev:byline: The byline 'by J.L. Wilkinson' is the same as the sibling puzzle on this page (games1978-03-01-L032), and there is no crop of this puzzle's header to show it was printed with this one. Did J.L. Wilkinson write both, or was the byline copied from the other puzzle?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-hygiene"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-03-01-L050",
+   "xdid": "",
+   "title": "It's Fun to be Fooled",
+   "date": "1978-03-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): ev:byline: The crop shows 'by Jack Luzzatto' in the same sans-serif type as the title 'It's Fun to be Fooled', but the text step recorded it as printed near the 'On the Tiles' feature, and the crop doesn't show where it sits. Is this byline printed for the crossword?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-05-01-L026",
+   "xdid": "",
+   "title": "Crossword à l'Anglaise",
+   "date": "1978-05-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): line:B3: The instructions paragraph is garbled in the middle ('but is aliso , n o a the clue'). The crop reads clearly, but the missing part is a whole clause (about eight words, an explanation of the RENT AMOUNT anagram and 'changing'), more than a small fix. Should this line be re-read by the OCR stage rather than typed in?; grid: No key letters were read (the grid is all dots); the answers sit in the notes as two 'other list' blocks (A1 Tournament ... D19 Testers), which all fit their slot lengths. Should assembly treat that list as this cryptic's answer key and fill the grid from it? Note",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "notes-other-list",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-05-01-L028",
+   "xdid": "",
+   "title": "A Run for Your Money",
+   "date": "1978-05-01",
+   "status": "held",
+   "reason": "no-ready",
+   "rule": "",
+   "ships_with": "either",
+   "why": "no person has said Ready (the AI proof reviewer said Ready)",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-05-01-L028b",
+   "xdid": "games1978-05-01",
+   "title": "Headliners",
+   "date": "1978-05-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1978-05-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-05-01-L030",
+   "xdid": "games1978-05-01c",
+   "title": "Calling Cards",
+   "date": "1978-05-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1978-05-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-05-01-L040",
+   "xdid": "",
+   "title": "\". . . Then Get Out of the Kitchen\"",
+   "date": "1978-05-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): clue:A36^Easy: No crop for the Easy clue. 'The Call of the' for WILD reads as a fill-in whose trailing blank (——) was likely not read. Was a blank printed after 'the'?; clue:A85: The crop shows the clue ending 'Sign not seen at', with a column heading on the next line, so this looks like the whole printed clue (probably a misprint dropping a word such as 'flops'). Keep it as printed?; line:B5: The crop shows only the first two lines of the 'The giant puzzle on this and the following pages...' paragraph, and they match; the rest was copied from games1978-03-01's text, not read from this puzzle'",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-hygiene"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-07-01-L026",
+   "xdid": "",
+   "title": "Warmup Puzzle for New Solvers",
+   "date": "1978-07-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): meta:note: The block labelled 'Another list that fits the grid, Across' is not a second clue list: it is the printed explanation of the Across answers (REPEL, MILES, NO SIR), so it is answer text for this cryptic, and no Down explanations were picked up. Should assembly link it as the solution/explanation part (and look for the Down half) rather than as another list in the notes?; ev:byline: No crop: the printed lines are only 'Warmup Puzzle' / 'for New Solvers', and the text step says no byline is printed (the September warmup credits Will Shortz). Ship with no byline?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "no-author",
+     "notes-other-list"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-07-01-L026b",
+   "xdid": "",
+   "title": "Crossword à l'Anglaise",
+   "date": "1978-07-01",
+   "status": "held",
+   "reason": "edits-unapplied",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "proof-page edits the import can't apply yet: line:B3",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-07-01-L028",
+   "xdid": "games1978-07-01",
+   "title": "Old Glory",
+   "date": "1978-07-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1978-07-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-07-01-L028b",
+   "xdid": "",
+   "title": "Data and Retrieval",
+   "date": "1978-07-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): clue:D51: The scan plainly prints 'Variant of Kaiyi, city in Taiwan' (so the xd matches the print). The city is usually spelled Kiayi (Chiayi; KAGI is its Japanese name), so 'Kaiyi' looks like a printer's transposition. Keep it as printed (sic)?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-07-01-L030",
+   "xdid": "",
+   "title": "Movies You May Have Missed",
+   "date": "1978-07-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): clue:D109: The crop shows the clue's second line, '49 DOWN)', which the read cut off: printed '___ Marie (with 49 DOWN)'. The missing line is a reading gap, so not typed here; add it via the stage (or approve the two-word fix)?; clue:A60: No crop: D60 'Secular senorita' (the text step's 'A60' means 60 Down) may be printed 'señorita' with a tilde. Keep plain 'senorita'?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-hygiene"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-07-01-L040",
+   "xdid": "",
+   "title": "Putting on a Good Show",
+   "date": "1978-07-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): clue:A29^Easy: No crop: the Easy clue reads '...as in old-style plays where poor Nell' and looks cut off mid-sentence. Is the rest of the clue on the page?; clue:A35^Easy: No crop: 'Poisonous snakes (that don't 'multiply?)' has a lone quote before 'multiply'. Printed with quotes around 'multiply', or no quote?; clue:D155^Easy: No crop: 'That's the living' for END looks like a fill-in, probably printed 'That's the living ___!'. Confirm the blank and '!'?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-hygiene"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-09-01-L028",
+   "xdid": "",
+   "title": "Warmup Puzzle for New Solvers",
+   "date": "1978-09-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): meta:note: The 'Another list that fits the grid' block is not a clue list. Its A1 and A4 are the printed answer explanations (A4 also runs into the start of 5's: 'Faithful is LOYAL... recasting'), and its 'A5' ('This city is in Germany. 6. The son has a wife...') is unrelated text from somewhere else on the page. Should assembly/parts re-link the explanations as the answer part and drop the stray text, rather than shipping this block in the notes?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "notes-other-list"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-09-01-L028b",
+   "xdid": "",
+   "title": "Crossword à l'Anglaise",
+   "date": "1978-09-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): line:B4: The intro paragraph is garbled after 'OPERATOR, which': the crop reads 'is defined by \"telephone worker\" and also \"smooth one.\"' (about ten words, more than I may type). Re-read or fix this sentence in the notes?; clue:A24: The printed enumeration is (9) (the crop confirms it), but the answer STRATEGIST and its slot are 10 letters. Keep (9) as printed and note it as a misprint?; meta:note: The notes hold two 'another list' blocks that are the printed answers (Stop sign, Operator, ...), not a second clue set, while the grid has no letters. Keep them in the notes as the printed solution",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "notes-other-list"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-09-01-L030",
+   "xdid": "games1978-09-01",
+   "title": "You're the Umpire!",
+   "date": "1978-09-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1978-09-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-09-01-L032",
+   "xdid": "",
+   "title": "The Work Ethic",
+   "date": "1978-09-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): meta:note: The notes hold an 'another list' block of two-definition clues (Metal; riches / Cogwheel; equipment ...) that don't match this grid's answers and are garbled (merged numbers, split lines): it looks like a neighbouring puzzle's clues linked in by mistake. Drop the block from this puzzle's notes?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "notes-other-list",
+     "clue-hygiene"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-09-01-L034",
+   "xdid": "games1978-09-01c",
+   "title": "Turn of Phrase",
+   "date": "1978-09-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1978-09-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-09-01-L042",
+   "xdid": "",
+   "title": "Out of This World",
+   "date": "1978-09-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): clue:D82^Easy: The Easy clue ends '(111- ton jumbles)', garbled OCR of an italic anagram hint for INITIO; there's no crop of the Easy clue, so I can't read it. Re-read it from the Easy clue page?; clue:A34^Easy: The Easy clue reads '\"When it it pours\"' with no crop; it is surely the saying with a blank ('When it ___, it pours'), as gxd has it. Change it to that?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-hygiene"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-11-01-L030",
+   "xdid": "",
+   "title": "Warmup Puzzle for New Solvers",
+   "date": "1978-11-01",
+   "status": "out",
+   "reason": "set-aside",
+   "rule": "",
+   "ships_with": "",
+   "why": "set aside: cryptic: not a priority (person)",
+   "said": [],
+   "check": {
+    "ok": false,
+    "findings": [
+     "notes-other-list",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-11-01-L030b",
+   "xdid": "",
+   "title": "Crossword à l'Anglaise",
+   "date": "1978-11-01",
+   "status": "out",
+   "reason": "set-aside",
+   "rule": "",
+   "ships_with": "",
+   "why": "set aside: cryptic: not a priority (person)",
+   "said": [],
+   "check": {
+    "ok": false,
+    "findings": [
+     "notes-other-list",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1978-11-01-L032",
+   "xdid": "",
+   "title": "Your Pockets May Jingle",
+   "date": "1978-11-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): cell:r13c15: The printed key clearly reads R at r13c15, giving A57 GENER ('Hereditary units') and D54 ERNE ('Laborer of yore'). Both clues want S: GENES and ESNE. Is this an answer-key misprint to correct to S, with a note?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-11-01-L034",
+   "xdid": "games1978-11-01b",
+   "title": "All Wet!",
+   "date": "1978-11-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1978-11-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-11-01-L036",
+   "xdid": "games1978-11-01c",
+   "title": "Something Fishy",
+   "date": "1978-11-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1978-11-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1978-11-01-L052",
+   "xdid": "games1978-11-01d",
+   "title": "You Name It",
+   "date": "1978-11-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1978-11-01d: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-01-01-L030",
+   "xdid": "",
+   "title": "RightAngles #1—Stuck!",
+   "date": "1979-01-01",
+   "status": "out",
+   "reason": "not-a-crossword",
+   "rule": "",
+   "ships_with": "",
+   "why": "not a crossword: right angles puzzle-- a different kind (person)",
+   "said": [],
+   "check": {
+    "ok": false,
+    "findings": [
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-01-01-L032",
+   "xdid": "games1979-01-01",
+   "title": "Pets",
+   "date": "1979-01-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1979-01-01: Ready by Reviewer 2",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-19",
+     "who": "Reviewer 2"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-01-01-L034",
+   "xdid": "games1979-01-01b",
+   "title": "The Tube",
+   "date": "1979-01-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1979-01-01b: Ready by Reviewer 2",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-19",
+     "who": "Reviewer 2"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-01-01-L036",
+   "xdid": "games1979-01-01c",
+   "title": "Pulling Rank",
+   "date": "1979-01-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-01-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-01-01-L040",
+   "xdid": "",
+   "title": "",
+   "date": "1979-01-01",
+   "status": "held",
+   "reason": "needs-work",
+   "rule": "",
+   "ships_with": "",
+   "why": "needs work: clues-unread; key-missing; list-missing-A; request-list; verdict-missing; no person has said Ready",
+   "said": [],
+   "check": {
+    "ok": false,
+    "findings": [
+     "no-title",
+     "no-author",
+     "clue-empty",
+     "grid-unsolved",
+     "clue-hygiene",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-03-01-L030",
+   "xdid": "",
+   "title": "Warmup Puzzle for New Solvers",
+   "date": "1979-03-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): ev:byline: No Author or Byline: the text step saw a cut-off 'by W. S...' line under the title, not captured, and there's no crop of it. Re-read the byline from the page (likely 'by Will Shortz')?; meta:note: The notes hold 5 'another list' blocks: two are this puzzle's printed answers with explanations (NOBEL, SALON, YEATS / NASTY, BALSA, LINKS), three are other puzzles' clues (Bureaucratic routines..., digit puzzles, colour lists). Drop the three stray blocks and fill the grid from the answer explanations?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "no-author",
+     "notes-other-list",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-03-01-L030b",
+   "xdid": "",
+   "title": "Crossword à l'Anglaise",
+   "date": "1979-03-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): meta:note: The notes' Across 'another list' is this puzzle's printed answers (Minimum, Chassis, ...), but the Down block (RADON; AND/OR, CESIUM, ... and a scoring note about Searjeant) is the answers to a different puzzle, an element-word game, and none fit these Down clues. Drop the Down block, and fill the grid from the Across answers plus the Down answers once found?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "notes-other-list"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-03-01-L032",
+   "xdid": "games1979-03-01",
+   "title": "Mum's the Word",
+   "date": "1979-03-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-03-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-03-01-L034",
+   "xdid": "games1979-03-01c",
+   "title": "Who Gets What",
+   "date": "1979-03-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-03-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-03-01-L034b",
+   "xdid": "",
+   "title": "Number Cross",
+   "date": "1979-03-01",
+   "status": "out",
+   "reason": "set-aside",
+   "rule": "",
+   "ships_with": "",
+   "why": "set aside: number cross: not a priority (person)",
+   "said": [],
+   "check": {
+    "ok": false,
+    "findings": [
+     "grid-unsolved",
+     "notes-other-list",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-03-01-L036",
+   "xdid": "",
+   "title": "April Fools",
+   "date": "1979-03-01",
+   "status": "held",
+   "reason": "needs-work",
+   "rule": "",
+   "ships_with": "",
+   "why": "needs work: key-missing; verdict-missing; no person has said Ready",
+   "said": [],
+   "check": {
+    "ok": false,
+    "findings": [
+     "grid-unsolved",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-03-01-L040",
+   "xdid": "games1979-03-01d",
+   "title": "Riddle, Riddle",
+   "date": "1979-03-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-03-01d: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-03-01-L040b",
+   "xdid": "",
+   "title": "Misteaks",
+   "date": "1979-03-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): grid:r20c8: A147/D132: the printed key clearly shows MIMIC (I at r20c8); the xd has MTMIC/SPTNSTES. A key-reading slip, not a misprint. Change r20c8 T to I?; grid:r25c8: A179/D132: the printed key itself shows MAS (S at r25c8), but Scratch / After Feb. = MAR and She plays old maid = SPINSTER, so the crossing proves R. Is this a key misprint (or a joke in a puzzle titled 'Misteaks')? Correct to R and note the printed S?; grid:r25c24: A182/D160: the printed key shows SSY (S at r25c24), but Propounder of economic 'law' / \"You don't ___!\" = SAY and Addis ___ = ABABA, so the crossing proves A. Key misprint? Correct to A and note it?; grid:r12c12: A92/D76: the printed key shows TOTO (T at r12c12), but Disgraced Japanese leader = TOJO and Moslem title / Meccan pilgrim (seen in 'such a jive') = HAJI, so the crossing proves J. Key misprint? Correct to J and note it?; clue:D1^Alt: D1^Alt and D2^Alt (Easy set) were never read: assembly gave them the illustration's box. Their text is printed in the column beside A134^Alt-A137^Alt on the Easy page (the A134^Alt crop shows '...see . . .': 2 wds.' and '2 Foreigner: Hawaiian (discovered in a hole)'). Send back to parts/assembly to link that box?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-hygiene",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-05-01-L028",
+   "xdid": "",
+   "title": "Warmup Puzzle for New Solvers",
+   "date": "1979-05-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): meta:note: The notes hold three 'another list' blocks that aren't alternate clue sets: the first is fragments of a different puzzle's clues (Pouring bucketfuls, Teasing game, Baseball star...), and the other two are this puzzle's printed solution explanations (SCRUB, MINOR, AMEND / SAMOA, RANGE, BORED), the last ending in OCR garbage. Drop the first block and route the explanations to the answer key (the grid is unsolved, with 'no key found')?; ev:byline: There's no Author or Byline, and the only credit in the text is 'Illustrated by Steven Guarnaccia' (the illustrator). No crop shows the head",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "no-author",
+     "notes-other-list"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-05-01-L028b",
+   "xdid": "",
+   "title": "Crossword à l'Anglaise",
+   "date": "1979-05-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): line:B3: The crop of the instructions paragraph is clean, but both garbled stretches need whole clauses, not a word or two: 'ae a at a ,, a ail' stands for the clause on 'back' and 'returning' as reversal indicators, and '(indi- Cat) s , , f nt)' for '(indicated by the words \"breaks for\"): \"the stake\" (ANTE)'. Re-OCR this line from the crop (or let a person fix it) rather than have it typed here?; meta:note: The notes hold two 'another list' blocks that aren't alternate clue sets: the first is this cryptic's printed answers with their parsing (Antelope (ante + lope) ... Ignorant), and the seco",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "notes-other-list"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-05-01-L030",
+   "xdid": "games1979-05-01b",
+   "title": "Le Français—C'est Facile!",
+   "date": "1979-05-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-05-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-05-01-L034",
+   "xdid": "games1979-05-01c",
+   "title": "Figure This",
+   "date": "1979-05-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-05-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-05-01-L038",
+   "xdid": "games1979-05-01d",
+   "title": "Why Not the Best?",
+   "date": "1979-05-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-05-01d: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-05-01-L042",
+   "xdid": "",
+   "title": "",
+   "date": "1979-05-01",
+   "status": "held",
+   "reason": "packet-stale",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "its proof packet doesn't show its xd: rebuild the packet",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "Reviewer 2"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "no-title",
+     "no-author",
+     "clue-empty",
+     "clue-hygiene",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-07-01-L026",
+   "xdid": "",
+   "title": "Warmup Puzzle for New Solvers",
+   "date": "1979-07-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): meta:note: The notes hold five 'another list' blocks. Only the fourth belongs to this puzzle: its printed solution explanations (MIGHT, SPOOL, NANCY across; the down ones aren't there). The other four are other puzzles' material (clue fragments, a phobia matching list, another clue list, and song lyrics). Drop those four and route the explanation block to the answer key (the grid is unsolved, with 'no key found')?; ev:byline: There's no Author or Byline, and the only credit in the text is 'Illustrations by Jackie Chwast' (the illustrator). No crop shows the header. Ship without a constructor b",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "no-author",
+     "notes-other-list"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-07-01-L026b",
+   "xdid": "",
+   "title": "Crossword á l'Anglaise",
+   "date": "1979-07-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): line:B2: The crop of the instructions paragraph is clean, and the text step's guesses are wrong: it prints 'poor condition, like \"poor\" and \"stupidly,\" are telltale' and 'N for \"north\" and S for \"south,\" may be used to indicate word parts'. Each fix is a whole clause, too much to type here. Re-OCR this line from the crop (or let a person fix it)?; meta:note: The one 'another list' block in the notes is this cryptic's printed Across answers with their parsing (Enigmas ... Sprayer), not an alternate clue set; the Down answers are absent. Move it to the solution (Solution: printed as text) and no",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "notes-other-list"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-07-01-L030",
+   "xdid": "games1979-07-01b",
+   "title": "Flying",
+   "date": "1979-07-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-07-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-07-01-L033",
+   "xdid": "games1979-07-01c",
+   "title": "Natural Consequences",
+   "date": "1979-07-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-07-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-07-01-L042",
+   "xdid": "",
+   "title": "\"4-Warned Is 4-Armed\"",
+   "date": "1979-07-01",
+   "status": "held",
+   "reason": "not-ready",
+   "rule": "",
+   "ships_with": "",
+   "why": "said Not ready by Claude (AI proof reviewer, claude-opus-5-5): grid: The printed key uses digits as rebus squares, which is the puzzle's theme ('4-Warned Is 4-Armed'), and the key reading turned them into letters or left them blank: r1c2 is printed 8 (8CROW = ate crow, 8OUT = ate out), read as B; r2c3, r3c9 and r10c19 are printed 2 (GO2THE, O2BINENGLAND, SO2 / 2AMAN, T42), read as Z; the two unsolved squares r2c9 and r10c10 are printed 4 (F4E, T42; LOOKB4ULEAP, ANI4ANI). Set those six squares to the printed digits, re-reading at the key stage?",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "notready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "grid-unsolved",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-09-01-L036",
+   "xdid": "games1979-09-01b",
+   "title": "Leaving Word",
+   "date": "1979-09-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-09-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-09-01-L041",
+   "xdid": "games1979-09-01c",
+   "title": "Boxed In",
+   "date": "1979-09-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-09-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-09-01-L064",
+   "xdid": "",
+   "title": "National League",
+   "date": "1979-09-01",
+   "status": "held",
+   "reason": "incomplete",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "Ready, but incomplete: clues with no text: A148 A149 A150 D13 D14 D15 D16 D17",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "Reviewer 2"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-empty",
+     "clue-hygiene",
+     "triage-doubt"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-11-01-L046",
+   "xdid": "games1979-11-01",
+   "title": "Diet Substitutes",
+   "date": "1979-11-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-11-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-22",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    },
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-11-01-L049",
+   "xdid": "games1979-11-01b",
+   "title": "Wide Open Spaces",
+   "date": "1979-11-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "ai",
+   "ships_with": "both",
+   "why": "in xd/ as games1979-11-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+   "said": [
+    {
+     "kind": "check",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "the ship check (xword-ocr shipcheck)"
+    },
+    {
+     "kind": "ai",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   }
+  },
+  {
+   "pid": "games1979-11-01-L066",
+   "xdid": "",
+   "title": "Split-Quote",
+   "date": "1979-11-01",
+   "status": "held",
+   "reason": "needs-work",
+   "rule": "",
+   "ships_with": "",
+   "why": "needs work: key-missing; no person has said Ready",
+   "said": [],
+   "check": {
+    "ok": false,
+    "findings": [
+     "grid-unsolved"
+    ]
+   }
+  },
+  {
+   "pid": "games1979-11-01-L072",
+   "xdid": "games1979-11-01c",
+   "title": "",
+   "date": "1979-11-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "why": "in xd/ as games1979-11-01c: Ready by Reviewer 2",
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-10-27",
+     "who": "Reviewer 2"
+    }
+   ],
+   "check": {
+    "ok": false,
+    "findings": [
+     "no-title",
+     "no-author",
+     "triage-doubt"
+    ]
+   }
+  }
+ ]
+}
