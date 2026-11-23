@@ -1,0 +1,114 @@
+{
+ "escalate": "",
+ "ready": true,
+ "remaining": "minor",
+ "remaining_note": "Clue fixes for D33 and D50 were not on a sheet, so blitz will mark them unsure for a person. Everything else is verified against the printed answer key and grid.",
+ "note": "Checked the OCR against the printed answer key (cell:all) and the printed grid (grid:all). The key reader read three black squares as letters (r6c13, r12c13, r17c13); they are set back to black. 22 answer words are corrected to what the key prints. D33's clue lost its first words in OCR ('All I', from the Masefield line the answer spells) and D50's lost 'Three' (the answer is TRIODE); neither clue was on a sheet, so both are sent as corrections for a person to confirm.",
+ "corrections": {
+  "grid:r6c13": "#",
+  "grid:r12c13": "#",
+  "grid:r17c13": "#",
+  "cell:r3c12": "L",
+  "cell:r2c13": "L",
+  "cell:r3c14": "T",
+  "cell:r5c13": "E",
+  "cell:r8c14": "T",
+  "cell:r9c6": "Z",
+  "cell:r10c13": "L",
+  "cell:r11c17": "R",
+  "cell:r13c14": "E",
+  "cell:r15c14": "W",
+  "cell:r16c11": "Y",
+  "cell:r17c14": "D",
+  "cell:r18c14": "E",
+  "cell:r19c14": "N"
+ },
+ "sic": {},
+ "regions": {},
+ "confirm": [],
+ "unsure": {
+  "clue:D33": "not checked against the scan (proposed: “All I ask is a tall ship,” said Masefield)",
+  "clue:D50": "not checked against the scan (proposed: Three-element vacuum tube)"
+ },
+ "tool_notes": [
+  {
+   "kind": "false-flag",
+   "note": "'Apportions' flagged odd; it is printed so and is an ordinary word.",
+   "target": "clue:A84"
+  },
+  {
+   "kind": "false-flag",
+   "note": "'Dreamboats' flagged odd; it is printed so and is an ordinary word.",
+   "target": "clue:D101"
+  },
+  {
+   "kind": "other",
+   "note": "Key reader read black squares as letters at r6c13, r12c13 and r17c13 (o, o, i); all three are black in the key and the grid.",
+   "target": "cell:r6c13"
+  },
+  {
+   "kind": "other",
+   "note": "Clue lost its first words ('All I') in OCR.",
+   "target": "clue:D33"
+  },
+  {
+   "kind": "other",
+   "note": "Clue lost 'Three' at its start; the number-corrected flag came from that.",
+   "target": "clue:D50"
+  }
+ ],
+ "as_printed": {
+  "A84": "Apportions: ordinary word, as printed",
+  "D101": "Dreamboats: ordinary word, as printed"
+ },
+ "checkup": {
+  "grade": "check",
+  "warnings": [
+   {
+    "id": "key-mismatch",
+    "level": "high",
+    "text": "The grid's black squares differ from the answer key's.",
+    "items": [
+     "r6c13",
+     "r12c13",
+     "r17c13"
+    ]
+   },
+   {
+    "id": "unsure",
+    "level": "high",
+    "text": "The reviewer wasn't sure about: D33 (not checked against the scan (proposed: “All I ask is a tall ship,” said Masefield)), D50 (not checked against the scan (proposed: Three-element vacuum tube)).",
+    "items": [
+     "clue:D33",
+     "clue:D50"
+    ]
+   },
+   {
+    "id": "remaining",
+    "level": "medium",
+    "text": "The reviewer left a minor issue: Clue fixes for D33 and D50 were not on a sheet, so blitz will mark them unsure for a person. Everything else is verified against the printed answer key and grid.",
+    "items": []
+   },
+   {
+    "id": "hard-letters",
+    "level": "medium",
+    "text": "24 answer-key letters were hard to read (the reviewer has checked them).",
+    "items": [
+     "r1c5",
+     "r1c9",
+     "r2c12",
+     "r2c13",
+     "r2c14",
+     "r3c12",
+     "r3c16",
+     "r4c14",
+     "r5c13",
+     "r6c13",
+     "r8c19",
+     "r9c6"
+    ]
+   }
+  ]
+ },
+ "model": "Muse Wonder"
+}
