@@ -1,0 +1,184 @@
+{
+ "_about": "blitz ship: which puzzles of the batch are shipped (in the publication repo's xd/), shippable (pass the ship rule, not written yet) or held, with the reason, and the queue each is in: what the batch page asks of people. Format: blitz design/ship.md.",
+ "batch": "games-selinker",
+ "run": "selinker2",
+ "packets": "games-selinker/proof/selinker2",
+ "rule": {
+  "ai_ready": "both",
+  "hold_codes": [
+   "clue-typed"
+  ],
+  "ignore": [
+   "walkthrough test"
+  ],
+  "owner": [
+   "oops6498"
+  ],
+  "marks": "people",
+  "grid_fixes": "people",
+  "typed_clues": "people"
+ },
+ "at": "2026-11-25T18:48:18+00:00",
+ "counts": {
+  "puzzles": 2,
+  "shipped": 1,
+  "shippable": 0,
+  "held": 1,
+  "out": 0,
+  "held_by": {
+   "needs-work": 1
+  },
+  "ships_with": {
+   "off": 1
+  },
+  "queues": {
+   "question": 0,
+   "unchecked": 0,
+   "broken": 1,
+   "shippable": 0,
+   "shipped": 1,
+   "set-aside": 0,
+   "not-a-crossword": 0
+  },
+  "reviewed": 1,
+  "spot_check": 0
+ },
+ "groups": [],
+ "spot": {
+  "one_in": 10,
+  "of": "puzzles shipped on someone else's word than the owner's",
+  "by": "sha1 of the puzzle's id"
+ },
+ "puzzles": [
+  {
+   "pid": "games1993-06-01-L038",
+   "xdid": "",
+   "title": "Out of This World",
+   "date": "1993-06-01",
+   "status": "held",
+   "reason": "needs-work",
+   "rule": "",
+   "ships_with": "",
+   "queue": "broken",
+   "group": "",
+   "order": 0,
+   "reviewed": false,
+   "spot_check": false,
+   "why": "needs work: clues-unread; header-typed; key-missing; request-list; verdict-missing; no person has said Ready",
+   "asks": [],
+   "also": [],
+   "broken": [
+    {
+     "what": "the answer key",
+     "stage": "assembly",
+     "code": "key-missing",
+     "detail": ""
+    },
+    {
+     "what": "a block of clues",
+     "stage": "parts",
+     "code": "clues-unread",
+     "detail": "D1 D2 D3 D4 D5 D6 D7 D8 …"
+    },
+    {
+     "what": "a clue list",
+     "stage": "parts",
+     "code": "request-list",
+     "detail": "Down Hard clues 1-10, 21-23, 28, 56-59, 87, 89, 90, 92, 118, 120, 121, 147, 149-151, 153 not read (28 and 92 hold a neighbour's last line)"
+    },
+    {
+     "what": "a part the text step found missing",
+     "stage": "assembly",
+     "code": "verdict-missing",
+     "detail": ""
+    },
+    {
+     "what": "a header's printed line",
+     "stage": "assembly",
+     "code": "header-typed",
+     "detail": "title: 'Out of This World'"
+    }
+   ],
+   "said": [],
+   "check": {
+    "ok": false,
+    "findings": [
+     "clue-empty",
+     "grid-unsolved",
+     "clue-hygiene",
+     "triage-doubt"
+    ]
+   },
+   "printed": {
+    "head": "Printed with puzzle:",
+    "lines": [
+     1,
+     7,
+     8
+    ],
+    "edits": "applied",
+    "fixed": [
+     5,
+     6
+    ],
+    "says": "the import writes this block again from the kept lines, in the packet's order, with each line's text as edited"
+   }
+  },
+  {
+   "pid": "games1999-10-01-L048",
+   "xdid": "games1999-10-01e",
+   "title": "Scattershots",
+   "date": "1999-10-01",
+   "status": "shipped",
+   "reason": "",
+   "rule": "owner",
+   "ships_with": "off",
+   "queue": "shipped",
+   "group": "",
+   "order": 1,
+   "reviewed": true,
+   "spot_check": false,
+   "why": "in xd/ as games1999-10-01e: Ready by the owner",
+   "asks": [],
+   "also": [],
+   "broken": [],
+   "said": [
+    {
+     "kind": "owner",
+     "answer": "ready",
+     "at": "2026-11-25",
+     "who": "the owner"
+    }
+   ],
+   "check": {
+    "ok": true,
+    "findings": []
+   },
+   "printed": {
+    "head": "Printed with puzzle:",
+    "lines": [
+     1,
+     5
+    ],
+    "edits": "applied",
+    "fixed": [
+     4
+    ],
+    "says": "the import writes this block again from the kept lines, in the packet's order, with each line's text as edited"
+   },
+   "as_shipped": "696e42bcbd12",
+   "edition": {
+    "status": "made",
+    "xd_fp": "96380609bb35",
+    "held": [],
+    "corrections": 0
+   }
+  }
+ ],
+ "edition_published": {
+  "published": false,
+  "at": "",
+  "by": ""
+ },
+ "editions_published": 0
+}
