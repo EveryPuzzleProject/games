@@ -1,0 +1,200 @@
+{
+ "_about": "blitz ship: the xd exactly as `blitz ship --write` writes it for this puzzle, with the record of every edit behind it (design/ship.md, \"The xd as it will ship\"). Made with the batch's ship record; stale when the record is made again.",
+ "pid": "games1982-01-01-L032",
+ "xdid": "games1982-01-01b",
+ "batch": "games-1980-82",
+ "run": "run1-handsoff",
+ "at": "2026-11-26T03:31:39+00:00",
+ "status": "shipped",
+ "xd": "Title: Cross-Fact Puzzle ★★\nAuthor: Leo P. Bott, Jr.\nEditor: Will Shortz\nDate: 1982-01-01\nByline: by Leo P. Bott, Jr.\nSolution: matched\nSolution-Source: https://archive.org/details/Games-Magazine-January-February-1982-images/page/n81/mode/2up\nSource: https://archive.org/details/Games-Magazine-January-February-1982-images/page/n32/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 12 change(s), listed in the review\n\n\nI..G#.S.Z\nG#.OSZ.#B\n.I#BSI#G.\nZ..S#...S\n#.O###ZZ#\n.GGS#.ZI.\n..#ZB.#.I\nO#ZB...#.\n..SB#SO.G\n\n\nA1. Abraham Lincoln was our first bearded President ~ I..G\nA4. A titmouse is a kind of bird ~ .S.Z\nA7. Pierre and Marie Curie were the discoverers of ~ .OSZ.\nA9. Eskimos have more than 20 different words to describe snow ~ .I\nA11. Penguins are inhabitants of the Arctic ~ BSI\nA12. Patagonia is in South America. ~ G.\nA13. Only female mosquitoes bite ~ Z..S\nA15. The Great Salt Lake is saltier than the ocean ~ ...S\nA17. The dollar is the monetary unit of Israel. ~ .O\nA18. George Washington's middle initial was L. ~ ZZ\nA19. Portuguese is the official language of Brazil ~ .GGS\nA21. When it's Friday night in San Francisco, it's ~ .ZI.\nA23. The correct plural of \"mongoose\" is \"mongooses\" ~ ..\nA24. Johnny Appleseed was a real person ~ ZB.\nA26. Christopher Columbus was a redhead. ~ .I\nA27. A dime has more grooves around its perimeter ~ ZB...\nA29. An egg will float in a glass of water if sugar has ~ ..SB\nA30. Lindbergh was the first man to fly across the ~ SO.G\n\nD1. Chopin was Chinese. ~ IG.Z\nD2. Thomas Jefferson invented the dumbwaiter ~ ..\nD3. Solarium is a precious metal used in film-processing ~ GOBS\nD4. The state of Louisiana is divided into parishes rather than counties ~ .ZI.\nD5. A meter is a little longer than a yard ~ S.\nD6. Bob Dylan's first national appearance was on Ted Mack's Amateur Hour. ~ ZB.S\nD8. Every insect by nature has six legs ~ SS\nD10. Alexander Hamilton was killed in a duel by Aaron ~ I..G.\nD12. In the early days of baseball, the umpires would ~ G.ZI.\nD14. Chocolate comes from coconut trees. ~ .OG\nD16. Over 3% of the air we breathe is nitrogen ~ .ZZ\nD19. A toad eats his skin after shedding it ~ ..O.\nD20. Harry Houdini was the first man to fly an airplane solo over Australia. ~ SZBB\nD21. Potatoes are native to Ireland ~ ...S\nD22. Copernicus was a Polish astronomer ~ .I.G\nD25. Abel was the elder brother of Cain.. ~ B.\nD27. Fish sleep with their eyes open ~ ZS\nD28. The letter S is the commonest letter in the English language ~ .O\n\n\nPrinted with puzzle:\nIllustrations by Michael Bartalos\nWas Christopher Columbus a redhead? Did Thomas Jefferson invent the dumbwaiter? Do fish sleep with their eyes open? These are some of the important matters covered in this new grid—one number if the statement is \"true,\" the other if it's a   e e     y i help you with those you don't, by providing crossing digits. So\ntwist on the crossword puzzle. Each clue consists of a state- ment and two possible answer numbers to be entered in the TRUE FALSE if you're not sure if Abe Lincoln was our first bearded President (1-Across), solve the crossing clues and you'll find out.\n\nText step, unsure:\nA12: trailing periods on A12, A17, A18, A26, D1, D14, D20, D25 may be the leader dots that follow each statement; left as read where the sheet doesn't show them\nL1: 'Edited by Will Shortz' is the section banner over the whole Pencilwise section rather than this puzzle's own line; kept as the printed 'edited by'\nL5: the instructions explain that each clue gives two answer numbers, one for TRUE and one for FALSE, entered in the grid; the packet's clues dropped these numbers everywhere but A13\n",
+ "xd_fp": "e2f4f21e854b",
+ "packet": "games-8082/proof/run1-handsoff/games1982-01-01-L032",
+ "packet_xd": "55e4881ae114",
+ "decision": {
+  "rule": "grade",
+  "ai_ready": "both",
+  "why": "in xd/ as games1982-01-01b: graded incomplete: ships by its grade (ship_grades), with no person's Ready, no Not ready; ships incomplete, by its grade: 28 square(s) unsolved",
+  "said": [
+   {
+    "kind": "ai",
+    "answer": "notready",
+    "at": "2026-11-26",
+    "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+   }
+  ]
+ },
+ "edits": {
+  "records": [],
+  "packet": [
+   {
+    "key": "line:B1",
+    "what": "printed line",
+    "before": "Edited by Wil Shortz",
+    "after": "Edited by Will Shortz",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the Pencilwise section's banner (Will, not Wil); given as editor evidence since it is the printed 'edited by'"
+   },
+   {
+    "key": "line:B3",
+    "what": "printed line",
+    "before": "Cross-Fact Puzzle*★",
+    "after": "Cross-Fact Puzzle ★★",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the puzzle's own heading, two stars; it is the title, not a feature over another name"
+   },
+   {
+    "key": "clue:A4",
+    "what": "clue",
+    "before": "A titmouse is a kind of bird .",
+    "after": "A titmouse is a kind of bird",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: leader dots read as ' .'"
+   },
+   {
+    "key": "clue:A13",
+    "what": "clue",
+    "before": "Only female mosqúitoes bite 2435 4735",
+    "after": "Only female mosquitoes bite",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: a stray accent, and the answer-number pair read into the clue"
+   },
+   {
+    "key": "clue:D3",
+    "what": "clue",
+    "before": "Solarium is a precious metal used in film-",
+    "after": "Solarium is a precious metal used in film-processing",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the clue's second line was dropped"
+   },
+   {
+    "key": "clue:D4",
+    "what": "clue",
+    "before": "The state of Louisiana is divided into parishes",
+    "after": "The state of Louisiana is divided into parishes rather than counties",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the clue's second line was dropped"
+   },
+   {
+    "key": "clue:D5",
+    "what": "clue",
+    "before": "A meter is a little longér than a yard .",
+    "after": "A meter is a little longer than a yard",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: a stray accent, and leader dots read as ' .'"
+   },
+   {
+    "key": "clue:D27",
+    "what": "clue",
+    "before": "Fish sleep with their eyes open . .",
+    "after": "Fish sleep with their eyes open",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: leader dots read as ' . .'"
+   }
+  ]
+ },
+ "corrections": [],
+ "notes": [],
+ "proposals": [],
+ "typed": [],
+ "grade": {
+  "grade": "incomplete",
+  "why": "not whole: 28 square(s) unsolved; the answer key's letters; Each clue's two answer numbers (the TRUE and FALSE columns) were dropped from every clue, so no clue can be checked against its slot. Re-run the clue reading to capture both number columns?; A7, A21, A27, A29, A30, D10 and D12 each end mid-sentence in the crop ('discoverers of', 'it's', 'perimeter', 'sugar has', 'across the', 'by Aaron', 'umpires would'); their second lines were never read. Re-read the clue lists to pick them up? (+1)",
+  "flags": 3,
+  "settled": null,
+  "doubts": [
+   {
+    "row": "grid",
+    "text": "The answer key prints digits, not letters (row 1 reads 1396 / 7542, every square clearly legible); the xd holds them as look-alike letters (I, Z, S, G, B, O) and dots for 28 squares it didn't map. Should this Cross-Fact puzzle's grid be stored as digits (and the key re-read as digits) before it ships? Suggest: re-read the key as digits; all 28 dotted squares are legible in crops/answers.png",
+    "code": "ai-question",
+    "from": "Claude (AI proof reviewer, claude-opus-5-5)",
+    "kind": "convention"
+   }
+  ],
+  "gaps": [
+   {
+    "what": "28 square(s) unsolved",
+    "code": "grid-unsolved",
+    "stage": "key reading",
+    "detail": "",
+    "row": "grid",
+    "sub": "unsolved-squares"
+   },
+   {
+    "what": "the answer key's letters",
+    "code": "key-unread",
+    "stage": "key reading",
+    "detail": "28 letter(s)",
+    "row": "grid",
+    "sub": "unsolved-squares"
+   },
+   {
+    "what": "Each clue's two answer numbers (the TRUE and FALSE columns) were dropped from every clue, so no clue can be checked against its slot. Re-run the clue reading to capture both number columns?",
+    "code": "ai-missing",
+    "stage": "",
+    "detail": "Claude (AI proof reviewer, claude-opus-5-5); suggest: fix in parts/text step; don't type them here",
+    "row": "meta:note",
+    "sub": "part-missing"
+   },
+   {
+    "what": "A7, A21, A27, A29, A30, D10 and D12 each end mid-sentence in the crop ('discoverers of', 'it's', 'perimeter', 'sugar has', 'across the', 'by Aaron', 'umpires would'); their second lines were never read. Re-read the clue lists to pick them up?",
+    "code": "ai-missing",
+    "stage": "",
+    "detail": "Claude (AI proof reviewer, claude-opus-5-5); suggest: re-run clue reading for the continuation lines",
+    "row": "clue:A7",
+    "sub": "part-missing"
+   },
+   {
+    "what": "The printed intro paragraph is mangled in the notes: the two columns are interleaved and a line is lost ('it's a   e e     y i help you...'). Re-read the intro block in column order?",
+    "code": "ai-missing",
+    "stage": "",
+    "detail": "Claude (AI proof reviewer, claude-opus-5-5); suggest: re-run the line reading; don't retype it",
+    "row": "line:B5",
+    "sub": "part-missing"
+   }
+  ],
+  "lacks": [
+   "unsolved-squares",
+   "part-missing"
+  ]
+ },
+ "printed": [
+  {
+   "label": "credit",
+   "text": "Illustrations by Michael Bartalos"
+  },
+  {
+   "label": "instructions",
+   "text": "Was Christopher Columbus a redhead? Did Thomas Jefferson invent the dumbwaiter? Do fish sleep with their eyes open? These are some of the important matters covered in this new grid—one number if the statement is \"true,\" the other if it's a   e e     y i help you with those you don't, by providing crossing digits. So"
+  },
+  {
+   "label": "instructions",
+   "text": "twist on the crossword puzzle. Each clue consists of a state- ment and two possible answer numbers to be entered in the TRUE FALSE if you're not sure if Abe Lincoln was our first bearded President (1-Across), solve the crossing clues and you'll find out."
+  }
+ ],
+ "edition": {
+  "status": "made",
+  "path": "edition/games1982-01-01b.xd",
+  "xd": "Title: Cross-Fact Puzzle ★★\nAuthor: Leo P. Bott, Jr.\nEditor: Will Shortz\nDate: 1982-01-01\nByline: by Leo P. Bott, Jr.\nSolution: matched\nSolution-Source: https://archive.org/details/Games-Magazine-January-February-1982-images/page/n81/mode/2up\nSource: https://archive.org/details/Games-Magazine-January-February-1982-images/page/n32/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 12 change(s), listed in the review\n\n\nI..G#.S.Z\nG#.OSZ.#B\n.I#BSI#G.\nZ..S#...S\n#.O###ZZ#\n.GGS#.ZI.\n..#ZB.#.I\nO#ZB...#.\n..SB#SO.G\n\n\nA1. Abraham Lincoln was our first bearded President ~ I..G\nA4. A titmouse is a kind of bird ~ .S.Z\nA7. Pierre and Marie Curie were the discoverers of ~ .OSZ.\nA9. Eskimos have more than 20 different words to describe snow ~ .I\nA11. Penguins are inhabitants of the Arctic ~ BSI\nA12. Patagonia is in South America. ~ G.\nA13. Only female mosquitoes bite ~ Z..S\nA15. The Great Salt Lake is saltier than the ocean ~ ...S\nA17. The dollar is the monetary unit of Israel. ~ .O\nA18. George Washington's middle initial was L. ~ ZZ\nA19. Portuguese is the official language of Brazil ~ .GGS\nA21. When it's Friday night in San Francisco, it's ~ .ZI.\nA23. The correct plural of \"mongoose\" is \"mongooses\" ~ ..\nA24. Johnny Appleseed was a real person ~ ZB.\nA26. Christopher Columbus was a redhead. ~ .I\nA27. A dime has more grooves around its perimeter ~ ZB...\nA29. An egg will float in a glass of water if sugar has ~ ..SB\nA30. Lindbergh was the first man to fly across the ~ SO.G\n\nD1. Chopin was Chinese. ~ IG.Z\nD2. Thomas Jefferson invented the dumbwaiter ~ ..\nD3. Solarium is a precious metal used in film-processing ~ GOBS\nD4. The state of Louisiana is divided into parishes rather than counties ~ .ZI.\nD5. A meter is a little longer than a yard ~ S.\nD6. Bob Dylan's first national appearance was on Ted Mack's Amateur Hour. ~ ZB.S\nD8. Every insect by nature has six legs ~ SS\nD10. Alexander Hamilton was killed in a duel by Aaron ~ I..G.\nD12. In the early days of baseball, the umpires would ~ G.ZI.\nD14. Chocolate comes from coconut trees. ~ .OG\nD16. Over 3% of the air we breathe is nitrogen ~ .ZZ\nD19. A toad eats his skin after shedding it ~ ..O.\nD20. Harry Houdini was the first man to fly an airplane solo over Australia. ~ SZBB\nD21. Potatoes are native to Ireland ~ ...S\nD22. Copernicus was a Polish astronomer ~ .I.G\nD25. Abel was the elder brother of Cain.. ~ B.\nD27. Fish sleep with their eyes open ~ ZS\nD28. The letter S is the commonest letter in the English language ~ .O\n\n\nPrinted with puzzle:\nIllustrations by Michael Bartalos\nWas Christopher Columbus a redhead? Did Thomas Jefferson invent the dumbwaiter? Do fish sleep with their eyes open? These are some of the important matters covered in this new grid—one number if the statement is \"true,\" the other if it's a   e e     y i help you with those you don't, by providing crossing digits. So\ntwist on the crossword puzzle. Each clue consists of a state- ment and two possible answer numbers to be entered in the TRUE FALSE if you're not sure if Abe Lincoln was our first bearded President (1-Across), solve the crossing clues and you'll find out.\n\nText step, unsure:\nA12: trailing periods on A12, A17, A18, A26, D1, D14, D20, D25 may be the leader dots that follow each statement; left as read where the sheet doesn't show them\nL1: 'Edited by Will Shortz' is the section banner over the whole Pencilwise section rather than this puzzle's own line; kept as the printed 'edited by'\nL5: the instructions explain that each clue gives two answer numbers, one for TRUE and one for FALSE, entered in the grid; the packet's clues dropped these numbers everywhere but A13\n\nPuzzle notes:\nWas Christopher Columbus a redhead? Did Thomas Jefferson invent the dumbwaiter? Do fish sleep with their eyes open? These are some of the important matters covered in this new grid—one number if the statement is \"true,\" the other if it's a   e e     y i help you with those you don't, by providing crossing digits. So\ntwist on the crossword puzzle. Each clue consists of a state- ment and two possible answer numbers to be entered in the TRUE FALSE if you're not sure if Abe Lincoln was our first bearded President (1-Across), solve the crossing clues and you'll find out.\n",
+  "xd_fp": "d8eebb165ffb",
+  "sha256": "254ad6493f06c89fb36e0847279bebeba5775a335c071cdef283b184aeb95150",
+  "held": [],
+  "corrections": [],
+  "declined": [],
+  "notes": [
+   "Was Christopher Columbus a redhead? Did Thomas Jefferson invent the dumbwaiter? Do fish sleep with their eyes open? These are some of the important matters covered in this new grid—one number if the statement is \"true,\" the other if it's a   e e     y i help you with those you don't, by providing crossing digits. So",
+   "twist on the crossword puzzle. Each clue consists of a state- ment and two possible answer numbers to be entered in the TRUE FALSE if you're not sure if Abe Lincoln was our first bearded President (1-Across), solve the crossing clues and you'll find out."
+  ],
+  "kinds": [
+   "notes"
+  ],
+  "notes_from": "no Notes rule recorded: the default (intro, instructions)"
+ }
+}

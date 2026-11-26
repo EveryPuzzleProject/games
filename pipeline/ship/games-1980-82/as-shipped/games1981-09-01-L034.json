@@ -1,0 +1,77 @@
+{
+ "_about": "blitz ship: the xd exactly as `blitz ship --write` writes it for this puzzle, with the record of every edit behind it (design/ship.md, \"The xd as it will ship\"). Made with the batch's ship record; stale when the record is made again.",
+ "pid": "games1981-09-01-L034",
+ "xdid": "games1981-09-01b",
+ "batch": "games-1980-82",
+ "run": "run1-handsoff",
+ "at": "2026-11-26T03:31:39+00:00",
+ "status": "shipped",
+ "xd": "Title: Let the Chips Fall Where They May\nAuthor: Jack Luzzatto\nDate: 1981-09-01\nByline: by Jack Luzzatto\nSolution: matched\nSolution-Source: https://archive.org/details/games-25-1981-september/page/n77/mode/2up\nSource: https://archive.org/details/Games-Magazine-September-October-1981-images/page/n34/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 1 change(s), listed in the review\n\n\n##BRAID##TRUSTS\n#BRIDGE#CHARIOT\nFEEDINGTHEKITTY\nERASE#RAISE#SAL\nTAK#UNABLE#HOLE\nITUP#IDLE#WOULD\nDEPORTEE#ROOTY#\n###CARDSHARP###\n#SWORE#TANKEDUP\nSEINE#RANG#RENO\nTANO#MUKDEN#FIR\nOBE#NISEI#ODIST\nLASVEGASCASINOS\nISAIAHS#ARISEN#\nDEPART##PERKS##\n\n\nA1. Pigtail ~ BRAID\nA6. Caretaker accounts ~ TRUSTS\nA12. Team card game ~ BRIDGE\nA13. Arena vehicle ~ CHARIOT\nA14. Building a pot, perhaps: 3 wds. ~ FEEDINGTHEKITTY\nA16. Clean the slate ~ ERASE\nA17. Play bold poker ~ RAISE\nA18. Gal worth her salt ~ SAL\nA19. \"Oh, ye'll ___ the high road. . .\" (ballad refrain) ~ TAK\nA20. Impotent ~ UNABLE\nA22. Place for a stud-poker ace ~ HOLE\nA23. Wind ___ (end the game): 2 wds. ~ ITUP\nA25. With nought to do ~ IDLE\nA26. Conditional ~ WOULD\nA27. Traveler abroad by request ~ DEPORTEE\nA29. Like the ground under a tree ~ ROOTY\nA30. Cheater at poker ~ CARDSHARP\nA32. Vowed ~ SWORE\nA34. Crocked: 2 wds. ~ TANKEDUP\nA38. Fishing net ~ SEINE\nA39. Summoned by phone ~ RANG\nA40. Gambling site ~ RENO\nA41. Pueblo Indian ~ TANO\nA42. Chief city of Manchuria ~ MUKDEN\nA44. Christmas tree ~ FIR\nA45. Brit. award of honor ~ OBE\nA46. American-born Japanese ~ NISEI\nA47. Poet of sorts ~ ODIST\nA49. Where gamblers gather: 3 wds. ~ LASVEGASCASINOS\nA52. Persons named for a Biblical prophet ~ ISAIAHS\nA53. Resurrected ~ ARISEN\nA54. Take off ~ DEPART\nA55. Fringe benefits of a job ~ PERKS\n\nD1. End of the game ~ BREAKUP\nD2. Frees (of) ~ RIDS\nD3. Good-bye ~ ADIEU\nD4. Car-key slot: Abbr. ~ IGN\nD5. Abased ~ DEGRADED\nD6. Start of a Paine quote ~ THESE\nD7. Croupier's implement ~ RAKE\nD8. Geller the spoonbender ~ URI\nD9. Skips a pot or two: 2 wds. ~ SITSOUT\nD10. Omitting nothing ~ TOTALLY\nD11. Neatly shaped ~ STYLED\nD12. Scold ~ BERATE\nD13. Andean country ~ CHILE\nD14. Rank ~ FETID\nD15. Poker limit, at times: 2 wds. ~ TABLESTAKES\nD21. Saltpetre ~ NITRE\nD22. A Burt Reynolds role ~ HOOPER\nD24. Vacation range for up-staters ~ POCONO\nD26. Slave driver's cry ~ WORK\nD28. Exceptional ~ RARE\nD29. Cow country ~ RANGE\nD31. Sporting advantage ~ HANDICAP\nD32. Naval stronghold: 2 wds. ~ SEABASE\nD33. Kind of apple ~ WINESAP\nD35. Fixes the limits ~ DEFINES\nD36. Togetherness ~ UNISON\nD37. Seacoast towns ~ PORTS\nD38. Unemotional ~ STOLID\nD39. Deer of India ~ RUSAS\nD42. Has possibilities ~ MIGHT\nD43. Polite refusal: 2 wds. ~ NOSIR\nD46. Close ~ NEAR\nD48. Casino chip ~ DISK\nD50. By way of ~ VIA\nD51. Is, for two? ~ ARE\n\n\nAssembly flags:\nkey from the other scan of its page (games-25-1981-september, leaf 77): the chosen scan doesn't read it whole\n\nOCR review flags:\nA19: blank-from-image\nA23: blank-from-image\n",
+ "xd_fp": "df61175c1845",
+ "packet": "games-8082/proof/run1-handsoff/games1981-09-01-L034",
+ "packet_xd": "354d37b747db",
+ "decision": {
+  "rule": "ai",
+  "ai_ready": "both",
+  "why": "in xd/ as games1981-09-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+  "said": [
+   {
+    "kind": "check",
+    "answer": "ready",
+    "at": "2026-10-27",
+    "who": "the ship check (xword-ocr shipcheck)"
+   },
+   {
+    "kind": "ai",
+    "answer": "ready",
+    "at": "2026-11-26",
+    "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+   }
+  ]
+ },
+ "edits": {
+  "records": [],
+  "packet": [
+   {
+    "key": "clue:A19",
+    "what": "clue",
+    "before": "\"Oh, ye'll ___ the high road...\"(ballad refrain)",
+    "after": "\"Oh, ye'll ___ the high road. . .\" (ballad refrain)",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: spaced ellipsis as printed and a space before the parenthesis"
+   }
+  ]
+ },
+ "corrections": [],
+ "notes": [],
+ "proposals": [],
+ "typed": [],
+ "grade": {
+  "grade": "clean",
+  "why": "the ship check passed and nothing was flagged",
+  "flags": 0,
+  "settled": {
+   "by": "Claude (AI proof reviewer, claude-opus-5-5)",
+   "kind": "ai",
+   "at": "2026-11-26"
+  },
+  "doubts": [],
+  "gaps": [],
+  "lacks": []
+ },
+ "printed": [],
+ "edition": {
+  "status": "made",
+  "path": "edition/games1981-09-01b.xd",
+  "xd": "Title: Let the Chips Fall Where They May\nAuthor: Jack Luzzatto\nDate: 1981-09-01\nByline: by Jack Luzzatto\nSolution: matched\nSolution-Source: https://archive.org/details/games-25-1981-september/page/n77/mode/2up\nSource: https://archive.org/details/Games-Magazine-September-October-1981-images/page/n34/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 1 change(s), listed in the review\n\n\n##BRAID##TRUSTS\n#BRIDGE#CHARIOT\nFEEDINGTHEKITTY\nERASE#RAISE#SAL\nTAK#UNABLE#HOLE\nITUP#IDLE#WOULD\nDEPORTEE#ROOTY#\n###CARDSHARP###\n#SWORE#TANKEDUP\nSEINE#RANG#RENO\nTANO#MUKDEN#FIR\nOBE#NISEI#ODIST\nLASVEGASCASINOS\nISAIAHS#ARISEN#\nDEPART##PERKS##\n\n\nA1. Pigtail ~ BRAID\nA6. Caretaker accounts ~ TRUSTS\nA12. Team card game ~ BRIDGE\nA13. Arena vehicle ~ CHARIOT\nA14. Building a pot, perhaps: 3 wds. ~ FEEDINGTHEKITTY\nA16. Clean the slate ~ ERASE\nA17. Play bold poker ~ RAISE\nA18. Gal worth her salt ~ SAL\nA19. \"Oh, ye'll ___ the high road. . .\" (ballad refrain) ~ TAK\nA20. Impotent ~ UNABLE\nA22. Place for a stud-poker ace ~ HOLE\nA23. Wind ___ (end the game): 2 wds. ~ ITUP\nA25. With nought to do ~ IDLE\nA26. Conditional ~ WOULD\nA27. Traveler abroad by request ~ DEPORTEE\nA29. Like the ground under a tree ~ ROOTY\nA30. Cheater at poker ~ CARDSHARP\nA32. Vowed ~ SWORE\nA34. Crocked: 2 wds. ~ TANKEDUP\nA38. Fishing net ~ SEINE\nA39. Summoned by phone ~ RANG\nA40. Gambling site ~ RENO\nA41. Pueblo Indian ~ TANO\nA42. Chief city of Manchuria ~ MUKDEN\nA44. Christmas tree ~ FIR\nA45. Brit. award of honor ~ OBE\nA46. American-born Japanese ~ NISEI\nA47. Poet of sorts ~ ODIST\nA49. Where gamblers gather: 3 wds. ~ LASVEGASCASINOS\nA52. Persons named for a Biblical prophet ~ ISAIAHS\nA53. Resurrected ~ ARISEN\nA54. Take off ~ DEPART\nA55. Fringe benefits of a job ~ PERKS\n\nD1. End of the game ~ BREAKUP\nD2. Frees (of) ~ RIDS\nD3. Good-bye ~ ADIEU\nD4. Car-key slot: Abbr. ~ IGN\nD5. Abased ~ DEGRADED\nD6. Start of a Paine quote ~ THESE\nD7. Croupier's implement ~ RAKE\nD8. Geller the spoonbender ~ URI\nD9. Skips a pot or two: 2 wds. ~ SITSOUT\nD10. Omitting nothing ~ TOTALLY\nD11. Neatly shaped ~ STYLED\nD12. Scold ~ BERATE\nD13. Andean country ~ CHILE\nD14. Rank ~ FETID\nD15. Poker limit, at times: 2 wds. ~ TABLESTAKES\nD21. Saltpetre ~ NITRE\nD22. A Burt Reynolds role ~ HOOPER\nD24. Vacation range for up-staters ~ POCONO\nD26. Slave driver's cry ~ WORK\nD28. Exceptional ~ RARE\nD29. Cow country ~ RANGE\nD31. Sporting advantage ~ HANDICAP\nD32. Naval stronghold: 2 wds. ~ SEABASE\nD33. Kind of apple ~ WINESAP\nD35. Fixes the limits ~ DEFINES\nD36. Togetherness ~ UNISON\nD37. Seacoast towns ~ PORTS\nD38. Unemotional ~ STOLID\nD39. Deer of India ~ RUSAS\nD42. Has possibilities ~ MIGHT\nD43. Polite refusal: 2 wds. ~ NOSIR\nD46. Close ~ NEAR\nD48. Casino chip ~ DISK\nD50. By way of ~ VIA\nD51. Is, for two? ~ ARE\n\n\nAssembly flags:\nkey from the other scan of its page (games-25-1981-september, leaf 77): the chosen scan doesn't read it whole\n\nOCR review flags:\nA19: blank-from-image\nA23: blank-from-image\n",
+  "xd_fp": "df61175c1845",
+  "sha256": "e5836e38789026b74e5fd97c14f8982965f0455550d5500a0f378ebc9cb1ccc4",
+  "held": [],
+  "corrections": [],
+  "declined": [],
+  "notes": [],
+  "kinds": [],
+  "notes_from": "no Notes rule recorded: the default (intro, instructions)"
+ }
+}

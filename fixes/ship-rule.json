@@ -1,8 +1,27 @@
 {
  "_about": "The ship rule's options for GAMES (blitz ship; blitz design/ship.md). ai_ready: off | both | either (whether an AI's Ready counts as the one Ready when no person has said it; both = the AI proof reviewer's Ready and a passing ship check together: the owner's decision, 2026-11-10). hold_codes: triage reason codes that hold a puzzle whoever said Ready. ignore: review-site accounts whose decisions don't count. owner: the owner's own accounts on the review site, whose decisions override as the owner's do (oops6498 is Alex: confirmed 2026-11-10). owner_ids: the owner's review-site account ids (Supabase user_id), the only accounts whose \"Publish the edition\" on the batch page counts (blitz design/ship.md, one-time setup); this one is Alex's browser, set up 2026-11-16.",
  "ai_ready": "both",
- "hold_codes": ["clue-typed"],
- "ignore": ["walkthrough test"],
- "owner": ["oops6498"],
- "owner_ids": ["9c2c738f-5be1-42e5-a4ce-ccc06778741a"]
+ "hold_codes": [
+  "clue-typed"
+ ],
+ "ignore": [
+  "walkthrough test"
+ ],
+ "owner": [
+  "oops6498"
+ ],
+ "owner_ids": [
+  "9c2c738f-5be1-42e5-a4ce-ccc06778741a"
+ ],
+ "batches": {
+  "games-1980-82": {
+   "_about": "V3 first hands-off run (2026-11-25): the owner's decision that incomplete puzzles ship with their grade; held, deferred and not-a-crossword never ship.",
+   "ship_grades": [
+    "clean",
+    "reviewed",
+    "doubts",
+    "incomplete"
+   ]
+  }
+ }
 }

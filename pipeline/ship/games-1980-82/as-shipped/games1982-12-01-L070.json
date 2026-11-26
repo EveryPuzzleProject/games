@@ -1,0 +1,210 @@
+{
+ "_about": "blitz ship: the xd exactly as `blitz ship --write` writes it for this puzzle, with the record of every edit behind it (design/ship.md, \"The xd as it will ship\"). Made with the batch's ship record; stale when the record is made again.",
+ "pid": "games1982-12-01-L070",
+ "xdid": "games1982-12-01d",
+ "batch": "games-1980-82",
+ "run": "run1-handsoff",
+ "at": "2026-11-26T03:31:39+00:00",
+ "status": "shipped",
+ "xd": "Title: For the Championship ★\nAuthor: Merl Reagle\nDate: 1982-12-01\nByline: by Merl Reagle\nSolution: none\nSource: https://archive.org/details/Games-Magazine-December-1982-images/page/n70/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 11 change(s), listed in the review\n\n\n#.........#....\n..........#....\n..........#....\n......#....#...\n....#####......\n......#.......#\n...#..........#\n###.........###\n#..........#...\n#.......#......\n......#####....\n...#....#......\n....#..........\n....#..........\n....#.........#\n\n\nA1. Informal musical ensemble ~ .........\nA10. Behold, Brutus! ~ ....\nA14. Gum guy ~ ..........\nA15. Swedish director Lindgren ~ ....\nA16. Throw tantrums or don't, depending ~ ..........\nA17. Radio tuning: Abbr. ~ ....\nA18. Queen of ___ ~ ......\nA19. Chromosome possibilities ~ ....\nA21. It suited Plato to a T ~ ...\nA22. Labyrinth force ~ ....\nA23. Sorceress: Var. ~ ......\nA25. Head wreath ~ ......\nA28. Links ~ .......\nA30. Goat's nickname? ~ ...\nA31. Words on an album jacket ~ ..........\nA33. Champion rider ~ .........\nA34. Hit squad ~ ..........\nA36. American competitor? ~ ...\nA39. Presidential firsts? ~ .......\nA40. Noisy oil gusher ~ ......\nA42. Kind ~ ......\nA43. Mouthpiece socket on a clarinet ~ ....\nA44. Mount near ancient Troy ~ ...\nA45. Uncommon bills ~ ....\nA48. Beckett's ___ Dies ~ ......\nA50. Part of Caesar's boast ~ ....\nA52. Rink revue ~ ..........\nA54. Singly ~ ....\nA55. Armchair quarterbacks ~ ..........\nA56. Plaintiff ~ ....\nA57. That singing feeling ~ .........\n\nD1. Colorful Hopi Indian doll ~ .......\nD2. From the halls of Montezuma ~ .......\nD3. Traveled by SST ~ ......\nD4. Charlie's wife ~ ....\nD5. ___-doke ~ ....\nD6. Some N.Y.U. grads ~ ...\nD7. Subject of a Sophoclean tragedy ~ ....\nD8. Canceled, as a space flight ~ ....\nD9. Oscar-winning picture, 1979 (with \"The\") ~ ..........\nD10. Arctic assistant ~ ...\nD11. Semi total? ~ .......\nD12. Dreams up ~ .......\nD13. Ending with humor ~ .....\nD14. Penguin's nemesis ~ ......\nD20. Answer wanted by the DA ~ .......\nD24. Actress Jurado ~ ....\nD26. Beautifully simple ~ .......\nD27. Circulate among ~ ..........\nD28. Mail-order magnate ~ .....\nD29. Jack-in-the-pulpit ~ ....\nD32. Poor, with \"in\" ~ ....\nD33. Contemporary of Sophia ~ ....\nD34. Lester Pearson's successor ~ .......\nD35. Language of love ~ .......\nD36. Vacuum tubes ~ .......\nD37. Klemperer and Erhard ~ .......\nD38. He played The Thing, 1951 ~ ......\nD41. Like 1871 Chicago ~ ......\nD42. Places of busyness ~ .....\nD46. Turkish weight ~ ....\nD47. Transude ~ ....\nD48. Husband, in Cherbourg ~ ....\nD49. Neat as ___ ~ ....\nD51. German pronoun ~ ...\nD53. Friday, on TV, for example ~ ...\n\n\nPrinted with puzzle:\nMarking and scoring the tournament crosswords was an all-day task for 25 judges.\nPHOTOGRAPHS BY DAN NELKEN\nChampion Stanley Newman, with pencil and winner's smile, poses with John Chervokas, third place (left), Rebecca Kornbluh, second place, and Will Shortz, tournament director.\nMargaret Farrar, America's preeminent crossword puzzle editor, announces the results.\n\nAssembly flags:\nno key found in this issue\n\nOCR review flags:\nA18: blank-from-image\nA48: blank-from-image\nD5: blank-from-image\nD41: number-corrected:42\nD42: number-missing\nD49: blank-from-image\n\nText step, unsure:\nL7: the D49 crop shows 'Answer Drawer, page 80' above the clues, not captured as a line; and the tournament time-limit box printed for this puzzle (as for L069) was not captured\n",
+ "xd_fp": "53156017448b",
+ "packet": "games-8082/proof/run1-handsoff/games1982-12-01-L070",
+ "packet_xd": "a413d1b0fd52",
+ "decision": {
+  "rule": "grade",
+  "ai_ready": "both",
+  "why": "in xd/ as games1982-12-01d: graded incomplete: ships by its grade (ship_grades), with no person's Ready, no Not ready; ships incomplete, by its grade: 189 square(s) unsolved",
+  "said": [
+   {
+    "kind": "ai",
+    "answer": "notready",
+    "at": "2026-11-26",
+    "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+   }
+  ]
+ },
+ "edits": {
+  "records": [],
+  "packet": [
+   {
+    "key": "line:B1",
+    "what": "printed line",
+    "before": "For the Championship",
+    "after": "For the Championship ★",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "The AI reviewer asked for: crop: the 'Tournament time limit / Champion's time' box for this puzzle, if printed"
+   },
+   {
+    "key": "line:B3",
+    "what": "printed line",
+    "before": "Marking and scoring the tourna- ment crosswords was an all-day task for 25 judges.",
+    "after": "Marking and scoring the tournament crosswords was an all-day task for 25 judges.",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: a photo caption; joined a wrapped word"
+   },
+   {
+    "key": "line:B5",
+    "what": "printed line",
+    "before": "Champion Stanley Newman, with pencil and win- ner's smile, poses with John Chervokas, third place (left), Rebecca Kornbluh, second place, and Will Shortz, tournament director.",
+    "after": "Champion Stanley Newman, with pencil and winner's smile, poses with John Chervokas, third place (left), Rebecca Kornbluh, second place, and Will Shortz, tournament director.",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: a photo caption; joined a wrapped word"
+   },
+   {
+    "key": "clue:A21",
+    "what": "clue",
+    "before": "It suited Plato to aT",
+    "after": "It suited Plato to a T",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: 'a T' run together"
+   },
+   {
+    "key": "clue:D5",
+    "what": "clue",
+    "before": "___ _-doke",
+    "after": "___-doke",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the blank was read as two pieces; sheet shows one rule then '-doke'"
+   },
+   {
+    "key": "clue:D32",
+    "what": "clue",
+    "before": "Poor, with “in\"",
+    "after": "Poor, with \"in\"",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: a curly quote read for the printer's doubled apostrophes"
+   },
+   {
+    "key": "clue:D37",
+    "what": "clue",
+    "before": "Klemperer and",
+    "after": "Klemperer and Erhard",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the clue's second line was dropped; the D42 crop shows 'Erhard' just above 38"
+   },
+   {
+    "key": "clue:D38",
+    "what": "clue",
+    "before": "He played The",
+    "after": "He played The Thing, 1951",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the clue's second line was read as D42"
+   },
+   {
+    "key": "clue:D41",
+    "what": "clue",
+    "before": "Places of",
+    "after": "Like 1871 Chicago",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the sheet shows 41 'Like 1871 Chicago'; 'Places of' is 42"
+   },
+   {
+    "key": "clue:D42",
+    "what": "clue",
+    "before": "Thing, 1951",
+    "after": "Places of busyness",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the sheet shows 42 'Places of busyness'; 'Thing, 1951' is the end of D38"
+   }
+  ]
+ },
+ "corrections": [],
+ "notes": [],
+ "proposals": [],
+ "typed": [],
+ "grade": {
+  "grade": "incomplete",
+  "why": "not whole: 189 square(s) unsolved; the answer key; No answer key was found in this issue, so all 189 squares are unsolved. The text step notes the D49 area points to 'Answer Drawer, page 80'. Search that page (or the next issue) for the key?; The text step expected a 'Tournament time limit / Champion's time' box for this puzzle, as printed for L069; neither crop shows one (B1 shows only the heading 'For the Championship', B7 only the folio 'GAMES DECEMBER 1982 59'). Is such a box printed with this puzzle?",
+  "flags": 2,
+  "settled": null,
+  "doubts": [
+   {
+    "row": "meta:note",
+    "text": "The notes hold the article's photo captions and credit ('Marking and scoring the tournament crosswords...', 'PHOTOGRAPHS BY DAN NELKEN', the captions on Stanley Newman and Margaret Farrar). These belong to the tournament article, not the puzzle. Drop them? Suggest: drop them",
+    "code": "ai-question",
+    "from": "Claude (AI proof reviewer, claude-opus-5-5)",
+    "kind": "extra"
+   }
+  ],
+  "gaps": [
+   {
+    "what": "189 square(s) unsolved",
+    "code": "grid-unsolved",
+    "stage": "key reading",
+    "detail": "",
+    "row": "grid",
+    "sub": "unsolved-squares"
+   },
+   {
+    "what": "the answer key",
+    "code": "key-missing",
+    "stage": "assembly",
+    "detail": "",
+    "row": "grid",
+    "sub": "no-key"
+   },
+   {
+    "what": "No answer key was found in this issue, so all 189 squares are unsolved. The text step notes the D49 area points to 'Answer Drawer, page 80'. Search that page (or the next issue) for the key?",
+    "code": "ai-missing",
+    "stage": "",
+    "detail": "Claude (AI proof reviewer, claude-opus-5-5); suggest: locate the key at the Answer Drawer, page 80, and re-run assembly",
+    "row": "grid",
+    "sub": "part-missing"
+   },
+   {
+    "what": "The text step expected a 'Tournament time limit / Champion's time' box for this puzzle, as printed for L069; neither crop shows one (B1 shows only the heading 'For the Championship', B7 only the folio 'GAMES DECEMBER 1982 59'). Is such a box printed with this puzzle?",
+    "code": "ai-missing",
+    "stage": "",
+    "detail": "Claude (AI proof reviewer, claude-opus-5-5); suggest: check the page; capture the box as a line if printed",
+    "row": "line:B1",
+    "sub": "part-missing"
+   }
+  ],
+  "lacks": [
+   "no-key",
+   "unsolved-squares",
+   "part-missing"
+  ]
+ },
+ "printed": [
+  {
+   "label": "other",
+   "text": "Marking and scoring the tournament crosswords was an all-day task for 25 judges."
+  },
+  {
+   "label": "other",
+   "text": "PHOTOGRAPHS BY DAN NELKEN"
+  },
+  {
+   "label": "other",
+   "text": "Champion Stanley Newman, with pencil and winner's smile, poses with John Chervokas, third place (left), Rebecca Kornbluh, second place, and Will Shortz, tournament director."
+  },
+  {
+   "label": "other",
+   "text": "Margaret Farrar, America's preeminent crossword puzzle editor, announces the results."
+  }
+ ],
+ "edition": {
+  "status": "made",
+  "path": "edition/games1982-12-01d.xd",
+  "xd": "Title: For the Championship ★\nAuthor: Merl Reagle\nDate: 1982-12-01\nByline: by Merl Reagle\nSolution: none\nSource: https://archive.org/details/Games-Magazine-December-1982-images/page/n70/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 11 change(s), listed in the review\n\n\n#.........#....\n..........#....\n..........#....\n......#....#...\n....#####......\n......#.......#\n...#..........#\n###.........###\n#..........#...\n#.......#......\n......#####....\n...#....#......\n....#..........\n....#..........\n....#.........#\n\n\nA1. Informal musical ensemble ~ .........\nA10. Behold, Brutus! ~ ....\nA14. Gum guy ~ ..........\nA15. Swedish director Lindgren ~ ....\nA16. Throw tantrums or don't, depending ~ ..........\nA17. Radio tuning: Abbr. ~ ....\nA18. Queen of ___ ~ ......\nA19. Chromosome possibilities ~ ....\nA21. It suited Plato to a T ~ ...\nA22. Labyrinth force ~ ....\nA23. Sorceress: Var. ~ ......\nA25. Head wreath ~ ......\nA28. Links ~ .......\nA30. Goat's nickname? ~ ...\nA31. Words on an album jacket ~ ..........\nA33. Champion rider ~ .........\nA34. Hit squad ~ ..........\nA36. American competitor? ~ ...\nA39. Presidential firsts? ~ .......\nA40. Noisy oil gusher ~ ......\nA42. Kind ~ ......\nA43. Mouthpiece socket on a clarinet ~ ....\nA44. Mount near ancient Troy ~ ...\nA45. Uncommon bills ~ ....\nA48. Beckett's ___ Dies ~ ......\nA50. Part of Caesar's boast ~ ....\nA52. Rink revue ~ ..........\nA54. Singly ~ ....\nA55. Armchair quarterbacks ~ ..........\nA56. Plaintiff ~ ....\nA57. That singing feeling ~ .........\n\nD1. Colorful Hopi Indian doll ~ .......\nD2. From the halls of Montezuma ~ .......\nD3. Traveled by SST ~ ......\nD4. Charlie's wife ~ ....\nD5. ___-doke ~ ....\nD6. Some N.Y.U. grads ~ ...\nD7. Subject of a Sophoclean tragedy ~ ....\nD8. Canceled, as a space flight ~ ....\nD9. Oscar-winning picture, 1979 (with \"The\") ~ ..........\nD10. Arctic assistant ~ ...\nD11. Semi total? ~ .......\nD12. Dreams up ~ .......\nD13. Ending with humor ~ .....\nD14. Penguin's nemesis ~ ......\nD20. Answer wanted by the DA ~ .......\nD24. Actress Jurado ~ ....\nD26. Beautifully simple ~ .......\nD27. Circulate among ~ ..........\nD28. Mail-order magnate ~ .....\nD29. Jack-in-the-pulpit ~ ....\nD32. Poor, with \"in\" ~ ....\nD33. Contemporary of Sophia ~ ....\nD34. Lester Pearson's successor ~ .......\nD35. Language of love ~ .......\nD36. Vacuum tubes ~ .......\nD37. Klemperer and Erhard ~ .......\nD38. He played The Thing, 1951 ~ ......\nD41. Like 1871 Chicago ~ ......\nD42. Places of busyness ~ .....\nD46. Turkish weight ~ ....\nD47. Transude ~ ....\nD48. Husband, in Cherbourg ~ ....\nD49. Neat as ___ ~ ....\nD51. German pronoun ~ ...\nD53. Friday, on TV, for example ~ ...\n\n\nPrinted with puzzle:\nMarking and scoring the tournament crosswords was an all-day task for 25 judges.\nPHOTOGRAPHS BY DAN NELKEN\nChampion Stanley Newman, with pencil and winner's smile, poses with John Chervokas, third place (left), Rebecca Kornbluh, second place, and Will Shortz, tournament director.\nMargaret Farrar, America's preeminent crossword puzzle editor, announces the results.\n\nAssembly flags:\nno key found in this issue\n\nOCR review flags:\nA18: blank-from-image\nA48: blank-from-image\nD5: blank-from-image\nD41: number-corrected:42\nD42: number-missing\nD49: blank-from-image\n\nText step, unsure:\nL7: the D49 crop shows 'Answer Drawer, page 80' above the clues, not captured as a line; and the tournament time-limit box printed for this puzzle (as for L069) was not captured\n",
+  "xd_fp": "53156017448b",
+  "sha256": "6f3f8d0306123f4ec9c8192e4abec30facd410191b1035906a40b2de036247dc",
+  "held": [],
+  "corrections": [],
+  "declined": [],
+  "notes": [],
+  "kinds": [],
+  "notes_from": "no Notes rule recorded: the default (intro, instructions)"
+ }
+}

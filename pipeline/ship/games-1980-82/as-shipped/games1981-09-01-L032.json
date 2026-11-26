@@ -1,0 +1,104 @@
+{
+ "_about": "blitz ship: the xd exactly as `blitz ship --write` writes it for this puzzle, with the record of every edit behind it (design/ship.md, \"The xd as it will ship\"). Made with the batch's ship record; stale when the record is made again.",
+ "pid": "games1981-09-01-L032",
+ "xdid": "games1981-09-01",
+ "batch": "games-1980-82",
+ "run": "run1-handsoff",
+ "at": "2026-11-26T03:31:39+00:00",
+ "status": "shipped",
+ "xd": "Title: Vicious Circle\nAuthor: William Lutwiniak\nDate: 1981-09-01\nByline: by William Lutwiniak\nSolution: matched\nSolution-Source: https://archive.org/details/games-25-1981-september/page/n75/mode/2up\nSource: https://archive.org/details/Games-Magazine-September-October-1981-images/page/n32/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 5 change(s), listed in the review\n\n\nACHE#PILOT#PORT\nSOON#ANEAR#ARIA\nSPEAKSFORITSELF\nTERMITES#BASSET\n###ONER#DUPE###\nSWARDS#WATERMAN\nPORES#LATER#ALE\nARID#VEXES#PROW\nDRS#MOVED#DRIFT\nEYESORES#WRESTS\n###TOTE#THAN###\nASPIRE#GRIMACED\nSELFEXPLANATORY\nPEAL#ERODE#ALIE\nSKYE#SOWED#LENS\n\n\nA1. Sore spot ~ ACHE\nA5. Jet flyer ~ PILOT\nA10. Left, nautically ~ PORT\nA14. Very shortly ~ SOON\nA15. Keep ___ to the ground: 2 wds. ~ ANEAR\nA16. Opera solo ~ ARIA\nA17. Is 52-Across: 3 wds. ~ SPEAKSFORITSELF\nA20. Wood-eating insects ~ TERMITES\nA21. Short-legged hound ~ BASSET\nA22. Unique person ~ ONER\nA23. Put one over on ~ DUPE\nA24. Grassy plots ~ SWARDS\nA27. Boat operator ~ WATERMAN\nA31. Skin openings ~ PORES\nA32. Sooner or ___ ~ LATER\nA33. Pub beverage ~ ALE\nA34. Desertlike ~ ARID\nA35. Irks ~ VEXES\nA36. Ship's bow ~ PROW\nA37. Kildare and Welby: Abbr. ~ DRS\nA38. Found a new home ~ MOVED\nA39. Tenor ~ DRIFT\nA40. Ugly things ~ EYESORES\nA42. Gains with difficulty ~ WRESTS\nA43. Carryall bag ~ TOTE\nA44. \"Better late ___ never\" ~ THAN\nA45. Have ambitions ~ ASPIRE\nA48. Made a face ~ GRIMACED\nA52. Like 17-Across ~ SELFEXPLANATORY\nA54. Ring out ~ PEAL\nA55. Wear away ~ ERODE\nA56. \"I cannot tell ___\": 2 wds. ~ ALIE\nA57. Short-legged terrier ~ SKYE\nA58. Dispersed seeds ~ SOWED\nA59. Camera glass ~ LENS\n\nD1. Helper: Abbr. ~ ASST\nD2. Don't Bother Me, I Can't ___ ~ COPE\nD3. Garden weeder ~ HOER\nD4. Infatuated ~ ENAMORED\nD5. Glues ~ PASTES\nD6. Draw a conclusion ~ INFER\nD7. Those born under the Lion ~ LEOS\nD8. Rowing tool ~ OAR\nD9. Gifts of respect ~ TRIBUTES\nD10. Football thrower ~ PASSER\nD11. Smelter inputs ~ ORES\nD12. Irritate ~ RILE\nD13. Teddy Roosevelt's successor ~ TAFT\nD18. Sorts ~ KINDS\nD19. Narrow gradually ~ TAPER\nD23. Saw socially ~ DATED\nD24. Sleuth Sam ___ ~ SPADE\nD25. \"What, me ___?\" ~ WORRY\nD26. Get up ~ ARISE\nD27. Polishes the floor ~ WAXES\nD28. Yankee great Roger ~ MARIS\nD29. Airborne ~ ALOFT\nD30. Salamanders ~ NEWTS\nD32. River embankment ~ LEVEE\nD35. Whirlpools ~ VORTEXES\nD36. Before birth ~ PRENATAL\nD38. Connery's successor as 007 ~ MOORE\nD39. Theatrical work ~ DRAMA\nD41. Smother ~ STIFLE\nD42. Complained childishly ~ WHINED\nD44. Swap ~ TRADE\nD45. Poisonous snakes ~ ASPS\nD46. Hide-and-___ ~ SEEK\nD47. Frolic ~ PLAY\nD48. Incandescence ~ GLOW\nD49. Nat \"King\" ___ ~ COLE\nD50. Ireland, poetically ~ ERIN\nD51. Hair colorings ~ DYES\nD53. Opposite of con ~ PRO\n\n\nAssembly flags:\nkey from the other scan of its page (games-25-1981-september, leaf 75): the chosen scan doesn't read it whole\n\nOCR review flags:\nA15: blank-from-image\nA32: blank-from-image\nA44: blank-from-image\nD2: blank-from-image\nD24: blank-from-image\nD46: blank-from-image\nD49: blank-from-image\n",
+ "xd_fp": "ea0a75a7b852",
+ "packet": "games-8082/proof/run1-handsoff/games1981-09-01-L032",
+ "packet_xd": "2cf7d1621597",
+ "decision": {
+  "rule": "ai",
+  "ai_ready": "both",
+  "why": "in xd/ as games1981-09-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+  "said": [
+   {
+    "kind": "check",
+    "answer": "ready",
+    "at": "2026-10-27",
+    "who": "the ship check (xword-ocr shipcheck)"
+   },
+   {
+    "kind": "ai",
+    "answer": "ready",
+    "at": "2026-11-26",
+    "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+   }
+  ]
+ },
+ "edits": {
+  "records": [],
+  "packet": [
+   {
+    "key": "line:B1",
+    "what": "printed line",
+    "before": "Vicious Circle * by William Lutwiniak",
+    "after": "Vicious Circle by William Lutwiniak",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the star after the title is GAMES's difficulty rating (one star), not part of the title; title and byline printed on two lines"
+   },
+   {
+    "key": "clue:A56",
+    "what": "clue",
+    "before": "\"I cannot tell",
+    "after": "\"I cannot tell ___\": 2 wds.",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the clue's second line (blank, closing quote, '2 wds.') was dropped"
+   },
+   {
+    "key": "clue:D25",
+    "what": "clue",
+    "before": "\"What, me",
+    "after": "\"What, me ___?\"",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the clue's second line (blank, question mark, closing quote) was dropped"
+   },
+   {
+    "key": "clue:D46",
+    "what": "clue",
+    "before": "Hide-and- ___",
+    "after": "Hide-and-___",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: no space before the blank as printed"
+   }
+  ]
+ },
+ "corrections": [],
+ "notes": [],
+ "proposals": [],
+ "typed": [],
+ "grade": {
+  "grade": "reviewed",
+  "why": "1 flag(s) raised by the checks, settled by Claude (AI proof reviewer, claude-opus-5-5) (2026-11-26)",
+  "flags": 1,
+  "settled": {
+   "by": "Claude (AI proof reviewer, claude-opus-5-5)",
+   "kind": "ai",
+   "at": "2026-11-26"
+  },
+  "doubts": [],
+  "gaps": [],
+  "lacks": []
+ },
+ "printed": [],
+ "edition": {
+  "status": "made",
+  "path": "edition/games1981-09-01.xd",
+  "xd": "Title: Vicious Circle\nAuthor: William Lutwiniak\nDate: 1981-09-01\nByline: by William Lutwiniak\nSolution: matched\nSolution-Source: https://archive.org/details/games-25-1981-september/page/n75/mode/2up\nSource: https://archive.org/details/Games-Magazine-September-October-1981-images/page/n32/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 5 change(s), listed in the review\n\n\nACHE#PILOT#PORT\nSOON#ANEAR#ARIA\nSPEAKSFORITSELF\nTERMITES#BASSET\n###ONER#DUPE###\nSWARDS#WATERMAN\nPORES#LATER#ALE\nARID#VEXES#PROW\nDRS#MOVED#DRIFT\nEYESORES#WRESTS\n###TOTE#THAN###\nASPIRE#GRIMACED\nSELFEXPLANATORY\nPEAL#ERODE#ALIE\nSKYE#SOWED#LENS\n\n\nA1. Sore spot ~ ACHE\nA5. Jet flyer ~ PILOT\nA10. Left, nautically ~ PORT\nA14. Very shortly ~ SOON\nA15. Keep ___ to the ground: 2 wds. ~ ANEAR\nA16. Opera solo ~ ARIA\nA17. Is 52-Across: 3 wds. ~ SPEAKSFORITSELF\nA20. Wood-eating insects ~ TERMITES\nA21. Short-legged hound ~ BASSET\nA22. Unique person ~ ONER\nA23. Put one over on ~ DUPE\nA24. Grassy plots ~ SWARDS\nA27. Boat operator ~ WATERMAN\nA31. Skin openings ~ PORES\nA32. Sooner or ___ ~ LATER\nA33. Pub beverage ~ ALE\nA34. Desertlike ~ ARID\nA35. Irks ~ VEXES\nA36. Ship's bow ~ PROW\nA37. Kildare and Welby: Abbr. ~ DRS\nA38. Found a new home ~ MOVED\nA39. Tenor ~ DRIFT\nA40. Ugly things ~ EYESORES\nA42. Gains with difficulty ~ WRESTS\nA43. Carryall bag ~ TOTE\nA44. \"Better late ___ never\" ~ THAN\nA45. Have ambitions ~ ASPIRE\nA48. Made a face ~ GRIMACED\nA52. Like 17-Across ~ SELFEXPLANATORY\nA54. Ring out ~ PEAL\nA55. Wear away ~ ERODE\nA56. \"I cannot tell ___\": 2 wds. ~ ALIE\nA57. Short-legged terrier ~ SKYE\nA58. Dispersed seeds ~ SOWED\nA59. Camera glass ~ LENS\n\nD1. Helper: Abbr. ~ ASST\nD2. Don't Bother Me, I Can't ___ ~ COPE\nD3. Garden weeder ~ HOER\nD4. Infatuated ~ ENAMORED\nD5. Glues ~ PASTES\nD6. Draw a conclusion ~ INFER\nD7. Those born under the Lion ~ LEOS\nD8. Rowing tool ~ OAR\nD9. Gifts of respect ~ TRIBUTES\nD10. Football thrower ~ PASSER\nD11. Smelter inputs ~ ORES\nD12. Irritate ~ RILE\nD13. Teddy Roosevelt's successor ~ TAFT\nD18. Sorts ~ KINDS\nD19. Narrow gradually ~ TAPER\nD23. Saw socially ~ DATED\nD24. Sleuth Sam ___ ~ SPADE\nD25. \"What, me ___?\" ~ WORRY\nD26. Get up ~ ARISE\nD27. Polishes the floor ~ WAXES\nD28. Yankee great Roger ~ MARIS\nD29. Airborne ~ ALOFT\nD30. Salamanders ~ NEWTS\nD32. River embankment ~ LEVEE\nD35. Whirlpools ~ VORTEXES\nD36. Before birth ~ PRENATAL\nD38. Connery's successor as 007 ~ MOORE\nD39. Theatrical work ~ DRAMA\nD41. Smother ~ STIFLE\nD42. Complained childishly ~ WHINED\nD44. Swap ~ TRADE\nD45. Poisonous snakes ~ ASPS\nD46. Hide-and-___ ~ SEEK\nD47. Frolic ~ PLAY\nD48. Incandescence ~ GLOW\nD49. Nat \"King\" ___ ~ COLE\nD50. Ireland, poetically ~ ERIN\nD51. Hair colorings ~ DYES\nD53. Opposite of con ~ PRO\n\n\nAssembly flags:\nkey from the other scan of its page (games-25-1981-september, leaf 75): the chosen scan doesn't read it whole\n\nOCR review flags:\nA15: blank-from-image\nA32: blank-from-image\nA44: blank-from-image\nD2: blank-from-image\nD24: blank-from-image\nD46: blank-from-image\nD49: blank-from-image\n",
+  "xd_fp": "ea0a75a7b852",
+  "sha256": "9aa2923c240ceb1afa5084f5b14d44a1f10b2e931e0a9e081313916df07db4e9",
+  "held": [],
+  "corrections": [],
+  "declined": [],
+  "notes": [],
+  "kinds": [],
+  "notes_from": "no Notes rule recorded: the default (intro, instructions)"
+ }
+}

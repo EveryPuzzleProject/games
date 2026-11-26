@@ -1,0 +1,104 @@
+{
+ "_about": "blitz ship: the xd exactly as `blitz ship --write` writes it for this puzzle, with the record of every edit behind it (design/ship.md, \"The xd as it will ship\"). Made with the batch's ship record; stale when the record is made again.",
+ "pid": "games1980-01-01-L028",
+ "xdid": "games1980-01-01b",
+ "batch": "games-1980-82",
+ "run": "run1-handsoff",
+ "at": "2026-11-26T03:31:39+00:00",
+ "status": "shipped",
+ "xd": "Title: The Top of the Crop\nAuthor: Jack Luzzatto\nDate: 1980-01-01\nByline: by Jack Luzzatto\nSolution: matched\nSolution-Source: https://archive.org/details/games-15-1980-january/page/n63/mode/2up\nSource: https://archive.org/details/games-15-1980-january/page/n28/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 5 change(s), listed in the review\n\n\n##ROPED#BLASTS#\n#DENUDE#EARLIER\nBEAUTIFULPEOPLE\nARCS#TOPI#APPLE\nKIT#SEEPED#SLED\nEVENED#EVIL#ERS\nSEDAN#PREMIERS#\n###INSOCIETY###\n#MALAPERT#TEARS\nLOD#SITU#REDSEA\nELMS#NASSER#SIT\nADIOS#STEP#LUNA\nPERFECTSPECIMEN\nTRAINEE#INURED#\n#SLATER#ATTAR##\n\n\nA1. Lassoed a critter ~ ROPED\nA6. Uses dynamite ~ BLASTS\nA12. Strip bare ~ DENUDE\nA13. Sooner ~ EARLIER\nA15. They \"star\" at Studio 54: 2 wds. ~ BEAUTIFULPEOPLE\nA17. Circle parts ~ ARCS\nA18. Pith helmet ~ TOPI\nA19. Old temptation ~ APPLE\nA20. Caboodle's partner ~ KIT\nA21. Trickled ~ SEEPED\nA23. Toboggan ~ SLED\nA24. Smoothed ~ EVENED\nA26. Malicious ~ EVIL\nA28. Hesitant sounds ~ ERS\nA29. Detroit product ~ SEDAN\nA30. Kosygin, et al. ~ PREMIERS\nA32. Where debs are, after the ball: 2 wds. ~ INSOCIETY\nA34. Bold and saucy, old style ~ MALAPERT\nA36. Salty \"drops\" ~ TEARS\nA40. Tel Aviv airport ~ LOD\nA41. In ___ (in the original position) ~ SITU\nA42. Site of Moses' miracle: 2 wds. ~ REDSEA\nA43. Trees of \"desire\" ~ ELMS\nA45. Former Egyptian chief ~ NASSER\nA47. Use a park bench ~ SIT\nA48. Good-bye, Juan ~ ADIOS\nA50. Watch your ___! ~ STEP\nA51. The moon ~ LUNA\nA52. Mr. Universe, e.g.: 2 wds. ~ PERFECTSPECIMEN\nA55. Apprentice ~ TRAINEE\nA56. Toughened ~ INURED\nA57. Certain roofer ~ SLATER\nA58. Bottled roses ~ ATTAR\n\nD1. Responded ~ REACTED\nD2. Blame ~ ONUS\nD3. ___ off (delay) ~ PUT\nD4. Corrected copy ~ EDITED\nD5. Friday's creator ~ DEFOE\nD6. Ripley's \"___ or Not\": 2 wds. ~ BELIEVEIT\nD7. Soft sound of waves ~ LAP\nD8. District ~ AREA\nD9. Smorgasbord for swine ~ SLOPS\nD10. Dipsomaniac ~ TIPPLER\nD11. The Pink Panther star ~ SELLERS\nD12. Obtain (from) ~ DERIVE\nD14. Rex and Donna ~ REEDS\nD15. Makes brownies ~ BAKES\nD16. They top the social heap: 2 wds. ~ UPPERCRUSTS\nD21. Medicinal herbs ~ SENNAS\nD22. Pre-inflation dance price ~ DIME\nD25. Hammer's target ~ NAIL\nD27. Strew garbage ~ LITTER\nD30. Mediocre rhymester ~ POETASTER\nD31. Looked over ~ EYED\nD33. Make a web ~ SPIN\nD34. Sculptors ~ MOLDERS\nD35. Navy \"brass\" ~ ADMIRAL\nD37. Supposer ~ ASSUMER\nD38. ___ in (stopped a horse) ~ REINED\nD39. Old tempter ~ SATAN\nD40. Bounded, like Baryshnikov ~ LEAPT\nD42. Regret ~ REPENT\nD44. Bulgarian capital ~ SOFIA\nD46. Old photo color ~ SEPIA\nD49. Mailed ~ SENT\nD51. Italian coin ~ LIRA\nD53. Passing grade ~ CEE\nD54. Stop the action! ~ CUT\n\n\nOCR review flags:\nA41: blank-from-image\nA50: blank-from-image\nD3: blank-from-image\nD6: blank-from-image\nD38: blank-from-image\n",
+ "xd_fp": "fd34b0d172fa",
+ "packet": "games-8082/proof/run1-handsoff/games1980-01-01-L028",
+ "packet_xd": "c880f985e788",
+ "decision": {
+  "rule": "ai",
+  "ai_ready": "both",
+  "why": "in xd/ as games1980-01-01b: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+  "said": [
+   {
+    "kind": "check",
+    "answer": "ready",
+    "at": "2026-10-27",
+    "who": "the ship check (xword-ocr shipcheck)"
+   },
+   {
+    "kind": "ai",
+    "answer": "ready",
+    "at": "2026-11-26",
+    "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+   }
+  ]
+ },
+ "edits": {
+  "records": [],
+  "packet": [
+   {
+    "key": "line:B1",
+    "what": "printed line",
+    "before": "The Top of the Crop **",
+    "after": "The Top of the Crop",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the two stars after the title are GAMES's difficulty rating, not part of the title"
+   },
+   {
+    "key": "clue:A50",
+    "what": "clue",
+    "before": "Watch your ___",
+    "after": "Watch your ___!",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: OCR dropped the exclamation mark"
+   },
+   {
+    "key": "clue:D6",
+    "what": "clue",
+    "before": "Ripley's \" ___ or Not\": 2wds.",
+    "after": "Ripley's \"___ or Not\": 2 wds.",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: spacing: a space before the blank was read inside the quote and '2wds.' run together"
+   },
+   {
+    "key": "clue:D46",
+    "what": "clue",
+    "before": "Oid photo color",
+    "after": "Old photo color",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: OCR slip: Oid for Old"
+   }
+  ]
+ },
+ "corrections": [],
+ "notes": [],
+ "proposals": [],
+ "typed": [],
+ "grade": {
+  "grade": "clean",
+  "why": "the ship check passed and nothing was flagged",
+  "flags": 0,
+  "settled": {
+   "by": "Claude (AI proof reviewer, claude-opus-5-5)",
+   "kind": "ai",
+   "at": "2026-11-26"
+  },
+  "doubts": [],
+  "gaps": [],
+  "lacks": []
+ },
+ "printed": [],
+ "edition": {
+  "status": "made",
+  "path": "edition/games1980-01-01b.xd",
+  "xd": "Title: The Top of the Crop\nAuthor: Jack Luzzatto\nDate: 1980-01-01\nByline: by Jack Luzzatto\nSolution: matched\nSolution-Source: https://archive.org/details/games-15-1980-january/page/n63/mode/2up\nSource: https://archive.org/details/games-15-1980-january/page/n28/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 5 change(s), listed in the review\n\n\n##ROPED#BLASTS#\n#DENUDE#EARLIER\nBEAUTIFULPEOPLE\nARCS#TOPI#APPLE\nKIT#SEEPED#SLED\nEVENED#EVIL#ERS\nSEDAN#PREMIERS#\n###INSOCIETY###\n#MALAPERT#TEARS\nLOD#SITU#REDSEA\nELMS#NASSER#SIT\nADIOS#STEP#LUNA\nPERFECTSPECIMEN\nTRAINEE#INURED#\n#SLATER#ATTAR##\n\n\nA1. Lassoed a critter ~ ROPED\nA6. Uses dynamite ~ BLASTS\nA12. Strip bare ~ DENUDE\nA13. Sooner ~ EARLIER\nA15. They \"star\" at Studio 54: 2 wds. ~ BEAUTIFULPEOPLE\nA17. Circle parts ~ ARCS\nA18. Pith helmet ~ TOPI\nA19. Old temptation ~ APPLE\nA20. Caboodle's partner ~ KIT\nA21. Trickled ~ SEEPED\nA23. Toboggan ~ SLED\nA24. Smoothed ~ EVENED\nA26. Malicious ~ EVIL\nA28. Hesitant sounds ~ ERS\nA29. Detroit product ~ SEDAN\nA30. Kosygin, et al. ~ PREMIERS\nA32. Where debs are, after the ball: 2 wds. ~ INSOCIETY\nA34. Bold and saucy, old style ~ MALAPERT\nA36. Salty \"drops\" ~ TEARS\nA40. Tel Aviv airport ~ LOD\nA41. In ___ (in the original position) ~ SITU\nA42. Site of Moses' miracle: 2 wds. ~ REDSEA\nA43. Trees of \"desire\" ~ ELMS\nA45. Former Egyptian chief ~ NASSER\nA47. Use a park bench ~ SIT\nA48. Good-bye, Juan ~ ADIOS\nA50. Watch your ___! ~ STEP\nA51. The moon ~ LUNA\nA52. Mr. Universe, e.g.: 2 wds. ~ PERFECTSPECIMEN\nA55. Apprentice ~ TRAINEE\nA56. Toughened ~ INURED\nA57. Certain roofer ~ SLATER\nA58. Bottled roses ~ ATTAR\n\nD1. Responded ~ REACTED\nD2. Blame ~ ONUS\nD3. ___ off (delay) ~ PUT\nD4. Corrected copy ~ EDITED\nD5. Friday's creator ~ DEFOE\nD6. Ripley's \"___ or Not\": 2 wds. ~ BELIEVEIT\nD7. Soft sound of waves ~ LAP\nD8. District ~ AREA\nD9. Smorgasbord for swine ~ SLOPS\nD10. Dipsomaniac ~ TIPPLER\nD11. The Pink Panther star ~ SELLERS\nD12. Obtain (from) ~ DERIVE\nD14. Rex and Donna ~ REEDS\nD15. Makes brownies ~ BAKES\nD16. They top the social heap: 2 wds. ~ UPPERCRUSTS\nD21. Medicinal herbs ~ SENNAS\nD22. Pre-inflation dance price ~ DIME\nD25. Hammer's target ~ NAIL\nD27. Strew garbage ~ LITTER\nD30. Mediocre rhymester ~ POETASTER\nD31. Looked over ~ EYED\nD33. Make a web ~ SPIN\nD34. Sculptors ~ MOLDERS\nD35. Navy \"brass\" ~ ADMIRAL\nD37. Supposer ~ ASSUMER\nD38. ___ in (stopped a horse) ~ REINED\nD39. Old tempter ~ SATAN\nD40. Bounded, like Baryshnikov ~ LEAPT\nD42. Regret ~ REPENT\nD44. Bulgarian capital ~ SOFIA\nD46. Old photo color ~ SEPIA\nD49. Mailed ~ SENT\nD51. Italian coin ~ LIRA\nD53. Passing grade ~ CEE\nD54. Stop the action! ~ CUT\n\n\nOCR review flags:\nA41: blank-from-image\nA50: blank-from-image\nD3: blank-from-image\nD6: blank-from-image\nD38: blank-from-image\n",
+  "xd_fp": "fd34b0d172fa",
+  "sha256": "5c5f03316518e4cac1fc64fee2b5bee756e44851fd8646ee4c8aebff9b479af0",
+  "held": [],
+  "corrections": [],
+  "declined": [],
+  "notes": [],
+  "kinds": [],
+  "notes_from": "no Notes rule recorded: the default (intro, instructions)"
+ }
+}

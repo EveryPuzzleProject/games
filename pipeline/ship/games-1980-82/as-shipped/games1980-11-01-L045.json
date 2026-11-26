@@ -1,0 +1,104 @@
+{
+ "_about": "blitz ship: the xd exactly as `blitz ship --write` writes it for this puzzle, with the record of every edit behind it (design/ship.md, \"The xd as it will ship\"). Made with the batch's ship record; stale when the record is made again.",
+ "pid": "games1980-11-01-L045",
+ "xdid": "games1980-11-01c",
+ "batch": "games-1980-82",
+ "run": "run1-handsoff",
+ "at": "2026-11-26T03:31:39+00:00",
+ "status": "shipped",
+ "xd": "Title: Over the Rainbow **\nAuthor: Grace Fabbroni\nDate: 1980-11-01\nByline: by Grace Fabbroni\nSolution: matched\nSolution-Source: https://archive.org/details/Games-Magazine-November-December-1980-images/page/n104/mode/2up\nSource: https://archive.org/details/Games-Magazine-November-December-1980-images/page/n45/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 4 change(s), listed in the review\n\n\nSLOB#SCANS#SURF\nGOAL#PENAL#ESAU\nTUTU#ELITE#SACS\n#THEYELLOWPAGES\n###CADS###EMERY\n#ROOM##STERE###\nTUBA#AFIELD#IDA\nWHITEMANSBURDEN\nORT#DELETE#EENY\n###LIRAS##DDAY#\nOPTIC###LAIC###\nGREATBLUEHERON#\nLOAN#RENTE#OVEN\nESSA#ANIMA#SAME\nSEES#DATED#SLOT\n\n\nA1. Litterbug, e.g. ~ SLOB\nA5. Reads quickly ~ SCANS\nA10. White water ~ SURF\nA14. Point for a Black Hawk ~ GOAL\nA15. Of punishment ~ PENAL\nA16. Isaac's son ~ ESAU\nA17. Swan Lake wear ~ TUTU\nA18. Blue-blooded ~ ELITE\nA19. Pouchlike parts ~ SACS\nA20. Telephone book section: 3 wds. ~ THEYELLOWPAGES\nA23. Blackguards ~ CADS\nA24. Gray mineral ~ EMERY\nA25. \"We'll have a blue ___ . . .\" ~ ROOM\nA27. Cubic meter ~ STERE\nA30. Brass instrument ~ TUBA\nA31. Off the track ~ AFIELD\nA33. Ms. Lupino ~ IDA\nA36. Kipling poem, with \"The\": 3 wds. ~ WHITEMANSBURDEN\nA39. Table scrap ~ ORT\nA40. Use a blue pencil ~ DELETE\nA41. ___, meeny . . . ~ EENY\nA42. Coins for Trevi Fountain ~ LIRAS\nA43. June 6, 1944 ~ DDAY\nA44. Of the eye ~ OPTIC\nA47. Secular ~ LAIC\nA49. Big bird: 3 wds. ~ GREATBLUEHERON\nA55. Mortgage ~ LOAN\nA56. Pierre's profit ~ RENTE\nA57. Where cookies cook ~ OVEN\nA59. She, in Siena ~ ESSA\nA60. Soul ~ ANIMA\nA61. Likewise ~ SAME\nA62. Uses one's \"baby blues\" ~ SEES\nA63. Went out with ~ DATED\nA64. Piggy bank hole ~ SLOT\n\nD1. N.C.O. ~ SGT\nD2. Oaf ~ LOUT\nD3. \"I do,\" e.g. ~ OATH\nD4. Policeman ~ BLUECOAT\nD5. Gazelle's gift ~ SPEED\nD6. Poirot's \"little grey ___\" ~ CELLS\nD7. Blue dye ~ ANIL\nD8. Western alliance: Abbr. ~ NATO\nD9. Killed ~ SLEW\nD10. TV \"Street\" ~ SESAME\nD11. Custom ~ USAGE\nD12. Indy 500 entrant ~ RACER\nD13. Picky ~ FUSSY\nD21. Orange vegetable ~ YAM\nD22. Concealed ~ PERDU\nD25. German valley ~ RUHR\nD26. Black-bordered news item ~ OBIT\nD27. Math ratios ~ SINES\nD28. Blue book event ~ TEST\nD29. Czech river ~ ELBE\nD30. Duo ~ TWO\nD31. U.S.A. ~ AMER\nD32. Roosevelt's dog ~ FALA\nD33. Brainstorm ~ IDEA\nD34. Say no ~ DENY\nD35. Some ~ ANY\nD37. Decree ~ EDICT\nD38. Clara Barton's \"baby\": 2 wds. ~ REDCROSS\nD42. Green vines ~ LIANAS\nD43. Black and white cube ~ DIE\nD44. Gives the eye ~ OGLES\nD45. \"Purple\" writing ~ PROSE\nD46. Torment ~ TEASE\nD47. \"___ Entertain You\": 2 wds. ~ LETME\nD48. In advance ~ AHEAD\nD50. Nail ~ BRAD\nD51. Singer Horne ~ LENA\nD52. One ~ UNIT\nD53. Racetrack shape ~ OVAL\nD54. Verne's Captain ~ NEMO\nD58. Cheesecloth, for instance ~ NET\n\n\nOCR review flags:\nA25: blank-from-image\nA41: blank-from-image\nD6: blank-from-image\nD47: blank-from-image\n",
+ "xd_fp": "c9c8c131c84f",
+ "packet": "games-8082/proof/run1-handsoff/games1980-11-01-L045",
+ "packet_xd": "f9cedd87554a",
+ "decision": {
+  "rule": "ai",
+  "ai_ready": "both",
+  "why": "in xd/ as games1980-11-01c: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+  "said": [
+   {
+    "kind": "check",
+    "answer": "ready",
+    "at": "2026-10-27",
+    "who": "the ship check (xword-ocr shipcheck)"
+   },
+   {
+    "kind": "ai",
+    "answer": "ready",
+    "at": "2026-11-26",
+    "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+   }
+  ]
+ },
+ "edits": {
+  "records": [],
+  "packet": [
+   {
+    "key": "clue:A25",
+    "what": "clue",
+    "before": "\"We'll have a blue ___",
+    "after": "\"We'll have a blue ___ . . .\"",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the ellipsis and closing quote after the blank were dropped"
+   },
+   {
+    "key": "clue:A41",
+    "what": "clue",
+    "before": "___ -, meeny",
+    "after": "___, meeny . . .",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: a stray hyphen read after the blank; the trailing ellipsis was dropped"
+   },
+   {
+    "key": "clue:D6",
+    "what": "clue",
+    "before": "Poirot's \"little grey ___",
+    "after": "Poirot's \"little grey ___\"",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: closing quote dropped"
+   },
+   {
+    "key": "clue:D47",
+    "what": "clue",
+    "before": "___ Entertain You'\": 2 wds.",
+    "after": "\"___ Entertain You\": 2 wds.",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: opening quote dropped and a stray apostrophe read before the closing quote"
+   }
+  ]
+ },
+ "corrections": [],
+ "notes": [],
+ "proposals": [],
+ "typed": [],
+ "grade": {
+  "grade": "clean",
+  "why": "the ship check passed and nothing was flagged",
+  "flags": 0,
+  "settled": {
+   "by": "Claude (AI proof reviewer, claude-opus-5-5)",
+   "kind": "ai",
+   "at": "2026-11-26"
+  },
+  "doubts": [],
+  "gaps": [],
+  "lacks": []
+ },
+ "printed": [],
+ "edition": {
+  "status": "made",
+  "path": "edition/games1980-11-01c.xd",
+  "xd": "Title: Over the Rainbow **\nAuthor: Grace Fabbroni\nDate: 1980-11-01\nByline: by Grace Fabbroni\nSolution: matched\nSolution-Source: https://archive.org/details/Games-Magazine-November-December-1980-images/page/n104/mode/2up\nSource: https://archive.org/details/Games-Magazine-November-December-1980-images/page/n45/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 4 change(s), listed in the review\n\n\nSLOB#SCANS#SURF\nGOAL#PENAL#ESAU\nTUTU#ELITE#SACS\n#THEYELLOWPAGES\n###CADS###EMERY\n#ROOM##STERE###\nTUBA#AFIELD#IDA\nWHITEMANSBURDEN\nORT#DELETE#EENY\n###LIRAS##DDAY#\nOPTIC###LAIC###\nGREATBLUEHERON#\nLOAN#RENTE#OVEN\nESSA#ANIMA#SAME\nSEES#DATED#SLOT\n\n\nA1. Litterbug, e.g. ~ SLOB\nA5. Reads quickly ~ SCANS\nA10. White water ~ SURF\nA14. Point for a Black Hawk ~ GOAL\nA15. Of punishment ~ PENAL\nA16. Isaac's son ~ ESAU\nA17. Swan Lake wear ~ TUTU\nA18. Blue-blooded ~ ELITE\nA19. Pouchlike parts ~ SACS\nA20. Telephone book section: 3 wds. ~ THEYELLOWPAGES\nA23. Blackguards ~ CADS\nA24. Gray mineral ~ EMERY\nA25. \"We'll have a blue ___ . . .\" ~ ROOM\nA27. Cubic meter ~ STERE\nA30. Brass instrument ~ TUBA\nA31. Off the track ~ AFIELD\nA33. Ms. Lupino ~ IDA\nA36. Kipling poem, with \"The\": 3 wds. ~ WHITEMANSBURDEN\nA39. Table scrap ~ ORT\nA40. Use a blue pencil ~ DELETE\nA41. ___, meeny . . . ~ EENY\nA42. Coins for Trevi Fountain ~ LIRAS\nA43. June 6, 1944 ~ DDAY\nA44. Of the eye ~ OPTIC\nA47. Secular ~ LAIC\nA49. Big bird: 3 wds. ~ GREATBLUEHERON\nA55. Mortgage ~ LOAN\nA56. Pierre's profit ~ RENTE\nA57. Where cookies cook ~ OVEN\nA59. She, in Siena ~ ESSA\nA60. Soul ~ ANIMA\nA61. Likewise ~ SAME\nA62. Uses one's \"baby blues\" ~ SEES\nA63. Went out with ~ DATED\nA64. Piggy bank hole ~ SLOT\n\nD1. N.C.O. ~ SGT\nD2. Oaf ~ LOUT\nD3. \"I do,\" e.g. ~ OATH\nD4. Policeman ~ BLUECOAT\nD5. Gazelle's gift ~ SPEED\nD6. Poirot's \"little grey ___\" ~ CELLS\nD7. Blue dye ~ ANIL\nD8. Western alliance: Abbr. ~ NATO\nD9. Killed ~ SLEW\nD10. TV \"Street\" ~ SESAME\nD11. Custom ~ USAGE\nD12. Indy 500 entrant ~ RACER\nD13. Picky ~ FUSSY\nD21. Orange vegetable ~ YAM\nD22. Concealed ~ PERDU\nD25. German valley ~ RUHR\nD26. Black-bordered news item ~ OBIT\nD27. Math ratios ~ SINES\nD28. Blue book event ~ TEST\nD29. Czech river ~ ELBE\nD30. Duo ~ TWO\nD31. U.S.A. ~ AMER\nD32. Roosevelt's dog ~ FALA\nD33. Brainstorm ~ IDEA\nD34. Say no ~ DENY\nD35. Some ~ ANY\nD37. Decree ~ EDICT\nD38. Clara Barton's \"baby\": 2 wds. ~ REDCROSS\nD42. Green vines ~ LIANAS\nD43. Black and white cube ~ DIE\nD44. Gives the eye ~ OGLES\nD45. \"Purple\" writing ~ PROSE\nD46. Torment ~ TEASE\nD47. \"___ Entertain You\": 2 wds. ~ LETME\nD48. In advance ~ AHEAD\nD50. Nail ~ BRAD\nD51. Singer Horne ~ LENA\nD52. One ~ UNIT\nD53. Racetrack shape ~ OVAL\nD54. Verne's Captain ~ NEMO\nD58. Cheesecloth, for instance ~ NET\n\n\nOCR review flags:\nA25: blank-from-image\nA41: blank-from-image\nD6: blank-from-image\nD47: blank-from-image\n",
+  "xd_fp": "c9c8c131c84f",
+  "sha256": "3ef862dfbb670cc6b36e45321ef586a5375a185003206edb4a743476c8d4974f",
+  "held": [],
+  "corrections": [],
+  "declined": [],
+  "notes": [],
+  "kinds": [],
+  "notes_from": "no Notes rule recorded: the default (intro, instructions)"
+ }
+}

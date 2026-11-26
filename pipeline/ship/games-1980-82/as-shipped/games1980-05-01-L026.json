@@ -1,0 +1,86 @@
+{
+ "_about": "blitz ship: the xd exactly as `blitz ship --write` writes it for this puzzle, with the record of every edit behind it (design/ship.md, \"The xd as it will ship\"). Made with the batch's ship record; stale when the record is made again.",
+ "pid": "games1980-05-01-L026",
+ "xdid": "games1980-05-01",
+ "batch": "games-1980-82",
+ "run": "run1-handsoff",
+ "at": "2026-11-26T03:31:39+00:00",
+ "status": "shipped",
+ "xd": "Title: Foreign Accent\nAuthor: William Lutwiniak\nDate: 1980-05-01\nByline: by William Lutwiniak\nSolution: matched\nSolution-Source: https://archive.org/details/Games-Magazine-May-June-1980-images/page/n67/mode/2up\nSource: https://archive.org/details/Games-Magazine-May-June-1980-images/page/n26/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 2 change(s), listed in the review\n\n\nTSAR#SWEDE#CELL\nAPSE#CANAL#AREA\nRUSSIANDRESSING\nARTICLE##VIANDS\n###DIED#MARL###\nTAGEND#DETESTED\nAMONG#DOTED#EAR\nTINT#TILES#DAVE\nAGE#SEVER#CASES\nSOREHEAD#CARESS\n###METS#LARK###\nSTABLE##OCONNOR\nTAKEFRENCHLEAVE\nAMID#EVOKE#STAN\nYENS#DARED#SOLD\n\n\nA1. Bolshevik victim ~ TSAR\nA5. Scandinavian ~ SWEDE\nA10. Prisoner's cubicle ~ CELL\nA14. Church feature ~ APSE\nA15. Panama ___ ~ CANAL\nA16. Side squared, for a square ~ AREA\nA17. Tolstoy's turkey stuffing?: 2 wds. ~ RUSSIANDRESSING\nA20. Magazine item ~ ARTICLE\nA21. Food; victuals ~ VIANDS\nA22. Expired ~ DIED\nA23. Crumbly soil ~ MARL\nA24. Last part: 2 wds. ~ TAGEND\nA27. Hated ~ DETESTED\nA31. Honor ___ thieves ~ AMONG\nA32. Was very fond of ~ DOTED\nA33. Listening device? ~ EAR\nA34. Delicate color ~ TINT\nA35. Scrabble pieces ~ TILES\nA36. TV host Garroway ~ DAVE\nA37. It goes before beauty ~ AGE\nA38. Separate abruptly ~ SEVER\nA39. Judge's workload ~ CASES\nA40. Touchy one ~ SOREHEAD\nA42. Pat lovingly ~ CARESS\nA43. New York team ~ METS\nA44. Merry adventure ~ LARK\nA45. Nativity site ~ STABLE\nA48. Carroll or Donald ~ OCONNOR\nA52. Depart with Dominique?: 3 wds. ~ TAKEFRENCHLEAVE\nA55. In the center of ~ AMID\nA56. Call forth ~ EVOKE\nA57. Musial or Laurel ~ STAN\nA58. Hankerings ~ YENS\nA59. Found the courage ~ DARED\nA60. Real estate sign ~ SOLD\n\nD1. GWTW plantation ~ TARA\nD2. On the ___ of the moment ~ SPUR\nD3. Gal Friday: Abbr. ~ ASST\nD4. Junk mail addressee ~ RESIDENT\nD5. Climbed a mountain ~ SCALED\nD6. Declined in strength ~ WANED\nD7. Finish ~ END\nD8. Patriotic ladies' grp. ~ DAR\nD9. Raises ~ ELEVATES\nD10. Cellist Pablo ~ CASALS\nD11. Happy Days actress Moran ~ ERIN\nD12. Give, for a while ~ LEND\nD13. Falls behind ~ LAGS\nD18. Frosting ~ ICING\nD19. Fathered ~ SIRED\nD23. Parking ___ ~ METER\nD24. Bye-byes ~ TATAS\nD25. Mexican friend ~ AMIGO\nD26. Person beyond help ~ GONER\nD27. Handed out ~ DOLED\nD28. Poke fun at ~ TEASE\nD29. House overhangs ~ EAVES\nD30. Attire ~ DRESS\nD32. Opera singers ~ DIVAS\nD35. Balanced precariously ~ TEETERED\nD36. Gloom ~ DARKNESS\nD38. Place for knickknacks ~ SHELF\nD39. Ms. Burnett ~ CAROL\nD41. Inserts deeply ~ EMBEDS\nD42. Squirreled away ~ CACHED\nD44. English philosopher John ~ LOCKE\nD45. Remain ~ STAY\nD46. Domesticated ~ TAME\nD47. ___ to (related) ~ AKIN\nD49. Western pact: Abbr. ~ NATO\nD50. Facial shape ~ OVAL\nD51. Tear apart ~ REND\nD53. A Gabor ~ EVA\nD54. It goes with \"neither\" ~ NOR\n\n\nOCR review flags:\nA15: blank-from-image\nA31: blank-from-image\nD2: blank-from-image\nD23: blank-from-image\nD47: blank-from-image\n\nText step, unsure:\ntitle: L1 holds the title, a one-star difficulty rating and the byline on two printed lines; the title is the name without the star\n",
+ "xd_fp": "60730d9bcb52",
+ "packet": "games-8082/proof/run1-handsoff/games1980-05-01-L026",
+ "packet_xd": "451dfd396b58",
+ "decision": {
+  "rule": "ai",
+  "ai_ready": "both",
+  "why": "in xd/ as games1980-05-01: the AI proof reviewer's Ready and the ship check passes (ai_ready: both), no Not ready",
+  "said": [
+   {
+    "kind": "check",
+    "answer": "ready",
+    "at": "2026-10-27",
+    "who": "the ship check (xword-ocr shipcheck)"
+   },
+   {
+    "kind": "ai",
+    "answer": "ready",
+    "at": "2026-11-26",
+    "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+   }
+  ]
+ },
+ "edits": {
+  "records": [],
+  "packet": [
+   {
+    "key": "clue:D8",
+    "what": "clue",
+    "before": "Patriotic ladies'grp.",
+    "after": "Patriotic ladies' grp.",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: words run together after the apostrophe"
+   },
+   {
+    "key": "meta:title",
+    "what": "header",
+    "before": "Foreign Accent *",
+    "after": "Foreign Accent",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "The AI reviewer gave this value: given by the text step."
+   }
+  ]
+ },
+ "corrections": [],
+ "notes": [],
+ "proposals": [],
+ "typed": [],
+ "grade": {
+  "grade": "reviewed",
+  "why": "1 flag(s) raised by the checks, settled by Claude (AI proof reviewer, claude-opus-5-5) (2026-11-26)",
+  "flags": 1,
+  "settled": {
+   "by": "Claude (AI proof reviewer, claude-opus-5-5)",
+   "kind": "ai",
+   "at": "2026-11-26"
+  },
+  "doubts": [],
+  "gaps": [],
+  "lacks": []
+ },
+ "printed": [],
+ "edition": {
+  "status": "made",
+  "path": "edition/games1980-05-01.xd",
+  "xd": "Title: Foreign Accent\nAuthor: William Lutwiniak\nDate: 1980-05-01\nByline: by William Lutwiniak\nSolution: matched\nSolution-Source: https://archive.org/details/Games-Magazine-May-June-1980-images/page/n67/mode/2up\nSource: https://archive.org/details/Games-Magazine-May-June-1980-images/page/n26/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nText-Review: AI reviewer (claude-fable-5-1): 2 change(s), listed in the review\n\n\nTSAR#SWEDE#CELL\nAPSE#CANAL#AREA\nRUSSIANDRESSING\nARTICLE##VIANDS\n###DIED#MARL###\nTAGEND#DETESTED\nAMONG#DOTED#EAR\nTINT#TILES#DAVE\nAGE#SEVER#CASES\nSOREHEAD#CARESS\n###METS#LARK###\nSTABLE##OCONNOR\nTAKEFRENCHLEAVE\nAMID#EVOKE#STAN\nYENS#DARED#SOLD\n\n\nA1. Bolshevik victim ~ TSAR\nA5. Scandinavian ~ SWEDE\nA10. Prisoner's cubicle ~ CELL\nA14. Church feature ~ APSE\nA15. Panama ___ ~ CANAL\nA16. Side squared, for a square ~ AREA\nA17. Tolstoy's turkey stuffing?: 2 wds. ~ RUSSIANDRESSING\nA20. Magazine item ~ ARTICLE\nA21. Food; victuals ~ VIANDS\nA22. Expired ~ DIED\nA23. Crumbly soil ~ MARL\nA24. Last part: 2 wds. ~ TAGEND\nA27. Hated ~ DETESTED\nA31. Honor ___ thieves ~ AMONG\nA32. Was very fond of ~ DOTED\nA33. Listening device? ~ EAR\nA34. Delicate color ~ TINT\nA35. Scrabble pieces ~ TILES\nA36. TV host Garroway ~ DAVE\nA37. It goes before beauty ~ AGE\nA38. Separate abruptly ~ SEVER\nA39. Judge's workload ~ CASES\nA40. Touchy one ~ SOREHEAD\nA42. Pat lovingly ~ CARESS\nA43. New York team ~ METS\nA44. Merry adventure ~ LARK\nA45. Nativity site ~ STABLE\nA48. Carroll or Donald ~ OCONNOR\nA52. Depart with Dominique?: 3 wds. ~ TAKEFRENCHLEAVE\nA55. In the center of ~ AMID\nA56. Call forth ~ EVOKE\nA57. Musial or Laurel ~ STAN\nA58. Hankerings ~ YENS\nA59. Found the courage ~ DARED\nA60. Real estate sign ~ SOLD\n\nD1. GWTW plantation ~ TARA\nD2. On the ___ of the moment ~ SPUR\nD3. Gal Friday: Abbr. ~ ASST\nD4. Junk mail addressee ~ RESIDENT\nD5. Climbed a mountain ~ SCALED\nD6. Declined in strength ~ WANED\nD7. Finish ~ END\nD8. Patriotic ladies' grp. ~ DAR\nD9. Raises ~ ELEVATES\nD10. Cellist Pablo ~ CASALS\nD11. Happy Days actress Moran ~ ERIN\nD12. Give, for a while ~ LEND\nD13. Falls behind ~ LAGS\nD18. Frosting ~ ICING\nD19. Fathered ~ SIRED\nD23. Parking ___ ~ METER\nD24. Bye-byes ~ TATAS\nD25. Mexican friend ~ AMIGO\nD26. Person beyond help ~ GONER\nD27. Handed out ~ DOLED\nD28. Poke fun at ~ TEASE\nD29. House overhangs ~ EAVES\nD30. Attire ~ DRESS\nD32. Opera singers ~ DIVAS\nD35. Balanced precariously ~ TEETERED\nD36. Gloom ~ DARKNESS\nD38. Place for knickknacks ~ SHELF\nD39. Ms. Burnett ~ CAROL\nD41. Inserts deeply ~ EMBEDS\nD42. Squirreled away ~ CACHED\nD44. English philosopher John ~ LOCKE\nD45. Remain ~ STAY\nD46. Domesticated ~ TAME\nD47. ___ to (related) ~ AKIN\nD49. Western pact: Abbr. ~ NATO\nD50. Facial shape ~ OVAL\nD51. Tear apart ~ REND\nD53. A Gabor ~ EVA\nD54. It goes with \"neither\" ~ NOR\n\n\nOCR review flags:\nA15: blank-from-image\nA31: blank-from-image\nD2: blank-from-image\nD23: blank-from-image\nD47: blank-from-image\n\nText step, unsure:\ntitle: L1 holds the title, a one-star difficulty rating and the byline on two printed lines; the title is the name without the star\n",
+  "xd_fp": "60730d9bcb52",
+  "sha256": "6800189b42997c57f39ea8421a91f1b3dc078737058eb35df22ad2b0044ba37a",
+  "held": [],
+  "corrections": [],
+  "declined": [],
+  "notes": [],
+  "kinds": [],
+  "notes_from": "no Notes rule recorded: the default (intro, instructions)"
+ }
+}

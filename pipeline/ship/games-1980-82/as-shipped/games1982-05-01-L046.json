@@ -1,0 +1,220 @@
+{
+ "_about": "blitz ship: the xd exactly as `blitz ship --write` writes it for this puzzle, with the record of every edit behind it (design/ship.md, \"The xd as it will ship\"). Made with the batch's ship record; stale when the record is made again.",
+ "pid": "games1982-05-01-L046",
+ "xdid": "games1982-05-01e",
+ "batch": "games-1980-82",
+ "run": "run1-handsoff",
+ "at": "2026-11-26T03:31:39+00:00",
+ "status": "shipped",
+ "xd": "Date: 1982-05-01\nSolution: none\nSource: https://archive.org/details/Games-Magazine-May-June-1982-images/page/n46/mode/2up\nClue-Source: https://archive.org/details/Games-Magazine-May-June-1982-images/page/n46/mode/2up https://archive.org/details/Games-Magazine-May-June-1982-images/page/n80/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nFeature: Cryptic Warm-Up Puzzle\nText-Review: AI reviewer (claude-fable-5-1): 9 change(s), listed in the review\n\n\n.....\n.#.#.\n.....\n.#.#.\n.....\n\n\nA1. Move aloft! (5) ~ .....\nA4. Hearing I'll get passage (5) ~ .....\nA5. Monarchs in hiking shoes (5) ~ .....\n\nD1. Move aloft! (5) anagram & lit. 4 Hearing I'll get passage (5) homophone 5 Monarchs in hiking ~ .....\nD2. Actor Welles or male progeny (5) ~ .....\nD3. Accent all but the top lock of hair (5) ~ .....\n\n\nPrinted with puzzle:\nThe Warm-Up Puzzle at right features some of the major Öne part of each clue is a definition of the required answer, This two-part construction—definition plus extra hint—is the hallmark of a cryptic clue. Clue 1-Across, however, presents an exception. \"Move\ntypes of cryptic clues explained in past issues of Games. Warm-Up Puzzle * * With detailed explanations in and another part is a hint about the answer's literal makeup. for New Solvers\naloft\" in its entirety can be taken simply as the definition for the answer FLOAT. Or it can be seen as an instruction to rear i,    (,, ing the word FLOAT. So the clue leads a sort of double life, offer- ing both a definition and an instructive hint that perfectly coincide. Derrick Macnutt (\"Ximenes\"), an Englishman who pio- neered this kind of clue, labeled it “& lit.,\" meaning “and this is literally so!\" Other people have called it a \"read-it- again\" clue, since you can read it once for the definition and again for the hint. Here are two more examples: \"Part of arctic environment! (3).\" The answer, ICE, is of course an arctic feature, and it is also a part of the written phrase \"arctic Environment.\" \"Terribly angered! (7).\" The answer, ENRAGED, not only me, bo bea b b  b   b,, b an gered\" (presented \"terribly\"). Note: An exclamation point or question mark traditionally\naccompanies the \"& lit.\" clue as a warning to solvers to be\non their toes. More \"& lit.\" clues appear in the puzzle below at 1-Across, 13-Across, 2-Down, 7-Down, and 21-Down.\n\nAnother list that fits the grid, Down (1 lists fit Across and 3 Down, not two sets):\nD1. FRANK. The word FRANK in two different senses means \"open\" and \"hot dog.\nD2. ORSON. The word OR, plus the word SON (\"male progeny'), gives the answer ORSON (\"Actor Welles\").\nD3. TRESS. \"All but the top\" (i.e., all but the first letter) of the word STRESS (accent\") produces the answer TRESS (\"lock of hair\").\n\nAnother list that fits the grid, Down (1 lists fit Across and 3 Down, not two sets):\nD1. ASSIGNATION. Meet agent six four at bookshop near dropbox Monday at ten P.M. (Alphabet square reads in straight horizontals.)\nD2. THEY'RE ONTO US. Cancel further meetings with informant. He is being watched. (Upward verticals beginning in right column.)\nD3. FLYBOYS. Plan to penetrate enemy lines by parachute. Stand by for radio signal. (Alternating horizontals beginning at bottom left.) 4. BETRAYAL? Espionage data erroneous. Suspect X is double agent. (Spiral starting at center.)\n\nAssembly flags:\nno key found in this issue or the next\n\nText step, unsure:\nA5: 'shoes' is not visible in the packet; inferred from the explanation line\nD1: no clue in the packet: its slot held Across 1, 4 and 5 from the answer page\nD2: clue text comes from the Answer Drawer list, not the puzzle's page\nD3: same\n",
+ "xd_fp": "779d21c6baa2",
+ "packet": "games-8082/proof/run1-handsoff/games1982-05-01-L046",
+ "packet_xd": "bd26859ba605",
+ "decision": {
+  "rule": "grade",
+  "ai_ready": "both",
+  "why": "in xd/ as games1982-05-01e: graded incomplete: ships by its grade (ship_grades), with no person's Ready, no Not ready; ships incomplete, by its grade: 21 square(s) unsolved",
+  "said": [
+   {
+    "kind": "ai",
+    "answer": "notready",
+    "at": "2026-11-26",
+    "who": "Claude (AI proof reviewer, claude-opus-5-5)"
+   }
+  ]
+ },
+ "edits": {
+  "records": [],
+  "packet": [
+   {
+    "key": "clue:A1",
+    "what": "clue",
+    "before": "FLOAT. The word FLOAT, which means \"move aloft,\" is also the result of rearranging (\"moving\") the letters of ALOFT.",
+    "after": "Move aloft! (5)",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the slot held the Answer Drawer's explanation; the clue itself was read into the D1 line"
+   },
+   {
+    "key": "clue:A4",
+    "what": "clue",
+    "before": "AISLE. By \"hearing\" the word I'LL, or taking its homophone, you get the word AISLE, defined as \"passage.",
+    "after": "Hearing I'll get passage (5)",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: same: taken from the D1 line"
+   },
+   {
+    "key": "clue:A5",
+    "what": "clue",
+    "before": "KINGS. The word KINGS (\"monarchs\") is hidden in the phrase \"hiKING Shoes.'",
+    "after": "Monarchs in hiking shoes (5)",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: same: the D1 line is cut after 'hiking'; 'shoes' supplied from the explanation ('hiKING Shoes')"
+   },
+   {
+    "key": "clue:D2",
+    "what": "clue",
+    "before": "Actor Welles or male progeny (5) charade",
+    "after": "Actor Welles or male progeny (5)",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the Answer Drawer's clue-type tag 'charade' removed"
+   },
+   {
+    "key": "clue:D3",
+    "what": "clue",
+    "before": "Accent all but the top lock of hair (5) beheadment",
+    "after": "Accent all but the top lock of hair (5)",
+    "by": "AI reviewer · claude-fable-5-1",
+    "stage": "text review",
+    "why": "Changed by the AI reviewer: the Answer Drawer's clue-type tag 'beheadment' removed"
+   }
+  ]
+ },
+ "corrections": [],
+ "notes": [],
+ "proposals": [],
+ "typed": [],
+ "grade": {
+  "grade": "incomplete",
+  "why": "not whole: 21 square(s) unsolved; a page of the puzzle; a part confirmed not printed (gap:<pid>/<part> in the ledger, or the publication's rules: pubrules.py): labelled on the proof page; 1-Down's text is really Across 1, 4 and 5 run together (the D1 crop shows the Across list: 'Move aloft! (5) anagram & lit. / 4 Hearing I'll get passage (5) homophone / 5 Monarchs in hiking...'); 1-Down's own printed clue (answer FRANK, per the Answer Drawer: 'open' and 'hot dog') was never read. Cle (+1)",
+  "flags": 5,
+  "settled": null,
+  "doubts": [
+   {
+    "row": "meta:note",
+    "text": "2 candidate clue list(s) written into the notes (a packet from before candidates): rebuild the packet",
+    "code": "candidate-undecided",
+    "from": "ship check"
+   },
+   {
+    "row": "meta:note",
+    "text": "The second 'another list that fits the grid' (ASSIGNATION, THEY'RE ONTO US, FLYBOYS, BETRAYAL?) is another puzzle's answers (a spy code puzzle), not this one's. Drop it from the notes? Suggest: drop it",
+    "code": "ai-question",
+    "from": "Claude (AI proof reviewer, claude-opus-5-5)",
+    "kind": "extra"
+   },
+   {
+    "row": "",
+    "text": "Each clue is printed with an italic label naming its type (D1 crop: 'anagram & lit.', 'homophone'; D2: 'charade'; D3: 'beheadment'). The xd's Across clues and D2/D3 leave them out. Should the labels be kept in the clue text (e.g. 'Actor Welles or male progeny (5) [charade]')? Suggest: keep them, marked as the printed label",
+    "code": "ai-question",
+    "from": "Claude (AI proof reviewer, claude-opus-5-5)",
+    "kind": "convention"
+   },
+   {
+    "row": "clue:A5",
+    "text": "The puzzle-side crop cuts 5-Across after 'Monarchs in hiking'; 'shoes (5)' is inferred. The Answer Drawer crop quotes the hidden word as 'hiKING Shoes', which supports it. Confirm the line on the page? Suggest: keep 'Monarchs in hiking shoes (5)'",
+    "code": "ai-question",
+    "from": "Claude (AI proof reviewer, claude-opus-5-5)",
+    "kind": "clue-reading"
+   },
+   {
+    "row": "line:B1",
+    "text": "The printed introduction in the notes is garbled: two columns interleaved ('features some of the major Öne part of each clue...') and broken text ('rear i,    (,, ing', 'me, bo bea b b  b'). It needs re-reading from the page, not a word fix. Re-run its OCR? Suggest: re-read the introduction paragraph from the page",
+    "code": "ai-question",
+    "from": "Claude (AI proof reviewer, claude-opus-5-5)",
+    "kind": "clue-reading"
+   },
+   {
+    "row": "ev:title",
+    "text": "No title and no byline were found; the only heading is the feature 'Cryptic Warm-Up Puzzle' ('Warm-Up Puzzle ** for New Solvers'). Is the puzzle printed with no title or byline? Suggest: confirm none printed",
+    "code": "ai-question",
+    "from": "Claude (AI proof reviewer, claude-opus-5-5)",
+    "kind": "header"
+   }
+  ],
+  "gaps": [
+   {
+    "what": "21 square(s) unsolved",
+    "code": "grid-unsolved",
+    "stage": "key reading",
+    "detail": "",
+    "row": "grid",
+    "sub": "unsolved-squares"
+   },
+   {
+    "what": "a page of the puzzle",
+    "code": "request-page",
+    "stage": "harvest",
+    "detail": "the Warm-Up Puzzle as printed: heading ('Warm-Up Puzzle **'), grid and its six clues (Answer Drawer heading reads '41 Cryptic Warm-Up Puzzle')",
+    "row": "",
+    "sub": "page-not-found"
+   },
+   {
+    "what": "a part confirmed not printed (gap:<pid>/<part> in the ledger, or the publication's rules: pubrules.py): labelled on the proof page",
+    "code": "not-printed",
+    "stage": "",
+    "detail": "no key printed: confirmed by agent (remedy): Cryptic: GAMES's Answer Drawer prints cryptic answers as text explanations with no answer grid, so no key grid exists to match. Warm-up; Answer Drawer explanations only (page 71 for the 15x15 beside it).",
+    "row": "",
+    "sub": "no-key"
+   },
+   {
+    "what": "1-Down's text is really Across 1, 4 and 5 run together (the D1 crop shows the Across list: 'Move aloft! (5) anagram & lit. / 4 Hearing I'll get passage (5) homophone / 5 Monarchs in hiking...'); 1-Down's own printed clue (answer FRANK, per the Answer Drawer: 'open' and 'hot dog') was never read. Cle",
+    "code": "ai-missing",
+    "stage": "",
+    "detail": "Claude (AI proof reviewer, claude-opus-5-5); suggest: drop the Across text from D1 and read its clue from the page",
+    "row": "clue:D1",
+    "sub": "part-missing"
+   },
+   {
+    "what": "All 21 squares are unsolved: no key was found. The Answer Drawer's explanations in the notes give FLOAT, AISLE, KINGS across and FRANK, ORSON, TRESS down. Should the solution be taken from that explanation list (a stage fix, not typed here)?",
+    "code": "ai-missing",
+    "stage": "",
+    "detail": "Claude (AI proof reviewer, claude-opus-5-5); suggest: fill the grid from the Answer Drawer explanations via the pipeline",
+    "row": "grid",
+    "sub": "part-missing"
+   }
+  ],
+  "lacks": [
+   "no-key",
+   "page-not-found",
+   "unsolved-squares",
+   "part-missing"
+  ]
+ },
+ "printed": [
+  {
+   "label": "intro",
+   "text": "The Warm-Up Puzzle at right features some of the major Öne part of each clue is a definition of the required answer, This two-part construction—definition plus extra hint—is the hallmark of a cryptic clue. Clue 1-Across, however, presents an exception. \"Move"
+  },
+  {
+   "label": "intro",
+   "text": "types of cryptic clues explained in past issues of Games. Warm-Up Puzzle * * With detailed explanations in and another part is a hint about the answer's literal makeup. for New Solvers"
+  },
+  {
+   "label": "intro",
+   "text": "aloft\" in its entirety can be taken simply as the definition for the answer FLOAT. Or it can be seen as an instruction to rear i,    (,, ing the word FLOAT. So the clue leads a sort of double life, offer- ing both a definition and an instructive hint that perfectly coincide. Derrick Macnutt (\"Ximenes\"), an Englishman who pio- neered this kind of clue, labeled it “& lit.,\" meaning “and this is literally so!\" Other people have called it a \"read-it- again\" clue, since you can read it once for the definition and again for the hint. Here are two more examples: \"Part of arctic environment! (3).\" The answer, ICE, is of course an arctic feature, and it is also a part of the written phrase \"arctic Environment.\" \"Terribly angered! (7).\" The answer, ENRAGED, not only me, bo bea b b  b   b,, b an gered\" (presented \"terribly\"). Note: An exclamation point or question mark traditionally"
+  },
+  {
+   "label": "intro",
+   "text": "accompanies the \"& lit.\" clue as a warning to solvers to be"
+  },
+  {
+   "label": "intro",
+   "text": "on their toes. More \"& lit.\" clues appear in the puzzle below at 1-Across, 13-Across, 2-Down, 7-Down, and 21-Down."
+  }
+ ],
+ "edition": {
+  "status": "made",
+  "path": "edition/games1982-05-01e.xd",
+  "xd": "Date: 1982-05-01\nSolution: none\nSource: https://archive.org/details/Games-Magazine-May-June-1982-images/page/n46/mode/2up\nClue-Source: https://archive.org/details/Games-Magazine-May-June-1982-images/page/n46/mode/2up https://archive.org/details/Games-Magazine-May-June-1982-images/page/n80/mode/2up\nAssembly: hands-off: the harvest's regions, parts linked by assembly (xword-ocr), no person's edits\nFeature: Cryptic Warm-Up Puzzle\nText-Review: AI reviewer (claude-fable-5-1): 9 change(s), listed in the review\n\n\n.....\n.#.#.\n.....\n.#.#.\n.....\n\n\nA1. Move aloft! (5) ~ .....\nA4. Hearing I'll get passage (5) ~ .....\nA5. Monarchs in hiking shoes (5) ~ .....\n\nD1. Move aloft! (5) anagram & lit. 4 Hearing I'll get passage (5) homophone 5 Monarchs in hiking ~ .....\nD2. Actor Welles or male progeny (5) ~ .....\nD3. Accent all but the top lock of hair (5) ~ .....\n\n\nPrinted with puzzle:\nThe Warm-Up Puzzle at right features some of the major Öne part of each clue is a definition of the required answer, This two-part construction—definition plus extra hint—is the hallmark of a cryptic clue. Clue 1-Across, however, presents an exception. \"Move\ntypes of cryptic clues explained in past issues of Games. Warm-Up Puzzle * * With detailed explanations in and another part is a hint about the answer's literal makeup. for New Solvers\naloft\" in its entirety can be taken simply as the definition for the answer FLOAT. Or it can be seen as an instruction to rear i,    (,, ing the word FLOAT. So the clue leads a sort of double life, offer- ing both a definition and an instructive hint that perfectly coincide. Derrick Macnutt (\"Ximenes\"), an Englishman who pio- neered this kind of clue, labeled it “& lit.,\" meaning “and this is literally so!\" Other people have called it a \"read-it- again\" clue, since you can read it once for the definition and again for the hint. Here are two more examples: \"Part of arctic environment! (3).\" The answer, ICE, is of course an arctic feature, and it is also a part of the written phrase \"arctic Environment.\" \"Terribly angered! (7).\" The answer, ENRAGED, not only me, bo bea b b  b   b,, b an gered\" (presented \"terribly\"). Note: An exclamation point or question mark traditionally\naccompanies the \"& lit.\" clue as a warning to solvers to be\non their toes. More \"& lit.\" clues appear in the puzzle below at 1-Across, 13-Across, 2-Down, 7-Down, and 21-Down.\n\nAnother list that fits the grid, Down (1 lists fit Across and 3 Down, not two sets):\nD1. FRANK. The word FRANK in two different senses means \"open\" and \"hot dog.\nD2. ORSON. The word OR, plus the word SON (\"male progeny'), gives the answer ORSON (\"Actor Welles\").\nD3. TRESS. \"All but the top\" (i.e., all but the first letter) of the word STRESS (accent\") produces the answer TRESS (\"lock of hair\").\n\nAnother list that fits the grid, Down (1 lists fit Across and 3 Down, not two sets):\nD1. ASSIGNATION. Meet agent six four at bookshop near dropbox Monday at ten P.M. (Alphabet square reads in straight horizontals.)\nD2. THEY'RE ONTO US. Cancel further meetings with informant. He is being watched. (Upward verticals beginning in right column.)\nD3. FLYBOYS. Plan to penetrate enemy lines by parachute. Stand by for radio signal. (Alternating horizontals beginning at bottom left.) 4. BETRAYAL? Espionage data erroneous. Suspect X is double agent. (Spiral starting at center.)\n\nAssembly flags:\nno key found in this issue or the next\n\nText step, unsure:\nA5: 'shoes' is not visible in the packet; inferred from the explanation line\nD1: no clue in the packet: its slot held Across 1, 4 and 5 from the answer page\nD2: clue text comes from the Answer Drawer list, not the puzzle's page\nD3: same\n\nPuzzle notes:\nThe Warm-Up Puzzle at right features some of the major Öne part of each clue is a definition of the required answer, This two-part construction—definition plus extra hint—is the hallmark of a cryptic clue. Clue 1-Across, however, presents an exception. \"Move\ntypes of cryptic clues explained in past issues of Games. Warm-Up Puzzle * * With detailed explanations in and another part is a hint about the answer's literal makeup. for New Solvers\naloft\" in its entirety can be taken simply as the definition for the answer FLOAT. Or it can be seen as an instruction to rear i,    (,, ing the word FLOAT. So the clue leads a sort of double life, offer- ing both a definition and an instructive hint that perfectly coincide. Derrick Macnutt (\"Ximenes\"), an Englishman who pio- neered this kind of clue, labeled it “& lit.,\" meaning “and this is literally so!\" Other people have called it a \"read-it- again\" clue, since you can read it once for the definition and again for the hint. Here are two more examples: \"Part of arctic environment! (3).\" The answer, ICE, is of course an arctic feature, and it is also a part of the written phrase \"arctic Environment.\" \"Terribly angered! (7).\" The answer, ENRAGED, not only me, bo bea b b  b   b,, b an gered\" (presented \"terribly\"). Note: An exclamation point or question mark traditionally\naccompanies the \"& lit.\" clue as a warning to solvers to be\non their toes. More \"& lit.\" clues appear in the puzzle below at 1-Across, 13-Across, 2-Down, 7-Down, and 21-Down.\n",
+  "xd_fp": "911fbc0330ed",
+  "sha256": "70c59d04700cf9219804a76761a4bf31dc236a459963506ef6d3ee876e2bbf2c",
+  "held": [],
+  "corrections": [],
+  "declined": [],
+  "notes": [
+   "The Warm-Up Puzzle at right features some of the major Öne part of each clue is a definition of the required answer, This two-part construction—definition plus extra hint—is the hallmark of a cryptic clue. Clue 1-Across, however, presents an exception. \"Move",
+   "types of cryptic clues explained in past issues of Games. Warm-Up Puzzle * * With detailed explanations in and another part is a hint about the answer's literal makeup. for New Solvers",
+   "aloft\" in its entirety can be taken simply as the definition for the answer FLOAT. Or it can be seen as an instruction to rear i,    (,, ing the word FLOAT. So the clue leads a sort of double life, offer- ing both a definition and an instructive hint that perfectly coincide. Derrick Macnutt (\"Ximenes\"), an Englishman who pio- neered this kind of clue, labeled it “& lit.,\" meaning “and this is literally so!\" Other people have called it a \"read-it- again\" clue, since you can read it once for the definition and again for the hint. Here are two more examples: \"Part of arctic environment! (3).\" The answer, ICE, is of course an arctic feature, and it is also a part of the written phrase \"arctic Environment.\" \"Terribly angered! (7).\" The answer, ENRAGED, not only me, bo bea b b  b   b,, b an gered\" (presented \"terribly\"). Note: An exclamation point or question mark traditionally",
+   "accompanies the \"& lit.\" clue as a warning to solvers to be",
+   "on their toes. More \"& lit.\" clues appear in the puzzle below at 1-Across, 13-Across, 2-Down, 7-Down, and 21-Down."
+  ],
+  "kinds": [
+   "notes"
+  ],
+  "notes_from": "no Notes rule recorded: the default (intro, instructions)"
+ }
+}
